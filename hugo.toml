@@ -1,0 +1,4 @@
+baseURL = "https://glade-advisory.netlify.app/"
+languageCode = "en-us"
+title = "Glade Advisory Group"
+theme = "blowfish"
