@@ -1,6 +1,11 @@
-[build]
-  command = "hugo"
-  publish = "public"
+---
+title = "Glade Advisory Group"
+---
 
-[build.environment]
-  HUGO_VERSION = "0.162.0"
+# Glade Advisory Group
+
+Commercial strategy. Growth. AI.
+
+The weakest link sets the ceiling.
+
+We help CEOs build profitable growth.
