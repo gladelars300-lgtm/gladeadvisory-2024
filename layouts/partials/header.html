@@ -1,0 +1,15 @@
+{{- $tr := .AllTranslations }}
+{{- if lt (len $tr) 2 }}{{ $tr = site.Home.AllTranslations }}{{ end }}
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="{{ site.Home.RelPermalink }}">Glade Advisory Group</a>
+    <nav class="header-nav" aria-label="{{ i18n "langs" }}">
+      <ul class="langs">
+      {{- range $tr }}
+        <li><a href="{{ .RelPermalink }}" hreflang="{{ .Language.Locale }}" lang="{{ .Language.Locale }}" title="{{ .Language.Label }}" aria-label="{{ .Language.Label }}"{{ if eq .Lang site.Language.Lang }} aria-current="true"{{ end }}>{{ upper .Lang }}</a></li>
+      {{- end }}
+      </ul>
+      <a class="header-cta" href="{{ site.Home.RelPermalink }}#contact">{{ i18n "contact" }}</a>
+    </nav>
+  </div>
+</header>

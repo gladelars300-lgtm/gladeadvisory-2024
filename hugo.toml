@@ -1,3 +1,58 @@
+# Netlify overrides baseURL at build time with its own $URL (see netlify.toml),
+# so canonicals follow whatever domain is set as primary in Netlify.
+# This value is only used for local builds.
 baseURL = "https://glade-advisory.netlify.app/"
-languageCode = "en-us"
 title = "Glade Advisory Group"
+
+defaultContentLanguage = "da"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "rss"]
+
+[params]
+  companyLegalName = "Glade Advisory Group ApS"
+  cvr = "46653823"
+  # Contact address used by every CTA. Confirm it receives mail before launch.
+  contactEmail = "lag@gladeadvisorygroup.dk"
+  # Language used as x-default in hreflang (best entry for unmatched languages).
+  xDefaultLang = "en"
+
+[languages]
+  [languages.da]
+    label = "Dansk"
+    locale = "da"
+    weight = 1
+    [languages.da.params]
+      ogLocale = "da_DK"
+  [languages.en]
+    label = "English"
+    locale = "en"
+    weight = 2
+    [languages.en.params]
+      ogLocale = "en_GB"
+  [languages.de]
+    label = "Deutsch"
+    locale = "de"
+    weight = 3
+    [languages.de.params]
+      ogLocale = "de_DE"
+  [languages.sv]
+    label = "Svenska"
+    locale = "sv"
+    weight = 4
+    [languages.sv.params]
+      ogLocale = "sv_SE"
+  # Norwegian Bokmål: URL prefix /no/, but html lang and hreflang use locale "nb".
+  [languages.no]
+    label = "Norsk"
+    locale = "nb"
+    weight = 5
+    [languages.no.params]
+      ogLocale = "nb_NO"
+
+[sitemap]
+  changeFreq = "monthly"
+  priority = 1.0
+
+[minify.tdewolff.html]
+  keepWhitespace = false
