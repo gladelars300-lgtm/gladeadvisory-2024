@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ site.Params.hreflang }}">
+<head>
+  {{ partial "seo.html" . }}
+  <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+</head>
+<body>
+  <a class="skip" href="#main">{{ i18n "skipToContent" }}</a>
+  {{ partial "header.html" . }}
+  <main id="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
+</body>
+</html>

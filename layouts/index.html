@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="wrap">
+    <h1>{{ .Params.headline | default .Title }}</h1>
+    {{ with .Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+{{ with .Params.services }}
+<section class="services">
+  <div class="wrap">
+    <h2>{{ i18n "services" }}</h2>
+    <ul class="cards">
+      {{ range . }}<li>{{ . }}</li>{{ end }}
+    </ul>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Content }}
+<section class="body">
+  <div class="wrap prose">{{ . }}</div>
+</section>
+{{ end }}
+{{ end }}

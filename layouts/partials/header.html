@@ -1,0 +1,25 @@
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ site.Home.RelPermalink }}">{{ site.Params.brand }}</a>
+    <nav class="lang" aria-label="{{ i18n "language" }}">
+      <ul>
+        {{- $current := site.Language.Lang }}
+        {{- /* Prefer the translated version of this page; fall back to that language's home. */}}
+        {{- $translations := dict }}
+        {{- range .AllTranslations }}{{ $translations = merge $translations (dict .Language.Lang .) }}{{ end }}
+        {{- range site.Languages }}
+          {{- $target := index $translations .Lang }}
+          {{- $href := "" }}
+          {{- with $target }}{{ $href = .RelPermalink }}{{ else }}{{ $href = (printf "/%s/" .Lang) }}{{ if eq .Lang "en" }}{{ $href = "/" }}{{ end }}{{ end }}
+          <li>
+            {{- if eq .Lang $current }}
+            <span aria-current="true" lang="{{ .Params.hreflang }}">{{ .LanguageName }}</span>
+            {{- else }}
+            <a href="{{ $href }}" hreflang="{{ .Params.hreflang }}" lang="{{ .Params.hreflang }}">{{ .LanguageName }}</a>
+            {{- end }}
+          </li>
+        {{- end }}
+      </ul>
+    </nav>
+  </div>
+</header>

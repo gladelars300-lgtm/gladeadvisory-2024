@@ -1,3 +1,72 @@
+# Glade Advisory Group — multilingual Hugo site (no theme).
+# IMPORTANT: if the site moves to a custom domain, change baseURL here.
+# canonical, hreflang, sitemap and robots.txt are all built from it.
 baseURL = "https://glade-advisory.netlify.app/"
-languageCode = "en-us"
 title = "Glade Advisory Group"
+
+defaultContentLanguage = "en"
+# English is served at "/", the other languages at /da/, /de/, /sv/, /no/.
+defaultContentLanguageInSubdir = false
+
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[sitemap]
+  changeFreq = "monthly"
+  priority = 0.5
+
+[params]
+  brand = "Glade Advisory Group"
+
+# hreflang: ISO 639-1 language codes. Norwegian uses "nb" (Bokmål), which
+# Google recognises; the URL folder stays /no/ for readability.
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 1
+    title = "Glade Advisory Group"
+    [languages.en.params]
+      hreflang = "en"
+      ogLocale = "en_GB"
+      tagline = "Commercial Strategy & Growth"
+
+  [languages.da]
+    languageName = "Dansk"
+    languageCode = "da"
+    weight = 2
+    title = "Glade Advisory Group"
+    [languages.da.params]
+      hreflang = "da"
+      ogLocale = "da_DK"
+      tagline = "Kommerciel strategi og vækst"
+
+  [languages.de]
+    languageName = "Deutsch"
+    languageCode = "de"
+    weight = 3
+    title = "Glade Advisory Group"
+    [languages.de.params]
+      hreflang = "de"
+      ogLocale = "de_DE"
+      tagline = "Kommerzielle Strategie & Wachstum"
+
+  [languages.sv]
+    languageName = "Svenska"
+    languageCode = "sv"
+    weight = 4
+    title = "Glade Advisory Group"
+    [languages.sv.params]
+      hreflang = "sv"
+      ogLocale = "sv_SE"
+      tagline = "Kommersiell strategi och tillväxt"
+
+  [languages.no]
+    languageName = "Norsk"
+    languageCode = "nb"
+    weight = 5
+    title = "Glade Advisory Group"
+    [languages.no.params]
+      hreflang = "nb"
+      ogLocale = "nb_NO"
+      tagline = "Kommersiell strategi og vekst"

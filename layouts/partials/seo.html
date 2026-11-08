@@ -1,0 +1,57 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{- $title := cond .IsHome (printf "%s – %s" site.Title site.Params.tagline) (printf "%s | %s" .Title site.Title) }}
+{{- with .Params.seoTitle }}{{ $title = . }}{{ end }}
+{{- $desc := .Description | default site.Params.tagline }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $desc }}">
+{{- if .Draft }}
+<meta name="robots" content="noindex">
+{{- end }}
+
+{{/* Canonical: every language version points to itself, never to English. */}}
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* hreflang: self + all translations, plus x-default -> English version. */}}
+{{- if .IsTranslated }}
+{{- range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Site.Params.hreflang }}" href="{{ .Permalink }}">
+{{- end }}
+{{- range .AllTranslations }}
+{{- if eq .Language.Lang "en" }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{- end }}
+{{- end }}
+{{- end }}
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.Params.brand }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:locale" content="{{ site.Params.ogLocale }}">
+{{- range .Translations }}
+<meta property="og:locale:alternate" content="{{ .Site.Params.ogLocale }}">
+{{- end }}
+<meta name="twitter:card" content="summary">
+
+{{- if .IsHome }}
+{{- $org := dict
+  "@context" "https://schema.org"
+  "@type" "ProfessionalService"
+  "name" site.Params.brand
+  "url" site.Home.Permalink
+  "description" $desc
+  "slogan" (i18n "slogan")
+  "knowsAbout" (slice "Commercial Strategy" "Growth Strategy" "Customer Economics" "Go-to-Market Design")
+}}
+<script type="application/ld+json">{{ $org | jsonify | safeJS }}</script>
+{{- $web := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "name" site.Params.brand
+  "url" site.Home.Permalink
+  "inLanguage" site.Params.hreflang
+}}
+<script type="application/ld+json">{{ $web | jsonify | safeJS }}</script>
+{{- end }}

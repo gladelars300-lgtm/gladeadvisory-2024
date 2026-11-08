@@ -1,0 +1,7 @@
+# Netlify's default Hugo is very old; pin the version the templates are tested with.
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.152.2"

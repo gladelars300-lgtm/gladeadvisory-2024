@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ site.Params.hreflang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>{{ i18n "notFoundTitle" }} | {{ site.Title }}</title>
+  <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+</head>
+<body>
+  <main id="main" class="wrap prose">
+    <h1>{{ i18n "notFoundTitle" }}</h1>
+    <p><a href="{{ site.Home.RelPermalink }}">{{ i18n "backHome" }}</a></p>
+  </main>
+</body>
+</html>
