@@ -1,0 +1,37 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{- $is404 := eq .Kind "404" }}
+{{- $title := .Params.seo_title | default (printf "%s | %s" .Title site.Title) }}
+{{- if $is404 }}{{ $title = printf "%s | %s" (i18n "nf_title") site.Title }}{{ end }}
+<title>{{ $title }}</title>
+{{- if $is404 }}
+<meta name="robots" content="noindex">
+{{- else }}
+<meta name="description" content="{{ .Description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{- range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Locale }}" href="{{ .Permalink }}">
+{{- end }}
+{{- range where .AllTranslations "Lang" site.Params.xDefaultLang }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{- end }}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ .Description }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:locale" content="{{ site.Language.Params.ogLocale }}">
+{{- range .Translations }}
+<meta property="og:locale:alternate" content="{{ .Site.Language.Params.ogLocale }}">
+{{- end }}
+<meta name="twitter:card" content="summary">
+{{- if .IsHome }}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@type" "ProfessionalService" "name" site.Params.companyLegalName "alternateName" site.Title "url" .Permalink "description" .Description "email" site.Params.contactEmail "inLanguage" site.Language.Locale | jsonify | safeJS }}
+</script>
+{{- end }}
+{{- end }}
+<meta name="theme-color" content="#14382c">
+<link rel="icon" href="{{ "favicon.svg" | absURL }}" type="image/svg+xml">
+{{- $css := resources.Get "css/main.css" | minify }}
+<style>{{ $css.Content | safeCSS }}</style>

@@ -1,0 +1,17 @@
+# Netlify build settings. $URL is the site's primary URL in Netlify: the custom
+# domain once one is set as primary, otherwise glade-advisory.netlify.app.
+# Canonical, hreflang and sitemap URLs therefore follow the primary domain.
+[build]
+  command = "hugo --gc --minify --baseURL $URL"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.169.0"
+
+# Previews and branch deploys use their own URL so the root redirect stays on
+# the preview. Netlify serves these with X-Robots-Tag: noindex.
+[context.deploy-preview]
+  command = "hugo --gc --minify --baseURL $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify --baseURL $DEPLOY_PRIME_URL"

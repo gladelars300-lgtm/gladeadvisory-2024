@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{- $p := .Params }}
+{{- $mail := printf "mailto:%s?subject=%s" site.Params.contactEmail (i18n "subject" | urlquery | replaceRE `\+` "%20") }}
+<section class="hero">
+  <div class="wrap">
+    <h1>{{ $p.hero.heading }}</h1>
+    <p class="lead">{{ $p.hero.lead }}</p>
+    <p class="tagline"><strong>{{ $p.hero.tagline }}</strong></p>
+    <p><a class="btn" href="#contact">{{ $p.hero.cta }}</a></p>
+  </div>
+</section>
+
+<section class="intro" aria-labelledby="intro-h">
+  <div class="wrap split">
+    <h2 id="intro-h">{{ $p.intro.heading }}</h2>
+    <div class="prose">
+      {{- range $p.intro.paragraphs }}
+      <p>{{ . }}</p>
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+<section class="services" id="services" aria-labelledby="services-h">
+  <div class="wrap">
+    <p class="eyebrow">{{ i18n "services_label" }}</p>
+    <h2 id="services-h">{{ $p.services.heading }}</h2>
+    <ul class="cards" role="list">
+      {{- range $i, $s := $p.services.items }}
+      <li class="card">
+        <span class="num" aria-hidden="true">{{ printf "%02d" (add $i 1) }}</span>
+        <h3>{{ $s.title }}</h3>
+        <p>{{ $s.text }}</p>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</section>
+
+<section class="process" aria-labelledby="process-h">
+  <div class="wrap">
+    <p class="eyebrow">{{ i18n "steps_label" }}</p>
+    <h2 id="process-h">{{ $p.process.heading }}</h2>
+    <ol class="steps">
+      {{- range $p.process.steps }}
+      <li><strong>{{ .title }}:</strong> {{ .text }}</li>
+      {{- end }}
+    </ol>
+  </div>
+</section>
+
+<section class="about" aria-labelledby="about-h">
+  <div class="wrap split">
+    <h2 id="about-h">{{ $p.about.heading }}</h2>
+    <div class="prose">
+      {{- range $p.about.paragraphs }}
+      <p>{{ . }}</p>
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+<section class="contact" id="contact" aria-labelledby="contact-h">
+  <div class="wrap">
+    <h2 id="contact-h">{{ $p.contact.heading }}</h2>
+    {{- range $p.contact.paragraphs }}
+    <p class="lead">{{ . }}</p>
+    {{- end }}
+    <p><a class="btn btn-light" href="{{ $mail }}">{{ $p.contact.cta }}</a></p>
+    <p class="mail"><a href="mailto:{{ site.Params.contactEmail }}">{{ site.Params.contactEmail }}</a></p>
+  </div>
+</section>
+{{ end }}

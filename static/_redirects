@@ -1,0 +1,10 @@
+# Root goes to the Danish main version (the root page also has a meta refresh fallback).
+/      /da/   302!
+
+# Language-specific 404 pages
+/da/*  /da/404.html  404
+/en/*  /en/404.html  404
+/de/*  /de/404.html  404
+/sv/*  /sv/404.html  404
+/no/*  /no/404.html  404
+/*     /da/404.html  404
