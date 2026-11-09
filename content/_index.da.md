@@ -78,6 +78,10 @@ materials:
     title: Commercial Operating System
     text: 'Én multiplikativ logik for hele den kommercielle motor: brand × værditilbud × eksekvering.'
     meta: PDF · dansk
+  - file: marketing-operating-system.pdf
+    title: Marketing Operating System
+    text: 'Samme multiplikative logik anvendt på marketing: to motorer, akkvisition og base, med ét fælles lag.'
+    meta: PDF · dansk
   - file: pandora-pull-engine.pdf
     title: 'Pandora: The Pull Engine'
     text: Strategiperspektiv på Digital & Technology og den næste vækstfase.
@@ -89,5 +93,9 @@ materials:
   - file: tv2-2030.pdf
     title: TV 2 2030
     text: 'Fra reach-platform til relationel platform: hvad sælger TV 2 egentlig?'
+    meta: PDF · dansk
+  - file: tv2-18-24.pdf
+    title: 'TV 2: de 18-24-årige'
+    text: 'Hvordan TV 2 vinder de unge seere tilbage: tre hypoteser, fire faser med stop-punkter og pilot først.'
     meta: PDF · dansk
 ---
