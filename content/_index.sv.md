@@ -72,30 +72,77 @@ results:
     text: 'En asymmetrisk attack mot TDC:s fasta telefoni: 49 DKK i månaden mot cirka 350 DKK i kvartalet. Under samma period steg TDC:s kundbortfall i fast telefoni från cirka 12 % till 17–18 %.'
 materials:
   heading: Material
-  lead: Exempel på analyser och strategiunderlag. Öppnas som PDF.
-  items:
-  - file: commercial-operating-system.pdf
-    title: Commercial Operating System
-    text: 'En multiplikativ logik för hela den kommersiella motorn: varumärke × värdeerbjudande × genomförande.'
-    meta: PDF · danska
-  - file: marketing-operating-system.pdf
-    title: Marketing Operating System
-    text: 'Samma multiplikativa logik tillämpad på marknadsföring: två motorer, nyförvärv och befintlig bas, med ett gemensamt lager.'
-    meta: PDF · danska
-  - file: pandora-pull-engine.pdf
-    title: 'Pandora: The Pull Engine'
-    text: Ett strategiperspektiv på Digital & Technology och nästa tillväxtfas.
-    meta: PDF · engelska
-  - file: kilroy-positionering.pdf
-    title: 'Kilroy: positionering'
-    text: Från trattproblem till positioneringsproblem, med pilot och bevis före skalning.
-    meta: PDF · danska
-  - file: tv2-2030.pdf
-    title: TV 2 2030
-    text: 'Från räckviddsplattform till relationsplattform: vad säljer TV 2 egentligen?'
-    meta: PDF · danska
-  - file: tv2-18-24.pdf
-    title: 'TV 2: 18–24-åringarna'
-    text: 'Hur TV 2 vinner tillbaka unga tittare: tre hypoteser, fyra faser med stoppunkter och pilot först.'
-    meta: PDF · danska
+  lead: Underlag och analyser som visar arbetssättet i praktiken. Vart och ett visas med företaget och syftet det togs fram för. Öppnas som PDF.
+  groups:
+  - heading: Egna resultat
+    items:
+    - file: kundeoekonomi-i-praksis.pdf
+      context: Telenor 2012 · Fullrate 2014–15 · YouSee 2019
+      title: Kundekonomi i praktiken
+      text: Tre fall mätta mot kontrollgrupper, med originalkampanjerna som bilaga.
+      meta: PDF · danska
+  - heading: Metod
+    items:
+    - file: commercial-operating-system.pdf
+      context: Glade Advisory Group · egen metod
+      title: Commercial Operating System
+      text: 'En multiplikativ logik för hela den kommersiella motorn: varumärke × värdeerbjudande × genomförande.'
+      meta: PDF · danska
+    - file: marketing-operating-system.pdf
+      context: Glade Advisory Group · egen metod
+      title: Marketing Operating System
+      text: 'Samma logik tillämpad på marknadsföring: två motorer, nya och befintliga kunder, med ett gemensamt lager.'
+      meta: PDF · danska
+    - file: strategic-thinking-in-practice.pdf
+      context: Metodexempel · 2026
+      title: Strategic Thinking in Practice
+      text: Från diagnos via arkitektur och prioritering till genomförande, med ett genomgående exempel.
+      meta: PDF · engelska
+    - file: first-principles-commercial-excellence.pdf
+      context: First Principles Friday · 2026
+      title: First Principles of Commercial Excellence
+      text: 'När mekaniken har ersatt den kommersiella logiken: trigger, erbjudande, identitet och friktion.'
+      meta: PDF · engelska
+    - file: big-data-in-practice.pdf
+      context: Gästföreläsning · Erhvervsakademi København, 2026
+      title: Big Data in Practice
+      text: 'Från kunddata till bättre beslut: ett fall om kundlojalitet inom försäkring.'
+      meta: PDF · engelska
+  - heading: Strategiunderlag till företag
+    items:
+    - file: kilroy-positionering.pdf
+      context: Underlag till Kilroys kommersiella direktör · 2026
+      title: 'Kilroy: positionering'
+      text: Från trattproblem till positioneringsproblem, med pilot och bevis före skalning.
+      meta: PDF · danska
+    - file: verisure-salgsmaskine.pdf
+      context: Framtaget av Glade Advisory Group och delat med försäljningschefen på Verisure Danmark · 2026
+      title: 'Verisure: från leadjakt till säljmaskin'
+      text: 'Turnaround-analys av en fältsäljkår: hunters som bokar, closers som säljer och CRM som behåller.'
+      meta: PDF · danska
+    - file: pandora-pull-engine.pdf
+      context: Strategicase i rekryteringsprocess · Pandora, 2026
+      title: 'Pandora: The Pull Engine'
+      text: Ett strategiperspektiv på Digital & Technology och nästa tillväxtfas.
+      meta: PDF · engelska
+    - file: tv2-2030.pdf
+      context: Strategicase i rekryteringsprocess · TV 2, 2026
+      title: TV 2 2030
+      text: 'Från räckviddsplattform till relationsplattform: vad säljer TV 2 egentligen?'
+      meta: PDF · danska
+    - file: tv2-18-24.pdf
+      context: Strategicase i rekryteringsprocess · TV 2, 2026
+      title: 'TV 2: 18–24-åringarna'
+      text: Tre hypoteser, fyra faser med stoppunkter och pilot först.
+      meta: PDF · danska
+    - file: rockwool-demand-creation.pdf
+      context: Point of view till Rockwool · 2026
+      title: Own the Preference Before the Pipeline
+      text: Efterfrågan och lead nurture när affären formas i specifikationen, långt före upphandlingen.
+      meta: PDF · engelska
+    - file: clv-user-engagement.pdf
+      context: Arbetsprov i rekryteringsprocess · 2026
+      title: Kundvärde genom en sammanhållen kundresa
+      text: När resan är uppdelad mellan avdelningar är det ett organisationsproblem, inte ett CRM-problem.
+      meta: PDF · engelska
 ---

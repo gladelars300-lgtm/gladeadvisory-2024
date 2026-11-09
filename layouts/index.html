@@ -93,10 +93,13 @@
     <p class="eyebrow">{{ i18n "materials_label" }}</p>
     <h2 id="materials-h">{{ $p.materials.heading }}</h2>
     <p class="lead">{{ $p.materials.lead }}</p>
+    {{- range $p.materials.groups }}
+    <h3 class="docs-h">{{ .heading }}</h3>
     <ul class="docs" role="list">
-      {{- range $p.materials.items }}
+      {{- range .items }}
       <li>
         <a class="doc" href="{{ .file | absURL }}" target="_blank" rel="noopener">
+          <span class="doc-ctx">{{ .context }}</span>
           <span class="doc-title">{{ .title }}</span>
           <span class="doc-text">{{ .text }}</span>
           <span class="doc-meta">{{ .meta }} ↗</span>
@@ -104,6 +107,7 @@
       </li>
       {{- end }}
     </ul>
+    {{- end }}
   </div>
 </section>
 
