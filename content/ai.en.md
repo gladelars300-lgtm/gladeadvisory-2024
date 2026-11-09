@@ -166,6 +166,16 @@ sections:
       title: AI creates value only as an operating layer
       text: 'From ambition to documented P&L impact: architecture, measurement and governance as one discipline.'
       meta: PDF · Danish
+    - file: ai-i-praksis-hjemmeside-paa-en-formiddag.pdf
+      context: 'First Principles Friday · November 2026'
+      title: 'AI in practice: My website in one morning'
+      text: 'A how-to for non-technical readers: what AI did, what I did, and where it still hurts.'
+      meta: PDF · Danish
+    - file: ai-investering-mini-how-to.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Your own AI investment analyst'
+      text: 'Not an AI stock picker, but a bot that tests your thesis against new evidence.'
+      meta: PDF · English
   - heading: Teaching
     items:
     - file: ai-i-hr-todageskursus.pdf

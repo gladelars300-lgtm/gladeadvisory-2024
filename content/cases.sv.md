@@ -144,6 +144,23 @@ sections:
       title: Kundvärde genom en sammanhållen kundresa
       text: När resan är uppdelad mellan avdelningar är det ett organisationsproblem, inte ett CRM-problem.
       meta: PDF · engelska
+    - file: sky-watch-kill-chain.pdf
+      context: 'Go-to-market-förslag till Sky-Watch · 2026'
+      title: 'Know your kill chain'
+      text: 'B2B-tillväxtmarknadsföring för en dansk drönartillverkare: vinn kravspecifikationen innan upphandlingen publiceras.'
+      meta: PDF · danska
+  - heading: 'Metoder för offentliga kunder'
+    items:
+    - file: klods-hans-modellen.pdf
+      context: 'Förslag till kommuner · 2026'
+      title: 'Klods Hans-modellen'
+      text: 'En didaktisk metod för neurodivergenta unga och vuxna, med pilot och i förväg fastställda effektmål.'
+      meta: PDF · danska
+    - file: taerskelmodellen.pdf
+      context: 'Förslag till kommuner · 2026'
+      title: 'Tröskelmodellen'
+      text: 'En metod för medborgare som fastnat i åratal av offentlig försörjning, med pilot och i förväg fastställda effektmål.'
+      meta: PDF · danska
 - type: contact
   heading: Ska vi prata om ert nästa kommersiella steg?
   paragraphs:

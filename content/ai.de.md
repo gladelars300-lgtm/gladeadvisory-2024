@@ -166,6 +166,16 @@ sections:
       title: KI schafft erst als Betriebsebene Wert
       text: 'Von der Ambition zur dokumentierten Wirkung in der GuV: Architektur, Wirkungsmessung und Governance als eine Disziplin.'
       meta: PDF · Dänisch
+    - file: ai-i-praksis-hjemmeside-paa-en-formiddag.pdf
+      context: 'First Principles Friday · November 2026'
+      title: 'KI in der Praxis: Meine Website an einem Vormittag'
+      text: 'Eine Anleitung für Nicht-Techniker: was die KI tat, was ich tat und wo es noch wehtut.'
+      meta: PDF · Dänisch
+    - file: ai-investering-mini-how-to.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Ihr eigener KI-Investmentanalyst'
+      text: 'Kein KI-Aktienpicker, sondern ein Bot, der Ihre These an neuen Belegen prüft.'
+      meta: PDF · Englisch
   - heading: Lehre
     items:
     - file: ai-i-hr-todageskursus.pdf

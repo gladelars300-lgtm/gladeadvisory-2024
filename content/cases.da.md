@@ -144,6 +144,23 @@ sections:
       title: Kundeværdi gennem samlet brugerrejse
       text: Når rejsen er splittet mellem afdelinger, er det et organisationsproblem, ikke et CRM-problem.
       meta: PDF · engelsk
+    - file: sky-watch-kill-chain.pdf
+      context: 'Go-to-market-oplæg til Sky-Watch · 2026'
+      title: 'Know your kill chain'
+      text: 'B2B-growth marketing for en dansk droneproducent: vind kravspecifikationen, før udbuddet udkommer.'
+      meta: PDF · dansk
+  - heading: 'Metoder til offentlige kunder'
+    items:
+    - file: klods-hans-modellen.pdf
+      context: 'Oplæg til kommuner · 2026'
+      title: 'Klods Hans-modellen'
+      text: 'En didaktisk metode for neurodivergente unge og voksne, med pilot og forhåndsdefinerede effektmål.'
+      meta: PDF · dansk
+    - file: taerskelmodellen.pdf
+      context: 'Oplæg til kommuner · 2026'
+      title: 'Tærskelmodellen'
+      text: 'En metode for borgere, der er fastlåst i årelang offentlig forsørgelse, med pilot og forhåndsdefinerede effektmål.'
+      meta: PDF · dansk
 - type: contact
   heading: Skal vi tale om jeres næste kommercielle skridt?
   paragraphs:

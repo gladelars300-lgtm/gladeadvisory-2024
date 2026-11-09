@@ -166,6 +166,16 @@ sections:
       title: AI skaper verdi først som driftslag
       text: 'Fra ambisjon til dokumentert effekt i resultatet: arkitektur, effektmåling og styring som én disiplin.'
       meta: PDF · dansk
+    - file: ai-i-praksis-hjemmeside-paa-en-formiddag.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'AI i praksis: Nettsiden min på en formiddag'
+      text: 'En veiledning for ikke-teknikere: hva AI gjorde, hva jeg gjorde, og hvor det fortsatt gjør vondt.'
+      meta: PDF · dansk
+    - file: ai-investering-mini-how-to.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Din egen AI-investeringsanalytiker'
+      text: 'Ikke en AI som velger aksjer, men en bot som tester tesen din mot ny evidens.'
+      meta: PDF · engelsk
   - heading: Undervisning
     items:
     - file: ai-i-hr-todageskursus.pdf

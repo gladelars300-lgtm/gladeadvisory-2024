@@ -144,6 +144,23 @@ sections:
       title: Customer lifetime value through one user journey
       text: When the journey is split between departments, it is an organisational problem, not a CRM problem.
       meta: PDF · English
+    - file: sky-watch-kill-chain.pdf
+      context: 'Go-to-market pitch to Sky-Watch · 2026'
+      title: 'Know your kill chain'
+      text: 'B2B growth marketing for a Danish drone maker: win the requirement specification before the tender is published.'
+      meta: PDF · Danish
+  - heading: 'Methods for public-sector clients'
+    items:
+    - file: klods-hans-modellen.pdf
+      context: 'Pitch to municipalities · 2026'
+      title: 'The Klods Hans Model'
+      text: 'A teaching method for neurodivergent young people and adults, with a pilot and effect measures set in advance.'
+      meta: PDF · Danish
+    - file: taerskelmodellen.pdf
+      context: 'Pitch to municipalities · 2026'
+      title: 'The Threshold Model'
+      text: 'A method for citizens stuck in years of public support, with a pilot and effect measures set in advance.'
+      meta: PDF · Danish
 - type: contact
   heading: Shall we talk about your next commercial move?
   paragraphs:

@@ -144,6 +144,23 @@ sections:
       title: Kundeverdi gjennom én samlet kundereise
       text: Når reisen er delt mellom avdelinger, er det et organisasjonsproblem, ikke et CRM-problem.
       meta: PDF · engelsk
+    - file: sky-watch-kill-chain.pdf
+      context: 'Go-to-market-forslag til Sky-Watch · 2026'
+      title: 'Know your kill chain'
+      text: 'B2B-vekstmarkedsføring for en dansk droneprodusent: vinn kravspesifikasjonen før anbudet publiseres.'
+      meta: PDF · dansk
+  - heading: 'Metoder for offentlige kunder'
+    items:
+    - file: klods-hans-modellen.pdf
+      context: 'Forslag til kommuner · 2026'
+      title: 'Klods Hans-modellen'
+      text: 'En didaktisk metode for nevrodivergente unge og voksne, med pilot og forhåndsdefinerte effektmål.'
+      meta: PDF · dansk
+    - file: taerskelmodellen.pdf
+      context: 'Forslag til kommuner · 2026'
+      title: 'Terskelmodellen'
+      text: 'En metode for borgere som sitter fast i årevis på offentlig stønad, med pilot og forhåndsdefinerte effektmål.'
+      meta: PDF · dansk
 - type: contact
   heading: Skal vi snakke om deres neste kommersielle steg?
   paragraphs:

@@ -166,6 +166,16 @@ sections:
       title: AI skapar värde först som driftlager
       text: 'Från ambition till dokumenterad effekt i resultatet: arkitektur, effektmätning och styrning som en disciplin.'
       meta: PDF · danska
+    - file: ai-i-praksis-hjemmeside-paa-en-formiddag.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'AI i praktiken: Min webbplats på en förmiddag'
+      text: 'En guide för icke-tekniker: vad AI gjorde, vad jag gjorde och var det fortfarande gör ont.'
+      meta: PDF · danska
+    - file: ai-investering-mini-how-to.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Din egen AI-investeringsanalytiker'
+      text: 'Inte en AI som väljer aktier, utan en bot som testar din tes mot ny evidens.'
+      meta: PDF · engelska
   - heading: Undervisning
     items:
     - file: ai-i-hr-todageskursus.pdf

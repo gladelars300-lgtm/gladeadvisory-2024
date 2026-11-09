@@ -166,6 +166,16 @@ sections:
       title: AI skaber først værdi som driftslag
       text: 'Fra ambition til dokumenteret effekt i P&L: arkitektur, effektmåling og governance som én disciplin.'
       meta: PDF · dansk
+    - file: ai-i-praksis-hjemmeside-paa-en-formiddag.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'AI i praksis: Min hjemmeside på en formiddag'
+      text: 'En how-to for ikke-teknikere: hvad AI gjorde, hvad jeg gjorde, og hvor det stadig gør ondt.'
+      meta: PDF · dansk
+    - file: ai-investering-mini-how-to.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Din egen AI-investeringsanalytiker'
+      text: 'Ikke en AI, der vælger aktier, men en bot, der tester din tese mod ny evidens.'
+      meta: PDF · engelsk
   - heading: Undervisning
     items:
     - file: ai-i-hr-todageskursus.pdf

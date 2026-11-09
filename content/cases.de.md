@@ -144,6 +144,23 @@ sections:
       title: Kundenwert durch eine durchgängige Nutzerreise
       text: Ist die Reise auf Abteilungen verteilt, ist das ein Organisations-, kein CRM-Problem.
       meta: PDF · Englisch
+    - file: sky-watch-kill-chain.pdf
+      context: 'Go-to-Market-Konzept für Sky-Watch · 2026'
+      title: 'Know your kill chain'
+      text: 'B2B-Growth-Marketing für einen dänischen Drohnenhersteller: die Anforderungsspezifikation gewinnen, bevor die Ausschreibung erscheint.'
+      meta: PDF · Dänisch
+  - heading: 'Methoden für öffentliche Auftraggeber'
+    items:
+    - file: klods-hans-modellen.pdf
+      context: 'Konzept für Kommunen · 2026'
+      title: 'Das Klods-Hans-Modell'
+      text: 'Eine didaktische Methode für neurodivergente Jugendliche und Erwachsene, mit Pilot und vorab festgelegten Wirkungszielen.'
+      meta: PDF · Dänisch
+    - file: taerskelmodellen.pdf
+      context: 'Konzept für Kommunen · 2026'
+      title: 'Das Schwellenmodell'
+      text: 'Eine Methode für Menschen, die seit Jahren in öffentlicher Unterstützung feststecken, mit Pilot und vorab festgelegten Wirkungszielen.'
+      meta: PDF · Dänisch
 - type: contact
   heading: Sprechen wir über Ihren nächsten kommerziellen Schritt?
   paragraphs:
