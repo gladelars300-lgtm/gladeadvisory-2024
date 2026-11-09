@@ -110,16 +110,21 @@ materials:
       meta: PDF · English
   - heading: Strategy papers for companies
     items:
-    - file: pandora-pull-engine.pdf
-      context: Strategy case in a recruitment process · Pandora, 2026
-      title: 'Pandora: The Pull Engine'
-      text: A strategy perspective on Digital & Technology and the next phase of growth.
-      meta: PDF · English
     - file: kilroy-positionering.pdf
       context: Paper for Kilroy's commercial director · 2026
       title: 'Kilroy: positioning'
       text: From a funnel problem to a positioning problem, with a pilot and proof before scaling.
       meta: PDF · Danish
+    - file: verisure-salgsmaskine.pdf
+      context: Prepared by Glade Advisory Group and shared with the head of sales at Verisure Denmark · 2026
+      title: 'Verisure: from lead hunting to sales machine'
+      text: 'A turnaround analysis of a field sales force: hunters who book, closers who sell and CRM that retains.'
+      meta: PDF · Danish
+    - file: pandora-pull-engine.pdf
+      context: Strategy case in a recruitment process · Pandora, 2026
+      title: 'Pandora: The Pull Engine'
+      text: A strategy perspective on Digital & Technology and the next phase of growth.
+      meta: PDF · English
     - file: tv2-2030.pdf
       context: Strategy case in a recruitment process · TV 2, 2026
       title: TV 2 2030

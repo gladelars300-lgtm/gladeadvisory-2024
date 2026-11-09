@@ -110,16 +110,21 @@ materials:
       meta: PDF · Englisch
   - heading: Strategiepapiere für Unternehmen
     items:
-    - file: pandora-pull-engine.pdf
-      context: Strategiefall in einem Auswahlverfahren · Pandora, 2026
-      title: 'Pandora: The Pull Engine'
-      text: Eine Strategieperspektive auf Digital & Technology und die nächste Wachstumsphase.
-      meta: PDF · Englisch
     - file: kilroy-positionering.pdf
       context: Papier für den kommerziellen Direktor von Kilroy · 2026
       title: 'Kilroy: Positionierung'
       text: Vom Funnel-Problem zum Positionierungsproblem, mit Pilot und Nachweis vor der Skalierung.
       meta: PDF · Dänisch
+    - file: verisure-salgsmaskine.pdf
+      context: Erstellt von Glade Advisory Group und dem Vertriebsleiter von Verisure Dänemark vorgelegt · 2026
+      title: 'Verisure: von der Leadjagd zur Vertriebsmaschine'
+      text: 'Turnaround-Analyse eines Außendienstes: Hunter, die Termine buchen, Closer, die verkaufen, und CRM, das bindet.'
+      meta: PDF · Dänisch
+    - file: pandora-pull-engine.pdf
+      context: Strategiefall in einem Auswahlverfahren · Pandora, 2026
+      title: 'Pandora: The Pull Engine'
+      text: Eine Strategieperspektive auf Digital & Technology und die nächste Wachstumsphase.
+      meta: PDF · Englisch
     - file: tv2-2030.pdf
       context: Strategiefall in einem Auswahlverfahren · TV 2, 2026
       title: TV 2 2030

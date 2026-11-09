@@ -110,16 +110,21 @@ materials:
       meta: PDF · engelska
   - heading: Strategiunderlag till företag
     items:
-    - file: pandora-pull-engine.pdf
-      context: Strategicase i rekryteringsprocess · Pandora, 2026
-      title: 'Pandora: The Pull Engine'
-      text: Ett strategiperspektiv på Digital & Technology och nästa tillväxtfas.
-      meta: PDF · engelska
     - file: kilroy-positionering.pdf
       context: Underlag till Kilroys kommersiella direktör · 2026
       title: 'Kilroy: positionering'
       text: Från trattproblem till positioneringsproblem, med pilot och bevis före skalning.
       meta: PDF · danska
+    - file: verisure-salgsmaskine.pdf
+      context: Framtaget av Glade Advisory Group och delat med försäljningschefen på Verisure Danmark · 2026
+      title: 'Verisure: från leadjakt till säljmaskin'
+      text: 'Turnaround-analys av en fältsäljkår: hunters som bokar, closers som säljer och CRM som behåller.'
+      meta: PDF · danska
+    - file: pandora-pull-engine.pdf
+      context: Strategicase i rekryteringsprocess · Pandora, 2026
+      title: 'Pandora: The Pull Engine'
+      text: Ett strategiperspektiv på Digital & Technology och nästa tillväxtfas.
+      meta: PDF · engelska
     - file: tv2-2030.pdf
       context: Strategicase i rekryteringsprocess · TV 2, 2026
       title: TV 2 2030

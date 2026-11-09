@@ -110,16 +110,21 @@ materials:
       meta: PDF · engelsk
   - heading: Strategioplæg til virksomheder
     items:
-    - file: pandora-pull-engine.pdf
-      context: Strategicase i rekrutteringsforløb · Pandora, 2026
-      title: 'Pandora: The Pull Engine'
-      text: Strategiperspektiv på Digital & Technology og den næste vækstfase.
-      meta: PDF · engelsk
     - file: kilroy-positionering.pdf
       context: Oplæg til Kilroys kommercielle direktør · 2026
       title: 'Kilroy: positionering'
       text: Fra funnel-problem til positioneringsproblem, med en pilot og bevis før skalering.
       meta: PDF · dansk
+    - file: verisure-salgsmaskine.pdf
+      context: Udarbejdet af Glade Advisory Group og delt med salgschefen i Verisure Danmark · 2026
+      title: 'Verisure: fra lead hunting til salgsmaskine'
+      text: 'Turnaround-analyse af et feltsalg: Hunters der booker, Closers der sælger, og CRM der fastholder.'
+      meta: PDF · dansk
+    - file: pandora-pull-engine.pdf
+      context: Strategicase i rekrutteringsforløb · Pandora, 2026
+      title: 'Pandora: The Pull Engine'
+      text: Strategiperspektiv på Digital & Technology og den næste vækstfase.
+      meta: PDF · engelsk
     - file: tv2-2030.pdf
       context: Strategicase i rekrutteringsforløb · TV 2, 2026
       title: TV 2 2030
