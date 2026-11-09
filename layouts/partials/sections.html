@@ -180,7 +180,18 @@
   <div class="wrap">
     <h2>{{ $s.heading }}</h2>
     {{- range $s.paragraphs }}<p class="lead">{{ . }}</p>{{ end }}
-    <p><a class="btn btn-light" href="{{ $mail }}">{{ $s.cta }}</a></p>
+    {{- $to := site.Params.contactEmail }}
+    {{- $subj := i18n "subject" }}
+    <details class="mail-menu">
+      <summary class="btn btn-light">{{ $s.cta }}</summary>
+      <ul class="mail-options" role="list">
+        <li><a href="{{ $mail }}">{{ i18n "mail_app" }}</a></li>
+        <li><a href="https://outlook.office.com/mail/deeplink/compose?to={{ $to }}&amp;subject={{ $subj }}" target="_blank" rel="noopener">{{ i18n "mail_outlook" }}</a></li>
+        <li><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to={{ $to }}&amp;su={{ $subj }}" target="_blank" rel="noopener">Gmail</a></li>
+        <li><button type="button" class="copy-mail" data-mail="{{ $to }}" data-done="{{ i18n "mail_copied" }}">{{ i18n "mail_copy" }}</button></li>
+      </ul>
+    </details>
+    <script>document.querySelectorAll('.copy-mail').forEach(function(b){b.addEventListener('click',function(){var t=b.textContent;try{navigator.clipboard.writeText(b.dataset.mail).then(function(){b.textContent=b.dataset.done;setTimeout(function(){b.textContent=t},2000)})}catch(e){}})});</script>
     <p class="mail"><a href="mailto:{{ site.Params.contactEmail }}">{{ site.Params.contactEmail }}</a> · <a href="tel:+4561880008">+45 61 88 00 08</a></p>
   </div>
 </section>
