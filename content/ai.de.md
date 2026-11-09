@@ -149,7 +149,8 @@ sections:
   heading: Weiterlesen
   lead: Eigene Papiere über KI als kommerzielle Disziplin. Öffnet als PDF.
   groups:
-  - items:
+  - heading: Papiere
+    items:
     - file: ai-transformation-praktikerens-noter.pdf
       context: Glade Advisory Group · 2026
       title: KI ist kein Technologieprojekt
@@ -164,6 +165,18 @@ sections:
       context: Point of View für PA Consulting · 2026
       title: KI schafft erst als Betriebsebene Wert
       text: 'Von der Ambition zur dokumentierten Wirkung in der GuV: Architektur, Wirkungsmessung und Governance als eine Disziplin.'
+      meta: PDF · Dänisch
+  - heading: Lehre
+    items:
+    - file: ai-i-hr-fremstillingsindustri.pdf
+      context: Lehrmaterial, erstellt für das Dänische Technologische Institut · 2026
+      title: KI im Personalwesen der Fertigungsindustrie
+      text: 'Von der kritischen Analyse zu einer ausgewogenen Entscheidungsgrundlage: Fälle, Nutzen, Reifegrade und eine Sprache, die bei Betriebsräten und Gewerkschaften funktioniert.'
+      meta: PDF · Dänisch
+    - file: ai-i-forsvarsindustrien.pdf
+      context: Lehrmaterial, erstellt für das Dänische Technologische Institut · 2026
+      title: 'KI in Ihrer Woche: die Verteidigungsindustrie'
+      text: Ein zweitägiger Kurs zu KI in Produktion, Qualität, Lieferantenrisiko, Compliance und Sicherheitsfreigabe, wo drei Regelwerke zugleich gelten.
       meta: PDF · Dänisch
 - type: contact
   heading: Sprechen wir über Ihren nächsten kommerziellen Schritt?

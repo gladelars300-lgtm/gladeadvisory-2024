@@ -149,7 +149,8 @@ sections:
   heading: Read more
   lead: Our own papers on AI as a commercial discipline. Opens as PDF.
   groups:
-  - items:
+  - heading: Papers
+    items:
     - file: ai-transformation-praktikerens-noter.pdf
       context: Glade Advisory Group · 2026
       title: AI is not a technology project
@@ -164,6 +165,18 @@ sections:
       context: Point of view for PA Consulting · 2026
       title: AI creates value only as an operating layer
       text: 'From ambition to documented P&L impact: architecture, measurement and governance as one discipline.'
+      meta: PDF · Danish
+  - heading: Teaching
+    items:
+    - file: ai-i-hr-fremstillingsindustri.pdf
+      context: Teaching material prepared for the Danish Technological Institute · 2026
+      title: AI in HR in manufacturing
+      text: 'From critical analysis to a balanced basis for decision: cases, benefits, maturity steps and language that works with shop stewards and unions.'
+      meta: PDF · Danish
+    - file: ai-i-forsvarsindustrien.pdf
+      context: Teaching material prepared for the Danish Technological Institute · 2026
+      title: 'AI in your week: the defence industry'
+      text: A two-day course on AI in production, quality, supplier risk, compliance and security clearance, where three regulatory regimes apply at once.
       meta: PDF · Danish
 - type: contact
   heading: Shall we talk about your next commercial move?

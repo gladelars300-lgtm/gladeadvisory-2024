@@ -149,7 +149,8 @@ sections:
   heading: Läs mer
   lead: Egna texter om AI som kommersiell disciplin. Öppnas som PDF.
   groups:
-  - items:
+  - heading: Texter
+    items:
     - file: ai-transformation-praktikerens-noter.pdf
       context: Glade Advisory Group · 2026
       title: AI är inte ett teknikprojekt
@@ -164,6 +165,18 @@ sections:
       context: Point of view till PA Consulting · 2026
       title: AI skapar värde först som driftlager
       text: 'Från ambition till dokumenterad effekt i resultatet: arkitektur, effektmätning och styrning som en disciplin.'
+      meta: PDF · danska
+  - heading: Undervisning
+    items:
+    - file: ai-i-hr-fremstillingsindustri.pdf
+      context: Undervisningsmaterial framtaget för Teknologisk Institut i Danmark · 2026
+      title: AI i HR inom tillverkningsindustrin
+      text: 'Från kritisk analys till ett balanserat beslutsunderlag: case, vinster, mognadssteg och ett språk som fungerar mot fackliga företrädare.'
+      meta: PDF · danska
+    - file: ai-i-forsvarsindustrien.pdf
+      context: Undervisningsmaterial framtaget för Teknologisk Institut i Danmark · 2026
+      title: 'AI i din vecka: försvarsindustrin'
+      text: En tvådagarskurs om AI i produktion, kvalitet, leverantörsrisk, regelefterlevnad och säkerhetsprövning, där tre regelverk gäller samtidigt.
       meta: PDF · danska
 - type: contact
   heading: Ska vi prata om ert nästa kommersiella steg?
