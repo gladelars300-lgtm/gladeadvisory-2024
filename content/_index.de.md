@@ -72,30 +72,72 @@ results:
     text: 'Ein asymmetrischer Angriff auf das Festnetz von TDC: 49 DKK im Monat gegen rund 350 DKK im Quartal. Im selben Zeitraum stieg die Festnetz-Abwanderung bei TDC von rund 12 % auf 17–18 %.'
 materials:
   heading: Materialien
-  lead: Beispiele für Analysen und Strategiepapiere. Öffnet als PDF.
-  items:
-  - file: commercial-operating-system.pdf
-    title: Commercial Operating System
-    text: 'Eine multiplikative Logik für den gesamten kommerziellen Motor: Marke × Wertversprechen × Umsetzung.'
-    meta: PDF · Dänisch
-  - file: marketing-operating-system.pdf
-    title: Marketing Operating System
-    text: 'Dieselbe multiplikative Logik im Marketing: zwei Motoren, Akquisition und Bestand, mit einer gemeinsamen Ebene.'
-    meta: PDF · Dänisch
-  - file: pandora-pull-engine.pdf
-    title: 'Pandora: The Pull Engine'
-    text: Eine Strategieperspektive auf Digital & Technology und die nächste Wachstumsphase.
-    meta: PDF · Englisch
-  - file: kilroy-positionering.pdf
-    title: 'Kilroy: Positionierung'
-    text: Vom Funnel-Problem zum Positionierungsproblem, mit Pilot und Nachweis vor der Skalierung.
-    meta: PDF · Dänisch
-  - file: tv2-2030.pdf
-    title: TV 2 2030
-    text: 'Von der Reichweiten- zur Beziehungsplattform: Was verkauft TV 2 eigentlich?'
-    meta: PDF · Dänisch
-  - file: tv2-18-24.pdf
-    title: 'TV 2: die 18- bis 24-Jährigen'
-    text: 'Wie TV 2 junge Zuschauer zurückgewinnt: drei Hypothesen, vier Phasen mit Abbruchpunkten und zuerst ein Pilot.'
-    meta: PDF · Dänisch
+  lead: Papiere und Analysen, die die Arbeitsweise in der Praxis zeigen. Jedes ist mit dem Unternehmen und dem Zweck angegeben, für die es entstand. Öffnet als PDF.
+  groups:
+  - heading: Eigene Ergebnisse
+    items:
+    - file: kundeoekonomi-i-praksis.pdf
+      context: Telenor 2012 · Fullrate 2014–15 · YouSee 2019
+      title: Kundenökonomie in der Praxis
+      text: Drei Fälle, gemessen gegen Kontrollgruppen, mit den Originalkampagnen im Anhang.
+      meta: PDF · Dänisch
+  - heading: Methode
+    items:
+    - file: commercial-operating-system.pdf
+      context: Glade Advisory Group · eigene Methode
+      title: Commercial Operating System
+      text: 'Eine multiplikative Logik für den gesamten kommerziellen Motor: Marke × Wertversprechen × Umsetzung.'
+      meta: PDF · Dänisch
+    - file: marketing-operating-system.pdf
+      context: Glade Advisory Group · eigene Methode
+      title: Marketing Operating System
+      text: 'Dieselbe Logik im Marketing: zwei Motoren, Neu- und Bestandskunden, mit einer gemeinsamen Ebene.'
+      meta: PDF · Dänisch
+    - file: strategic-thinking-in-practice.pdf
+      context: Methodenbeispiel · 2026
+      title: Strategic Thinking in Practice
+      text: Von der Diagnose über Architektur und Priorisierung bis zur Umsetzung, an einem durchgehenden Beispiel.
+      meta: PDF · Englisch
+    - file: first-principles-commercial-excellence.pdf
+      context: First Principles Friday · 2026
+      title: First Principles of Commercial Excellence
+      text: 'Wenn Mechanik die kommerzielle Logik ersetzt hat: Auslöser, Angebot, Identität und Reibung.'
+      meta: PDF · Englisch
+    - file: big-data-in-practice.pdf
+      context: Gastvorlesung · Erhvervsakademi København, 2026
+      title: Big Data in Practice
+      text: 'Von Kundendaten zu besseren Entscheidungen: ein Fall zur Kundenbindung in der Versicherung.'
+      meta: PDF · Englisch
+  - heading: Strategiepapiere für Unternehmen
+    items:
+    - file: pandora-pull-engine.pdf
+      context: Strategiefall in einem Auswahlverfahren · Pandora, 2026
+      title: 'Pandora: The Pull Engine'
+      text: Eine Strategieperspektive auf Digital & Technology und die nächste Wachstumsphase.
+      meta: PDF · Englisch
+    - file: kilroy-positionering.pdf
+      context: Papier für den kommerziellen Direktor von Kilroy · 2026
+      title: 'Kilroy: Positionierung'
+      text: Vom Funnel-Problem zum Positionierungsproblem, mit Pilot und Nachweis vor der Skalierung.
+      meta: PDF · Dänisch
+    - file: tv2-2030.pdf
+      context: Strategiefall in einem Auswahlverfahren · TV 2, 2026
+      title: TV 2 2030
+      text: 'Von der Reichweiten- zur Beziehungsplattform: Was verkauft TV 2 eigentlich?'
+      meta: PDF · Dänisch
+    - file: tv2-18-24.pdf
+      context: Strategiefall in einem Auswahlverfahren · TV 2, 2026
+      title: 'TV 2: die 18- bis 24-Jährigen'
+      text: Drei Hypothesen, vier Phasen mit Abbruchpunkten und zuerst ein Pilot.
+      meta: PDF · Dänisch
+    - file: rockwool-demand-creation.pdf
+      context: Point of View für Rockwool · 2026
+      title: Own the Preference Before the Pipeline
+      text: Nachfrage und Lead Nurturing, wenn der Verkauf in der Spezifikation entsteht, lange vor der Ausschreibung.
+      meta: PDF · Englisch
+    - file: clv-user-engagement.pdf
+      context: Arbeitsprobe in einem Auswahlverfahren · 2026
+      title: Kundenwert durch eine durchgängige Nutzerreise
+      text: Ist die Reise auf Abteilungen verteilt, ist das ein Organisations-, kein CRM-Problem.
+      meta: PDF · Englisch
 ---

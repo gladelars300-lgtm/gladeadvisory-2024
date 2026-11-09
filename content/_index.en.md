@@ -72,30 +72,72 @@ results:
     text: 'An asymmetric attack on TDC''s landline business: DKK 49 a month against about DKK 350 a quarter. Over the same period TDC''s landline churn rose from about 12% to 17–18%.'
 materials:
   heading: Materials
-  lead: Examples of analyses and strategy papers. Opens as PDF.
-  items:
-  - file: commercial-operating-system.pdf
-    title: Commercial Operating System
-    text: 'One multiplicative logic for the whole commercial engine: brand × value proposition × execution.'
-    meta: PDF · Danish
-  - file: marketing-operating-system.pdf
-    title: Marketing Operating System
-    text: 'The same multiplicative logic applied to marketing: two engines, acquisition and base, with one shared layer.'
-    meta: PDF · Danish
-  - file: pandora-pull-engine.pdf
-    title: 'Pandora: The Pull Engine'
-    text: A strategy perspective on Digital & Technology and the next phase of growth.
-    meta: PDF · English
-  - file: kilroy-positionering.pdf
-    title: 'Kilroy: positioning'
-    text: From a funnel problem to a positioning problem, with a pilot and proof before scaling.
-    meta: PDF · Danish
-  - file: tv2-2030.pdf
-    title: TV 2 2030
-    text: 'From reach platform to relationship platform: what does TV 2 really sell?'
-    meta: PDF · Danish
-  - file: tv2-18-24.pdf
-    title: 'TV 2: the 18–24s'
-    text: 'How TV 2 wins back young viewers: three hypotheses, four phases with kill gates and a pilot first.'
-    meta: PDF · Danish
+  lead: Papers and analyses that show the method in practice. Each one is shown with the company and purpose it was made for. Opens as PDF.
+  groups:
+  - heading: Own results
+    items:
+    - file: kundeoekonomi-i-praksis.pdf
+      context: Telenor 2012 · Fullrate 2014–15 · YouSee 2019
+      title: Customer economics in practice
+      text: Three cases measured against control groups, with the original campaigns attached.
+      meta: PDF · Danish
+  - heading: Method
+    items:
+    - file: commercial-operating-system.pdf
+      context: Glade Advisory Group · own method
+      title: Commercial Operating System
+      text: 'One multiplicative logic for the whole commercial engine: brand × value proposition × execution.'
+      meta: PDF · Danish
+    - file: marketing-operating-system.pdf
+      context: Glade Advisory Group · own method
+      title: Marketing Operating System
+      text: 'The same logic applied to marketing: two engines, new and existing customers, with one shared layer.'
+      meta: PDF · Danish
+    - file: strategic-thinking-in-practice.pdf
+      context: Method example · 2026
+      title: Strategic Thinking in Practice
+      text: From diagnosis through architecture and prioritisation to execution, with one running example.
+      meta: PDF · English
+    - file: first-principles-commercial-excellence.pdf
+      context: First Principles Friday · 2026
+      title: First Principles of Commercial Excellence
+      text: 'When mechanics have replaced commercial logic: trigger, offer, identity and friction.'
+      meta: PDF · English
+    - file: big-data-in-practice.pdf
+      context: Guest lecture · Copenhagen School of Design and Technology, 2026
+      title: Big Data in Practice
+      text: 'From customer data to better decisions: a retention case from insurance.'
+      meta: PDF · English
+  - heading: Strategy papers for companies
+    items:
+    - file: pandora-pull-engine.pdf
+      context: Strategy case in a recruitment process · Pandora, 2026
+      title: 'Pandora: The Pull Engine'
+      text: A strategy perspective on Digital & Technology and the next phase of growth.
+      meta: PDF · English
+    - file: kilroy-positionering.pdf
+      context: Paper for Kilroy's commercial director · 2026
+      title: 'Kilroy: positioning'
+      text: From a funnel problem to a positioning problem, with a pilot and proof before scaling.
+      meta: PDF · Danish
+    - file: tv2-2030.pdf
+      context: Strategy case in a recruitment process · TV 2, 2026
+      title: TV 2 2030
+      text: 'From reach platform to relationship platform: what does TV 2 really sell?'
+      meta: PDF · Danish
+    - file: tv2-18-24.pdf
+      context: Strategy case in a recruitment process · TV 2, 2026
+      title: 'TV 2: the 18–24s'
+      text: Three hypotheses, four phases with kill gates and a pilot first.
+      meta: PDF · Danish
+    - file: rockwool-demand-creation.pdf
+      context: Point of view for Rockwool · 2026
+      title: Own the Preference Before the Pipeline
+      text: Demand creation and lead nurture when the sale is shaped in the specification, long before the tender.
+      meta: PDF · English
+    - file: clv-user-engagement.pdf
+      context: Work sample in a recruitment process · 2026
+      title: Customer lifetime value through one user journey
+      text: When the journey is split between departments, it is an organisational problem, not a CRM problem.
+      meta: PDF · English
 ---

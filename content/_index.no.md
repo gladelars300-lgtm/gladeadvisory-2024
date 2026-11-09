@@ -72,30 +72,72 @@ results:
     text: 'Et asymmetrisk angrep på TDCs fasttelefoni: 49 DKK i måneden mot om lag 350 DKK i kvartalet. I samme periode steg TDCs frafall i fasttelefoni fra om lag 12 % til 17–18 %.'
 materials:
   heading: Materiell
-  lead: Eksempler på analyser og strategidokumenter. Åpnes som PDF.
-  items:
-  - file: commercial-operating-system.pdf
-    title: Commercial Operating System
-    text: 'Én multiplikativ logikk for hele den kommersielle motoren: merkevare × verdiforslag × gjennomføring.'
-    meta: PDF · dansk
-  - file: marketing-operating-system.pdf
-    title: Marketing Operating System
-    text: 'Den samme multiplikative logikken brukt på markedsføring: to motorer, anskaffelse og eksisterende kunder, med ett felles lag.'
-    meta: PDF · dansk
-  - file: pandora-pull-engine.pdf
-    title: 'Pandora: The Pull Engine'
-    text: Et strategiperspektiv på Digital & Technology og neste vekstfase.
-    meta: PDF · engelsk
-  - file: kilroy-positionering.pdf
-    title: 'Kilroy: posisjonering'
-    text: Fra traktproblem til posisjoneringsproblem, med pilot og bevis før skalering.
-    meta: PDF · dansk
-  - file: tv2-2030.pdf
-    title: TV 2 2030
-    text: 'Fra rekkeviddeplattform til relasjonsplattform: hva selger TV 2 egentlig?'
-    meta: PDF · dansk
-  - file: tv2-18-24.pdf
-    title: 'TV 2: 18–24-åringene'
-    text: 'Hvordan TV 2 vinner tilbake unge seere: tre hypoteser, fire faser med stoppunkter og pilot først.'
-    meta: PDF · dansk
+  lead: Dokumenter og analyser som viser arbeidsmetoden i praksis. Hvert dokument vises med selskapet og formålet det ble laget for. Åpnes som PDF.
+  groups:
+  - heading: Egne resultater
+    items:
+    - file: kundeoekonomi-i-praksis.pdf
+      context: Telenor 2012 · Fullrate 2014–15 · YouSee 2019
+      title: Kundeøkonomi i praksis
+      text: Tre caser målt mot kontrollgrupper, med de originale kampanjene som vedlegg.
+      meta: PDF · dansk
+  - heading: Metode
+    items:
+    - file: commercial-operating-system.pdf
+      context: Glade Advisory Group · egen metode
+      title: Commercial Operating System
+      text: 'Én multiplikativ logikk for hele den kommersielle motoren: merkevare × verdiforslag × gjennomføring.'
+      meta: PDF · dansk
+    - file: marketing-operating-system.pdf
+      context: Glade Advisory Group · egen metode
+      title: Marketing Operating System
+      text: 'Den samme logikken brukt på markedsføring: to motorer, nye og eksisterende kunder, med ett felles lag.'
+      meta: PDF · dansk
+    - file: strategic-thinking-in-practice.pdf
+      context: Metodeeksempel · 2026
+      title: Strategic Thinking in Practice
+      text: Fra diagnose via arkitektur og prioritering til gjennomføring, med ett gjennomgående eksempel.
+      meta: PDF · engelsk
+    - file: first-principles-commercial-excellence.pdf
+      context: First Principles Friday · 2026
+      title: First Principles of Commercial Excellence
+      text: 'Når mekanikken har erstattet den kommersielle logikken: utløser, tilbud, identitet og friksjon.'
+      meta: PDF · engelsk
+    - file: big-data-in-practice.pdf
+      context: Gjesteforelesning · Erhvervsakademi København, 2026
+      title: Big Data in Practice
+      text: 'Fra kundedata til bedre beslutninger: en case om kundelojalitet i forsikring.'
+      meta: PDF · engelsk
+  - heading: Strategidokumenter til selskaper
+    items:
+    - file: pandora-pull-engine.pdf
+      context: Strategicase i rekrutteringsprosess · Pandora, 2026
+      title: 'Pandora: The Pull Engine'
+      text: Et strategiperspektiv på Digital & Technology og neste vekstfase.
+      meta: PDF · engelsk
+    - file: kilroy-positionering.pdf
+      context: Dokument til Kilroys kommersielle direktør · 2026
+      title: 'Kilroy: posisjonering'
+      text: Fra traktproblem til posisjoneringsproblem, med pilot og bevis før skalering.
+      meta: PDF · dansk
+    - file: tv2-2030.pdf
+      context: Strategicase i rekrutteringsprosess · TV 2, 2026
+      title: TV 2 2030
+      text: 'Fra rekkeviddeplattform til relasjonsplattform: hva selger TV 2 egentlig?'
+      meta: PDF · dansk
+    - file: tv2-18-24.pdf
+      context: Strategicase i rekrutteringsprosess · TV 2, 2026
+      title: 'TV 2: 18–24-åringene'
+      text: Tre hypoteser, fire faser med stoppunkter og pilot først.
+      meta: PDF · dansk
+    - file: rockwool-demand-creation.pdf
+      context: Point of view til Rockwool · 2026
+      title: Own the Preference Before the Pipeline
+      text: Etterspørsel og lead nurture når salget formes i spesifikasjonen, lenge før anbudet.
+      meta: PDF · engelsk
+    - file: clv-user-engagement.pdf
+      context: Arbeidsprøve i rekrutteringsprosess · 2026
+      title: Kundeverdi gjennom én samlet kundereise
+      text: Når reisen er delt mellom avdelinger, er det et organisasjonsproblem, ikke et CRM-problem.
+      meta: PDF · engelsk
 ---
