@@ -168,6 +168,11 @@ sections:
       meta: PDF · Dänisch
   - heading: Lehre
     items:
+    - file: ai-i-hr-todageskursus.pdf
+      context: Lehrmaterial, erstellt für das Dänische Technologische Institut · 2026
+      title: 'KI im Personalwesen: Zweitageskurs'
+      text: 'Vom Hype zur Praxis: Fälle, Implementierungsmodell, EU AI Act, Arbeitsrecht, Systemwahl und Umsetzung, mit Workshops und Handlungsplan.'
+      meta: PDF · Dänisch
     - file: ai-i-hr-fremstillingsindustri.pdf
       context: Lehrmaterial, erstellt für das Dänische Technologische Institut · 2026
       title: KI im Personalwesen der Fertigungsindustrie

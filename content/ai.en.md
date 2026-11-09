@@ -168,6 +168,11 @@ sections:
       meta: PDF · Danish
   - heading: Teaching
     items:
+    - file: ai-i-hr-todageskursus.pdf
+      context: Teaching material prepared for the Danish Technological Institute · 2026
+      title: 'AI in HR: two-day course'
+      text: 'From hype to practice: cases, implementation model, EU AI Act, employment law, system choice and implementation, with workshops and an action plan.'
+      meta: PDF · Danish
     - file: ai-i-hr-fremstillingsindustri.pdf
       context: Teaching material prepared for the Danish Technological Institute · 2026
       title: AI in HR in manufacturing

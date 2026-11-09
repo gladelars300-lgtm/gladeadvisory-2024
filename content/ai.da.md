@@ -168,6 +168,11 @@ sections:
       meta: PDF · dansk
   - heading: Undervisning
     items:
+    - file: ai-i-hr-todageskursus.pdf
+      context: Undervisningsmateriale udarbejdet til Teknologisk Institut · 2026
+      title: 'AI i HR: todageskursus'
+      text: 'Fra hype til praksis: cases, implementeringsmodel, EU AI Act, ansættelsesret, systemvalg og implementering, med workshops og handlingsplan.'
+      meta: PDF · dansk
     - file: ai-i-hr-fremstillingsindustri.pdf
       context: Undervisningsmateriale udarbejdet til Teknologisk Institut · 2026
       title: AI i HR i fremstillingsindustrien
