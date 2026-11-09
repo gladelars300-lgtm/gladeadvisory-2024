@@ -173,6 +173,11 @@ sections:
       title: 'AI i HR: todagerskurs'
       text: 'Fra hype til praksis: caser, implementeringsmodell, EUs AI-forordning, arbeidsrett, systemvalg og gjennomføring, med workshops og handlingsplan.'
       meta: PDF · dansk
+    - file: ai-i-hr-opdatering-2026.pdf
+      context: Undervisningsmateriell utarbeidet for Teknologisk Institut i Danmark · 2026
+      title: 'AI i HR: oppdatering 2026'
+      text: 'Supplement til kurset: navngitte caser, AI som kompetanseforsterker, systemvalg i 2026, fem modenhetstrinn og hvordan HR-funksjonen endres.'
+      meta: PDF · dansk
     - file: ai-i-hr-fremstillingsindustri.pdf
       context: Undervisningsmateriell utarbeidet for Teknologisk Institut i Danmark · 2026
       title: AI i HR i industrien

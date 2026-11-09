@@ -173,6 +173,11 @@ sections:
       title: 'KI im Personalwesen: Zweitageskurs'
       text: 'Vom Hype zur Praxis: Fälle, Implementierungsmodell, EU AI Act, Arbeitsrecht, Systemwahl und Umsetzung, mit Workshops und Handlungsplan.'
       meta: PDF · Dänisch
+    - file: ai-i-hr-opdatering-2026.pdf
+      context: Lehrmaterial, erstellt für das Dänische Technologische Institut · 2026
+      title: 'KI im Personalwesen: Update 2026'
+      text: 'Ergänzung zum Kurs: benannte Fälle, KI als Kompetenzverstärker, Systemwahl 2026, fünf Reifegrade und der Wandel der Personalfunktion.'
+      meta: PDF · Dänisch
     - file: ai-i-hr-fremstillingsindustri.pdf
       context: Lehrmaterial, erstellt für das Dänische Technologische Institut · 2026
       title: KI im Personalwesen der Fertigungsindustrie
