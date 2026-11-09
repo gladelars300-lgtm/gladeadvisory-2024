@@ -1,0 +1,188 @@
+{{- /* Renders a page built from a list of typed sections in front matter. */ -}}
+{{- $mail := printf "mailto:%s?subject=%s" site.Params.contactEmail (i18n "subject" | urlquery | replaceRE `\+` "%20") }}
+{{- range $i, $s := .Params.sections }}
+{{- $id := $s.id | default (printf "s%d" $i) }}
+{{- $tone := $s.tone | default "" }}
+
+{{- if eq $s.type "hero" }}
+<section class="hero{{ with $tone }} {{ . }}{{ end }}" id="{{ $id }}">
+  <div class="wrap{{ if $s.image }} hero-split{{ end }}">
+    <div>
+      {{- with $s.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+      {{ if eq $i 0 }}<h1>{{ $s.heading }}</h1>{{ else }}<h2>{{ $s.heading }}</h2>{{ end }}
+      {{- with $s.lead }}<p class="lead">{{ . }}</p>{{ end }}
+      {{- with $s.tagline }}<p class="tagline"><strong>{{ . }}</strong></p>{{ end }}
+      {{- if or $s.cta $s.cta2 }}
+      <p class="ctas">
+        {{- with $s.cta }}<a class="btn" href="{{ if eq .href "mail" }}{{ $mail }}{{ else }}{{ partial "href.html" .href }}{{ end }}">{{ .label }}</a>{{ end }}
+        {{- with $s.cta2 }}<a class="btn btn-ghost" href="{{ partial "href.html" .href }}">{{ .label }}</a>{{ end }}
+      </p>
+      {{- end }}
+    </div>
+    {{- with $s.image }}
+    <figure class="hero-img"><img src="{{ .src | relURL }}" alt="{{ .alt }}" width="{{ .w | default 800 }}" height="{{ .h | default 800 }}"></figure>
+    {{- end }}
+  </div>
+</section>
+
+{{- else if eq $s.type "text" }}
+<section class="text-sec{{ with $tone }} {{ . }}{{ end }}" id="{{ $id }}">
+  <div class="wrap split">
+    <div>
+      {{- with $s.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+      <h2>{{ $s.heading }}</h2>
+    </div>
+    <div class="prose">
+      {{- range $s.paragraphs }}<p>{{ . | markdownify }}</p>{{ end }}
+      {{- with $s.bullets }}<ul class="ticks">{{ range . }}<li>{{ . | markdownify }}</li>{{ end }}</ul>{{ end }}
+      {{- with $s.link }}<p><a class="more" href="{{ partial "href.html" .href }}">{{ .label }} →</a></p>{{ end }}
+    </div>
+  </div>
+</section>
+
+{{- else if eq $s.type "cards" }}
+<section class="cards-sec{{ with $tone }} {{ . }}{{ end }}" id="{{ $id }}">
+  <div class="wrap">
+    {{- with $s.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+    <h2>{{ $s.heading }}</h2>
+    {{- with $s.lead }}<p class="lead">{{ . }}</p>{{ end }}
+    <ul class="cards{{ with $s.cols }} cols-{{ . }}{{ end }}" role="list">
+      {{- range $j, $c := $s.items }}
+      <li class="card">
+        {{- if $s.numbered }}<span class="num" aria-hidden="true">{{ $c.num | default (printf "%02d" (add $j 1)) }}</span>{{ end }}
+        <h3>{{ $c.title }}</h3>
+        <p>{{ $c.text | markdownify }}</p>
+        {{- with $c.link }}<p class="card-link"><a href="{{ partial "href.html" .href }}"{{ if hasPrefix .href "http" }} rel="noopener" target="_blank"{{ end }}>{{ .label }} →</a></p>{{ end }}
+      </li>
+      {{- end }}
+    </ul>
+    {{- with $s.note }}<p class="note">{{ . | markdownify }}</p>{{ end }}
+    {{- with $s.link }}<p><a class="more" href="{{ partial "href.html" .href }}">{{ .label }} →</a></p>{{ end }}
+  </div>
+</section>
+
+{{- else if eq $s.type "steps" }}
+<section class="process{{ with $tone }} {{ . }}{{ end }}" id="{{ $id }}">
+  <div class="wrap">
+    {{- with $s.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+    <h2>{{ $s.heading }}</h2>
+    {{- with $s.lead }}<p class="lead">{{ . }}</p>{{ end }}
+    <ol class="steps{{ if gt (len $s.items) 4 }} steps-5{{ end }}">
+      {{- range $s.items }}<li><strong>{{ .title }}</strong> {{ .text }}</li>{{ end }}
+    </ol>
+  </div>
+</section>
+
+{{- else if eq $s.type "figures" }}
+<section class="results{{ with $tone }} {{ . }}{{ end }}" id="{{ $id }}">
+  <div class="wrap">
+    {{- with $s.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+    <h2>{{ $s.heading }}</h2>
+    {{- with $s.lead }}<p class="lead">{{ . }}</p>{{ end }}
+    <ul class="results-grid" role="list">
+      {{- range $s.items }}
+      <li class="result">
+        <p class="figure">{{ .figure }}</p>
+        <h3>{{ .title }}</h3>
+        <p>{{ .text }}</p>
+      </li>
+      {{- end }}
+    </ul>
+    {{- with $s.note }}<p class="note">{{ . | markdownify }}</p>{{ end }}
+    {{- with $s.link }}<p><a class="more" href="{{ partial "href.html" .href }}">{{ .label }} →</a></p>{{ end }}
+  </div>
+</section>
+
+{{- else if eq $s.type "cases" }}
+<section class="cases{{ with $tone }} {{ . }}{{ end }}" id="{{ $id }}">
+  <div class="wrap">
+    {{- with $s.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+    <h2>{{ $s.heading }}</h2>
+    {{- with $s.lead }}<p class="lead">{{ . }}</p>{{ end }}
+    <ul class="case-list" role="list">
+      {{- range $s.items }}
+      <li class="case{{ if .image }} has-img{{ end }}">
+        {{- with .image }}
+        <figure class="case-img"><img src="{{ .src | relURL }}" alt="{{ .alt }}" loading="lazy" decoding="async" width="{{ .w | default 1200 }}" height="{{ .h | default 800 }}"></figure>
+        {{- end }}
+        <div class="case-body">
+          <p class="doc-ctx">{{ .context }}</p>
+          <h3>{{ .title }}</h3>
+          <p>{{ .text }}</p>
+          {{- with .insight }}<p class="insight">{{ . }}</p>{{ end }}
+          {{- with .files }}
+          <p class="case-files">{{ range . }}<a href="{{ .file | absURL }}" target="_blank" rel="noopener">{{ .label }} ↗</a>{{ end }}</p>
+          {{- end }}
+        </div>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</section>
+
+{{- else if eq $s.type "docs" }}
+<section class="materials{{ with $tone }} {{ . }}{{ end }}" id="{{ $id }}">
+  <div class="wrap">
+    {{- with $s.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+    <h2>{{ $s.heading }}</h2>
+    {{- with $s.lead }}<p class="lead">{{ . }}</p>{{ end }}
+    {{- range $s.groups }}
+    {{- with .heading }}<h3 class="docs-h">{{ . }}</h3>{{ end }}
+    <ul class="docs" role="list">
+      {{- range .items }}
+      <li>
+        <a class="doc" href="{{ .file | absURL }}" target="_blank" rel="noopener">
+          <span class="doc-ctx">{{ .context }}</span>
+          <span class="doc-title">{{ .title }}</span>
+          <span class="doc-text">{{ .text }}</span>
+          <span class="doc-meta">{{ .meta }} ↗</span>
+        </a>
+      </li>
+      {{- end }}
+    </ul>
+    {{- end }}
+  </div>
+</section>
+
+{{- else if eq $s.type "about" }}
+<section class="about{{ with $tone }} {{ . }}{{ end }}" id="{{ $id }}">
+  <div class="wrap split">
+    <div>
+      {{- with $s.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+      <h2>{{ $s.heading }}</h2>
+      {{- with $s.portrait }}
+      <figure class="portrait">
+        <picture>
+          <source srcset="{{ .webp | relURL }}" type="image/webp">
+          <img src="{{ .src | relURL }}" alt="{{ .alt }}" width="800" height="800" loading="lazy" decoding="async">
+        </picture>
+        <figcaption>{{ .caption }}</figcaption>
+      </figure>
+      {{- end }}
+    </div>
+    <div class="prose">
+      {{- range $s.paragraphs }}<p>{{ . | markdownify }}</p>{{ end }}
+      {{- with $s.facts }}<ul class="ticks">{{ range . }}<li>{{ . | markdownify }}</li>{{ end }}</ul>{{ end }}
+      {{- with $s.link }}<p><a class="more" href="{{ partial "href.html" .href }}">{{ .label }} →</a></p>{{ end }}
+    </div>
+  </div>
+</section>
+
+{{- else if eq $s.type "quote" }}
+<section class="quote-sec" id="{{ $id }}">
+  <div class="wrap">
+    <blockquote><p>{{ $s.text }}</p>{{ with $s.by }}<footer>{{ . }}</footer>{{ end }}</blockquote>
+  </div>
+</section>
+
+{{- else if eq $s.type "contact" }}
+<section class="contact" id="contact">
+  <div class="wrap">
+    <h2>{{ $s.heading }}</h2>
+    {{- range $s.paragraphs }}<p class="lead">{{ . }}</p>{{ end }}
+    <p><a class="btn btn-light" href="{{ $mail }}">{{ $s.cta }}</a></p>
+    <p class="mail"><a href="mailto:{{ site.Params.contactEmail }}">{{ site.Params.contactEmail }}</a> · <a href="tel:+4561880008">+45 61 88 00 08</a></p>
+  </div>
+</section>
+{{- end }}
+{{- end }}

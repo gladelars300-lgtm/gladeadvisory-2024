@@ -1,62 +1,62 @@
 ---
-# Approved copy, converted from the multilingual copy package.
-# Edit text here; layout lives in layouts/index.html.
-title: Unternehmerische Beratung, die Strategie in Wachstum übersetzt
-seo_title: Strategie- und Wachstumsberatung | Glade Advisory Group
-description: Glade Advisory Group setzt kommerzielle Strategie in die Praxis um – mit Beratung zu Vertrieb, Kundenwert, Kundenbindung, Preisgestaltung und Go-to-Market.
-hero:
-  heading: Mehr aus Ihren kommerziellen Chancen machen
-  lead: Glade Advisory Group unterstützt Führungsteams dabei, ihre kommerziellen Ziele in klare Prioritäten, stärkere Kundenökonomie und im Tagesgeschäft messbare Ergebnisse zu übersetzen.
-  tagline: Von der Analyse zur Umsetzung. Von Aktivität zu Kundenwert.
-  cta: Besprechen Sie Ihre kommerzielle Herausforderung
-intro:
-  heading: Damit Strategie im Alltag wirkt
-  paragraphs:
-  - Viele Unternehmen brauchen keine weitere Strategie, die in der Schublade bleibt. Sie müssen wissen, welche Kunden und Aktivitäten Wert schaffen, was das Wachstum bremst und wie Erkenntnisse in konkrete Maßnahmen umgesetzt werden.
-  - Wir arbeiten eng mit der Geschäftsleitung und den Teams zusammen, die für die Umsetzung verantwortlich sind. Die Zusammenarbeit richtet sich nach Ihrer Situation – von einer fokussierten Analyse bis zu einem umfassenderen Transformations- oder Interimmandat.
-services:
-  heading: Wobei wir unterstützen
+# Generated content: edit the text here; layout lives in layouts/partials/sections.html.
+title: Kommerzielle Beratung und KI mit messbarem Wachstum
+seo_title: Kommerzielle Strategie und KI-Beratung | Glade Advisory Group
+description: 'Glade Advisory Group unterstützt Führungsteams bei kommerzieller Strategie, Kundenökonomie und KI in der Praxis: schnelle Analysen, neue Dateneinsichten und Lösungen, die im Betrieb messbar sind.'
+sections:
+- type: hero
+  heading: Holen Sie mehr aus Ihren kommerziellen Möglichkeiten
+  lead: Glade Advisory Group hilft Führungsteams, das schwächste Glied im kommerziellen Motor zu finden und zu beheben. Mit 30 Jahren P&L-Erfahrung und KI als Arbeitswerkzeug wird die Analyse schneller, und die Wirkung lässt sich im Betrieb verfolgen.
+  tagline: Kommerzielle Strategie · Kundenökonomie · KI in der Praxis
+  cta:
+    label: Sprechen Sie uns an
+    href: '#contact'
+  cta2:
+    label: Zur KI-Beratung
+    href: /ai
+- type: cards
+  id: ai-teaser
+  eyebrow: KI in der Praxis
+  heading: KI ist eine Geschäftsaufgabe, nicht nur Technologie
+  lead: Der Wert entsteht, wenn KI konkrete Entscheidungen verbessert. Deshalb beginnen wir im Geschäft und nicht bei den Werkzeugen.
+  cols: 3
+  items:
+  - title: Schnelle strategische KI-Assessments
+    text: Eine kommerzielle Herausforderung in Tagen statt Monaten von Grund auf analysiert, mit Markt, Wettbewerb und Kundenökonomie in einer Entscheidungsgrundlage.
+  - title: Vom Geschäftsbedarf zu Daten und Apps
+    text: Wir übersetzen, was die Führung entscheiden muss, in die nötigen Datenströme und kleinen Werkzeuge und legen fest, wie die Wirkung gemessen wird.
+  - title: Neue Einsichten aus vorhandenen Daten
+    text: Wo liegt das Abwanderungsrisiko, welche Kunden haben Potenzial, welches Angebot konvertiert? KI findet die Muster, die Kontrollgruppe entscheidet, ob sie halten.
+  link:
+    label: Mehr zur KI-Beratung
+    href: /ai
+- type: cards
+  id: services
+  tone: surface
+  eyebrow: Leistungen
+  heading: Dabei unterstützen wir
+  numbered: true
   items:
   - title: Kommerzielle Strategie und Wachstum
-    text: Entwickeln Sie eine klare Wachstumsrichtung mit gezielten Entscheidungen zu Märkten, Segmenten, Kundenbedürfnissen, Kanälen und Prioritäten. Wir verbinden die Ziele mit einem realistischen Plan, klarer Verantwortung und nachvollziehbaren Kennzahlen.
-  - title: Kundenwert, Kundenbindung und Loyalität
-    text: Verstehen Sie, wodurch Kundenwert und Abwanderung beeinflusst werden. Wir unterstützen bei Segmentierung, Kundenerlebnissen und Maßnahmen zur Kundenbindung – ausgehend von Kundenbedürfnissen und der Wirtschaftlichkeit Ihres Unternehmens.
+    text: Eine klare Wachstumsrichtung mit scharfen Entscheidungen zu Märkten, Segmenten, Kundenbedürfnissen, Kanälen und Prioritäten. Wir verbinden Ambition mit einem realistischen Plan, klarer Verantwortung und messbaren Zielen.
+  - title: Kundenwert, Bindung und Loyalität
+    text: Verstehen, was Kundenwert und Abwanderung treibt. Wir entwickeln Segmentierung, Kundenerlebnisse und Bindungsmaßnahmen auf Basis von Kundenbedürfnissen und Unternehmensökonomie.
   - title: Vertrieb, Go-to-Market und Umsetzung
-    text: Richten Sie Vertriebsaktivitäten stärker auf Wirkung aus. Wir helfen, Vertriebsprozesse, Pipeline-Steuerung, Kanalentscheidungen und die Zusammenarbeit von Marketing, Vertrieb und Kundenservice zu verbessern.
-  - title: Preisgestaltung und Profitabilität
-    text: Bringen Sie Kundenwert, Preis und Ertrag stärker in Einklang. Wir unterstützen bei Preisentscheidungen, Angeboten und kommerziellen Modellen, die Kundenentscheidungen und nachhaltige Profitabilität berücksichtigen.
-  - title: Interim-Führung und Transformation
-    text: Wenn eine wichtige Veränderung zusätzliche Führungskapazität erfordert, kann Glade Advisory Group für einen klar definierten Zeitraum erfahrene kommerzielle Unterstützung einbringen – mit Fokus auf Fortschritt, Koordination und Verankerung.
-  - title: Praktischer KI-Einsatz in kommerziellen Abläufen
-    text: Wir zeigen, wo Daten und KI Entscheidungen, Kundenprozesse und Produktivität verbessern können. Im Mittelpunkt stehen sinnvolle Abläufe, verantwortungsvolle Nutzung und messbarer Nutzen – nicht Technologie um ihrer selbst willen.
-process:
-  heading: Ein pragmatischer Weg zur Wirkung
-  steps:
-  - title: Herausforderung klären
-    text: Was soll sich ändern, und woran erkennen wir den Erfolg?
-  - title: Wichtige Treiber finden
-    text: Daten, Kundeneinblicke und kommerzielle Erfahrung helfen bei der Priorisierung.
-  - title: In Maßnahmen übersetzen
-    text: Initiativen, Verantwortliche, Meilensteine und passende Kennzahlen festlegen.
-  - title: Wirkung verfolgen
-    text: Maßnahmen anhand der Ergebnisse weiterentwickeln.
-about:
-  heading: Erfahrene Beratung. Zusammenarbeit in der Praxis.
-  paragraphs:
-  - Glade Advisory Group verbindet kommerzielle Führungserfahrung mit einem analytischen und operativen Ansatz. Wir arbeiten an der Schnittstelle von Strategie und Umsetzung und passen die Zusammenarbeit an die jeweilige Aufgabe an.
-  portrait:
-    src: img/lars-glade-800.jpg
-    webp: img/lars-glade-800.webp
-    alt: Porträt von Lars Glade
-    caption: Lars Glade, Gründer. 30 Jahre P&L-Verantwortung in der dänischen Telekommunikation und Versicherung.
-contact:
-  heading: Sprechen wir über Ihren nächsten kommerziellen Schritt
-  paragraphs:
-  - Beschreiben Sie kurz Ihre Herausforderung. In einem ersten Gespräch können wir Ziele, Möglichkeiten und einen passenden nächsten Schritt besprechen.
-  cta: Glade Advisory Group kontaktieren
-results:
+    text: Fokussiertere Vertriebsarbeit durch bessere Vertriebsprozesse, Pipeline-Steuerung, Kanalwahl und Zusammenarbeit zwischen Marketing, Vertrieb und Kundenservice.
+  - title: Preisgestaltung und Ertrag
+    text: Kundenwert, Preis und Ertrag verbinden, damit Preisentscheidungen, Angebote und kommerzielle Modelle Kundenwahl und Profitabilität gleichermaßen stützen.
+  - title: KI in kommerziellen Prozessen
+    text: Wir finden die Entscheidungen, bei denen Daten und KI am meisten bewegen, bauen das Kleinste, das funktioniert, und messen die Wirkung. Verantwortungsvoll und messbar, nicht Technologie um ihrer selbst willen.
+  - title: Interim-Management und Transformation
+    text: Wenn eine wichtige Veränderung zusätzliche Führungskraft braucht, stellt Glade Advisory Group für eine begrenzte Zeit erfahrene kommerzielle Kapazität bereit, verantwortlich für Fortschritt und Verankerung.
+- type: figures
+  id: results
+  eyebrow: Ergebnisse
   heading: Gemessen, nicht geschätzt
   lead: Vier Beispiele aus eigener P&L-Verantwortung. Die Wirkung wurde inkrementell gemessen, wo möglich gegen Kontrollgruppen.
+  link:
+    label: Cases und Papiere ansehen
+    href: /cases
   items:
   - figure: 200 Mio. DKK
     title: 'Topdanmark / If: Gesicherter Umsatz'
@@ -70,79 +70,36 @@ results:
   - figure: 75.000 Kunden
     title: 'Sonofon: Lieblingsnummer'
     text: 'Ein asymmetrischer Angriff auf das Festnetz von TDC: 49 DKK im Monat gegen rund 350 DKK im Quartal. Im selben Zeitraum stieg die Festnetz-Abwanderung bei TDC von rund 12 % auf 17–18 %.'
-materials:
-  heading: Materialien
-  lead: Papiere und Analysen, die die Arbeitsweise in der Praxis zeigen. Jedes ist mit dem Unternehmen und dem Zweck angegeben, für die es entstand. Öffnet als PDF.
-  groups:
-  - heading: Eigene Ergebnisse
-    items:
-    - file: kundeoekonomi-i-praksis.pdf
-      context: Telenor 2012 · Fullrate 2014–15 · YouSee 2019
-      title: Kundenökonomie in der Praxis
-      text: Drei Fälle, gemessen gegen Kontrollgruppen, mit den Originalkampagnen im Anhang.
-      meta: PDF · Dänisch
-  - heading: Methode
-    items:
-    - file: commercial-operating-system.pdf
-      context: Glade Advisory Group · eigene Methode
-      title: Commercial Operating System
-      text: 'Eine multiplikative Logik für den gesamten kommerziellen Motor: Marke × Wertversprechen × Umsetzung.'
-      meta: PDF · Dänisch
-    - file: marketing-operating-system.pdf
-      context: Glade Advisory Group · eigene Methode
-      title: Marketing Operating System
-      text: 'Dieselbe Logik im Marketing: zwei Motoren, Neu- und Bestandskunden, mit einer gemeinsamen Ebene.'
-      meta: PDF · Dänisch
-    - file: strategic-thinking-in-practice.pdf
-      context: Methodenbeispiel · 2026
-      title: Strategic Thinking in Practice
-      text: Von der Diagnose über Architektur und Priorisierung bis zur Umsetzung, an einem durchgehenden Beispiel.
-      meta: PDF · Englisch
-    - file: first-principles-commercial-excellence.pdf
-      context: First Principles Friday · 2026
-      title: First Principles of Commercial Excellence
-      text: 'Wenn Mechanik die kommerzielle Logik ersetzt hat: Auslöser, Angebot, Identität und Reibung.'
-      meta: PDF · Englisch
-    - file: big-data-in-practice.pdf
-      context: Gastvorlesung · Erhvervsakademi København, 2026
-      title: Big Data in Practice
-      text: 'Von Kundendaten zu besseren Entscheidungen: ein Fall zur Kundenbindung in der Versicherung.'
-      meta: PDF · Englisch
-  - heading: Strategiepapiere für Unternehmen
-    items:
-    - file: kilroy-positionering.pdf
-      context: Papier für den kommerziellen Direktor von Kilroy · 2026
-      title: 'Kilroy: Positionierung'
-      text: Vom Funnel-Problem zum Positionierungsproblem, mit Pilot und Nachweis vor der Skalierung.
-      meta: PDF · Dänisch
-    - file: verisure-salgsmaskine.pdf
-      context: Erstellt von Glade Advisory Group und dem Vertriebsleiter von Verisure Dänemark vorgelegt · 2026
-      title: 'Verisure: von der Leadjagd zur Vertriebsmaschine'
-      text: 'Turnaround-Analyse eines Außendienstes: Hunter, die Termine buchen, Closer, die verkaufen, und CRM, das bindet.'
-      meta: PDF · Dänisch
-    - file: pandora-pull-engine.pdf
-      context: Strategiefall in einem Auswahlverfahren · Pandora, 2026
-      title: 'Pandora: The Pull Engine'
-      text: Eine Strategieperspektive auf Digital & Technology und die nächste Wachstumsphase.
-      meta: PDF · Englisch
-    - file: tv2-2030.pdf
-      context: Strategiefall in einem Auswahlverfahren · TV 2, 2026
-      title: TV 2 2030
-      text: 'Von der Reichweiten- zur Beziehungsplattform: Was verkauft TV 2 eigentlich?'
-      meta: PDF · Dänisch
-    - file: tv2-18-24.pdf
-      context: Strategiefall in einem Auswahlverfahren · TV 2, 2026
-      title: 'TV 2: die 18- bis 24-Jährigen'
-      text: Drei Hypothesen, vier Phasen mit Abbruchpunkten und zuerst ein Pilot.
-      meta: PDF · Dänisch
-    - file: rockwool-demand-creation.pdf
-      context: Point of View für Rockwool · 2026
-      title: Own the Preference Before the Pipeline
-      text: Nachfrage und Lead Nurturing, wenn der Verkauf in der Spezifikation entsteht, lange vor der Ausschreibung.
-      meta: PDF · Englisch
-    - file: clv-user-engagement.pdf
-      context: Arbeitsprobe in einem Auswahlverfahren · 2026
-      title: Kundenwert durch eine durchgängige Nutzerreise
-      text: Ist die Reise auf Abteilungen verteilt, ist das ein Organisations-, kein CRM-Problem.
-      meta: PDF · Englisch
+- type: steps
+  id: process
+  eyebrow: Arbeitsweise
+  heading: Eine Arbeitsweise mit Fokus auf Wirkung
+  items:
+  - title: Herausforderung klären.
+    text: Was muss sich ändern, und wie sieht Erfolg aus?
+  - title: Wichtigste Treiber finden.
+    text: Daten, Kundeneinsicht und KI-Analyse priorisieren, wo der Einsatz am meisten bewegt.
+  - title: In Handlung übersetzen.
+    text: Initiativen, Verantwortung, Meilensteine und Messpunkte, oft als Pilot mit Abbruchkriterien.
+  - title: Wirkung verfolgen.
+    text: Gegen eine Kontrollgruppe messen und nach den Ergebnissen justieren.
+- type: about
+  id: about
+  heading: Erfahrung auf Senior-Ebene. Praktische Zusammenarbeit.
+  portrait:
+    src: img/lars-glade-800.jpg
+    webp: img/lars-glade-800.webp
+    alt: Porträt von Lars Glade
+    caption: Lars Glade, Gründer. 30 Jahre P&L-Verantwortung in der dänischen Telekommunikation und Versicherung.
+  paragraphs:
+  - Glade Advisory Group verbindet drei Jahrzehnte kommerzieller Führung in Telekommunikation und Versicherung mit einem analytischen und operativen Ansatz. Wir arbeiten über Strategie und Umsetzung hinweg und passen die Zusammenarbeit an die Aufgabe an.
+  - 'Heute arbeiten wir auch mit KI als kommerzieller Disziplin: als strategischer Berater eines nordischen KI-Implementierungshauses, mit eigenen KI-Werkzeugen und mit KI als festem Analysepartner in jedem Papier.'
+  link:
+    label: Mehr über Lars Glade
+    href: /about
+- type: contact
+  heading: Sprechen wir über Ihren nächsten kommerziellen Schritt?
+  paragraphs:
+  - Beschreiben Sie kurz die Herausforderung. Dann führen wir ein erstes Gespräch über Ziele, Möglichkeiten und einen sinnvollen Weg nach vorn. Das erste Gespräch ist kostenlos.
+  cta: Glade Advisory Group kontaktieren
 ---

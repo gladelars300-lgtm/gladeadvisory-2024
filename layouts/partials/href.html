@@ -1,0 +1,13 @@
+{{- /* Resolve a link: "mail", absolute URL, "#anchor", a page path like "/ai" (localised), or a plain path. */ -}}
+{{- $h := . -}}
+{{- $out := "" -}}
+{{- if hasPrefix $h "http" -}}{{- $out = $h -}}
+{{- else if hasPrefix $h "#" -}}{{- $out = $h -}}
+{{- else -}}
+  {{- $parts := split $h "#" -}}
+  {{- with site.GetPage (index $parts 0) -}}
+    {{- $out = .RelPermalink -}}
+    {{- if gt (len $parts) 1 }}{{ $out = printf "%s#%s" $out (index $parts 1) }}{{ end -}}
+  {{- else -}}{{- $out = $h | relLangURL -}}{{- end -}}
+{{- end -}}
+{{- return $out -}}
