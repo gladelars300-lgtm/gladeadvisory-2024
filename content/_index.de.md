@@ -1,105 +1,118 @@
 ---
 # Generated content: edit the text here; layout lives in layouts/partials/sections.html.
-title: Kommerzielle Beratung und KI mit messbarem Wachstum
+title: Komplexe Probleme. Entscheidungsreife Antworten.
 seo_title: Kommerzielle Strategie und KI-Beratung | Glade Advisory Group
-description: 'Glade Advisory Group unterstützt Führungsteams bei kommerzieller Strategie, Kundenökonomie und KI in der Praxis: schnelle Analysen, neue Dateneinsichten und Lösungen, die im Betrieb messbar sind.'
+description: 'Lars Glade hilft Geschäftsführern und kommerziellen Führungskräften, profitables Wachstum aufzubauen: mit kommerzieller Strategie, Kundenökonomie, Go-to-Market und KI in der Praxis. 30 Jahre P&L-Verantwortung.'
 sections:
 - type: hero
-  heading: Holen Sie mehr aus Ihren kommerziellen Möglichkeiten
-  lead: Glade Advisory Group hilft Führungsteams, das schwächste Glied im kommerziellen Motor zu finden und zu beheben. Mit 30 Jahren P&L-Erfahrung und KI als Arbeitswerkzeug wird die Analyse schneller, und die Wirkung lässt sich im Betrieb verfolgen.
+  heading: Komplexe Probleme. Entscheidungsreife Antworten.
+  lead: Ich helfe Geschäftsführern und kommerziellen Führungskräften, das schwächste Glied im kommerziellen Motor zu finden und zu beheben. Dreißig Jahre P&L-Verantwortung, mit KI als Arbeitswerkzeug. Menschen zuerst, Daten als gemeinsame Sprache.
   tagline: Kommerzielle Strategie · Kundenökonomie · KI in der Praxis
   cta:
-    label: Sprechen Sie uns an
+    label: Erzählen Sie mir von Ihrer Herausforderung
     href: '#contact'
   cta2:
-    label: Zur KI-Beratung
-    href: /ai
-- type: cards
-  id: ai-teaser
-  eyebrow: KI in der Praxis
-  heading: KI ist eine Geschäftsaufgabe, nicht nur Technologie
-  lead: Der Wert entsteht, wenn KI konkrete Entscheidungen verbessert. Deshalb beginnen wir im Geschäft und nicht bei den Werkzeugen.
-  cols: 3
-  items:
-  - title: Schnelle strategische KI-Assessments
-    text: Eine kommerzielle Herausforderung in Tagen statt Monaten von Grund auf analysiert, mit Markt, Wettbewerb und Kundenökonomie in einer Entscheidungsgrundlage.
-  - title: Vom Geschäftsbedarf zu Daten und Apps
-    text: Wir übersetzen, was die Führung entscheiden muss, in die nötigen Datenströme und kleinen Werkzeuge und legen fest, wie die Wirkung gemessen wird.
-  - title: Neue Einsichten aus vorhandenen Daten
-    text: Wo liegt das Abwanderungsrisiko, welche Kunden haben Potenzial, welches Angebot konvertiert? KI findet die Muster, die Kontrollgruppe entscheidet, ob sie halten.
-  link:
-    label: Mehr zur KI-Beratung
-    href: /ai
-- type: cards
-  id: services
-  tone: surface
-  eyebrow: Leistungen
-  heading: Dabei unterstützen wir
-  numbered: true
-  items:
-  - title: Kommerzielle Strategie und Wachstum
-    text: Eine klare Wachstumsrichtung mit scharfen Entscheidungen zu Märkten, Segmenten, Kundenbedürfnissen, Kanälen und Prioritäten. Wir verbinden Ambition mit einem realistischen Plan, klarer Verantwortung und messbaren Zielen.
-  - title: Kundenwert, Bindung und Loyalität
-    text: Verstehen, was Kundenwert und Abwanderung treibt. Wir entwickeln Segmentierung, Kundenerlebnisse und Bindungsmaßnahmen auf Basis von Kundenbedürfnissen und Unternehmensökonomie.
-  - title: Vertrieb, Go-to-Market und Umsetzung
-    text: Fokussiertere Vertriebsarbeit durch bessere Vertriebsprozesse, Pipeline-Steuerung, Kanalwahl und Zusammenarbeit zwischen Marketing, Vertrieb und Kundenservice.
-  - title: Preisgestaltung und Ertrag
-    text: Kundenwert, Preis und Ertrag verbinden, damit Preisentscheidungen, Angebote und kommerzielle Modelle Kundenwahl und Profitabilität gleichermaßen stützen.
-  - title: KI in kommerziellen Prozessen
-    text: Wir finden die Entscheidungen, bei denen Daten und KI am meisten bewegen, bauen das Kleinste, das funktioniert, und messen die Wirkung. Verantwortungsvoll und messbar, nicht Technologie um ihrer selbst willen.
-  - title: Interim-Management und Transformation
-    text: Wenn eine wichtige Veränderung zusätzliche Führungskraft braucht, stellt Glade Advisory Group für eine begrenzte Zeit erfahrene kommerzielle Kapazität bereit, verantwortlich für Fortschritt und Verankerung.
+    label: Die Belege ansehen
+    href: '#results'
+- type: quote
+  id: belief
+  text: Strategie hat erst dann Wert, wenn sie am Montagmorgen eine Entscheidung verändert.
+  by: Lars Glade
 - type: figures
   id: results
-  eyebrow: Ergebnisse
-  heading: Gemessen, nicht geschätzt
-  lead: Vier Beispiele aus eigener P&L-Verantwortung. Die Wirkung wurde inkrementell gemessen, wo möglich gegen Kontrollgruppen.
+  eyebrow: Belege
+  heading: Ergebnisse vor Rhetorik.
+  lead: Fünf Ergebnisse aus meiner eigenen P&L-Verantwortung, inkrementell gemessen und, wo möglich, gegen Kontrollgruppen. Und eines, das zeigt, wie ich mit KI arbeite.
   link:
     label: Cases und Papiere ansehen
     href: /cases
   items:
   - figure: 200 Mio. DKK
-    title: 'Topdanmark / If: Gesicherter Umsatz'
-    text: Die Abwanderung unter den wertvollsten Kunden sank von rund 18 % auf 12 %, das Cross-Selling stieg um 5–8 Mio. Euro. Die Arbeit lag in der Verteilung der Leads auf Kanäle und Kompetenzen und in einem Bonusmodell, das das richtige Verhalten belohnte.
+    title: 'Topdanmark / If: Gehaltener Umsatz'
+    text: Die Analyse war der leichte Teil. Schwer war es, jeden Lead in den richtigen Kanal zu leiten und das richtige Verhalten zu bezahlen. Die Abwanderung der wertvollsten Kunden sank von etwa 18 % auf 12 %, das Cross-Selling wuchs um 5–8 Mio. Euro.
+  - figure: Etwa 2× Absatz
+    title: 'Topdanmark: Kranken- und Schwere-Krankheiten-Versicherung'
+    text: Viele glauben, die Krankenversicherung komme mit dem Job. Für viele Beschäftigte im öffentlichen Dienst und in kleineren Unternehmen stimmt das nicht. Gemeinsam mit einem Kollegen habe ich das Angebot um eine Schwere-Krankheiten-Versicherung in Kombination mit klassischer Krankenversicherung gebaut, samt Verkaufsskripten. Der Absatz hat sich 2025 etwa verdoppelt.
   - figure: 19.000 Zusatzverkäufe
-    title: 'YouSee / Nuuday: Verkauf an Bestandskunden'
-    text: Rund 10 Mio. Euro jährlicher Mehrumsatz, gemessen gegen Kontrollgruppen. Kern war die Frage, welche Angebote in welchen Segmenten konvertieren, und der Verzicht auf den Rest.
+    title: 'YouSee / Nuuday: Kunden, die wir schon hatten'
+    text: Ich habe ermittelt, welche Angebote in welchen Segmenten konvertierten, und den Rest gestoppt. Etwa 10 Mio. Euro zusätzlicher Jahresumsatz, gemessen gegen Kontrollgruppen.
   - figure: 50 Mio. DKK
-    title: 'Fullrate / TDC: Neuer Umsatz mit Paketen'
-    text: SIM-only war im Preiskampf an Discounter verloren. Die Akquisitionskosten wurden von Provisionen in Mehrwert im Paket verlagert, und der Absatz stieg deutlich, trotz eines um 20–30 DKK höheren Monatspreises.
+    title: 'Fullrate / TDC: Über Wert gewinnen, nicht über Preis'
+    text: SIM-only war an Discounter verloren. Ich habe das Akquisitionsbudget von Provisionen in Wert im Bundle verlagert. Der Absatz stieg deutlich, trotz eines um 20–30 DKK höheren Monatspreises.
   - figure: 75.000 Kunden
     title: 'Sonofon: Lieblingsnummer'
-    text: 'Ein asymmetrischer Angriff auf das Festnetz von TDC: 49 DKK im Monat gegen rund 350 DKK im Quartal. Im selben Zeitraum stieg die Festnetz-Abwanderung bei TDC von rund 12 % auf 17–18 %.'
+    text: 'Ein asymmetrischer Angriff auf TDCs Festnetzgeschäft: 49 DKK im Monat gegen etwa 350 DKK im Quartal. Im selben Zeitraum stieg TDCs Festnetz-Abwanderung von etwa 12 % auf 17–18 %.'
+  - figure: Ein Vormittag
+    title: 'Diese Website: KI in der Praxis'
+    text: Fünf Seiten in fünf Sprachen, 22 Papiere veröffentlicht, 11 falsche Kontaktangaben korrigiert und 3 veraltete Aussagen entdeckt, in etwa zwei Stunden. Die KI hat die Arbeit gemacht. Ich habe jede Entscheidung getroffen, was geteilt werden durfte.
+- type: cards
+  id: ai-teaser
+  eyebrow: KI in der Praxis
+  heading: KI als Investition, nicht als Mode.
+  lead: Der Wert entsteht, wenn KI eine konkrete Entscheidung verbessert. Deshalb beginne ich im Geschäft und nicht bei den Werkzeugen.
+  cols: 3
+  items:
+  - title: Schnelle strategische KI-Assessments
+    text: Eine kommerzielle Herausforderung, aus ersten Prinzipien in Tagen statt Monaten analysiert. Markt, Wettbewerb und Kundenökonomie in einer Entscheidungsgrundlage.
+  - title: Vom Geschäftsbedarf zu Daten und Apps
+    text: Ich übersetze, was die Führung entscheiden muss, in die nötigen Datenflüsse und kleinen Werkzeuge und lege vorab fest, wie die Wirkung gemessen wird.
+  - title: Neue Erkenntnisse aus vorhandenen Daten
+    text: Wo liegt das Abwanderungsrisiko, welche Kunden haben Potenzial, welches Angebot konvertiert? KI findet die Muster. Die Kontrollgruppe entscheidet, ob sie halten.
+  link:
+    label: Mehr über die KI-Beratung
+    href: /ai
+- type: cards
+  id: services
+  tone: surface
+  eyebrow: Was ich löse
+  heading: Weniger Initiativen. Bessere Initiativen.
+  numbered: true
+  items:
+  - title: Kommerzielle Strategie und Wachstum
+    text: Klare Entscheidungen über Märkte, Segmente, Kundenbedürfnisse und Kanäle, verbunden mit einem realistischen Plan mit benannten Verantwortlichen und messbaren Zielen.
+  - title: Kundenwert, Kundenbindung und Loyalität
+    text: Was Kundenwert und Abwanderung treibt und was dagegen zu tun ist. Segmentierung und Bindung auf Basis von Kundenbedürfnissen und Unternehmensökonomie.
+  - title: Vertrieb, Go-to-Market und Umsetzung
+    text: Vertriebsarbeit mit Fokus. Pipeline, Kanalwahl und die Übergaben zwischen Marketing, Vertrieb und Kundenservice, wo der meiste Wert verloren geht.
+  - title: Preis und Profitabilität
+    text: Kundenwert, Preis und Ertrag in einer Logik, damit Angebote Kunden gewinnen, ohne die Marge zu verschenken.
+  - title: KI in kommerziellen Prozessen
+    text: Ich finde die Entscheidungen, bei denen Daten und KI am meisten bewegen, baue das Kleinste, das funktioniert, und messe die Wirkung.
+  - title: Interim-Management und Transformation
+    text: Wenn ein wichtiger Wandel für eine begrenzte Zeit erfahrene kommerzielle Führung braucht, übernehme ich die Verantwortung für Fortschritt und Verankerung.
 - type: steps
   id: process
-  eyebrow: Arbeitsweise
-  heading: Eine Arbeitsweise mit Fokus auf Wirkung
+  eyebrow: Wie ich arbeite
+  heading: Erste Prinzipien. Pathos durch Logos.
+  lead: Ich beginne nicht mit der Lösung. Ich beginne mit dem, was wahr sein muss, damit eine Lösung funktioniert.
   items:
-  - title: Herausforderung klären.
-    text: Was muss sich ändern, und wie sieht Erfolg aus?
-  - title: Wichtigste Treiber finden.
-    text: Daten, Kundeneinsicht und KI-Analyse priorisieren, wo der Einsatz am meisten bewegt.
-  - title: In Handlung übersetzen.
-    text: Initiativen, Verantwortung, Meilensteine und Messpunkte, oft als Pilot mit Abbruchkriterien.
-  - title: Wirkung verfolgen.
-    text: Gegen eine Kontrollgruppe messen und nach den Ergebnissen justieren.
+  - title: Die Wirkung definieren.
+    text: Welches Verhalten oder welches wirtschaftliche Ergebnis muss sich ändern, und wie messen wir es?
+  - title: Das Problem zerlegen.
+    text: Beobachtungen, Annahmen und Ursachen, sauber getrennt. Keine Daten, kein Argument.
+  - title: An der Realität testen.
+    text: Basisraten, Kundendaten und falsifizierbare Hypothesen schlagen Wunschdenken.
+  - title: Mit den Menschen bauen.
+    text: Wer die Wirkung erzielen soll, gestaltet sie mit.
+  - title: Skalieren, was funktioniert.
+    text: Kurze Lernschleifen, klare Verantwortung, konsequente Nachverfolgung.
 - type: about
   id: about
-  heading: Erfahrung auf Senior-Ebene. Praktische Zusammenarbeit.
+  heading: Senior-Erfahrung. Praktische Zusammenarbeit.
   portrait:
     src: img/lars-glade-800.jpg
     webp: img/lars-glade-800.webp
     alt: Porträt von Lars Glade
     caption: Lars Glade, Gründer. 30 Jahre P&L-Verantwortung in der dänischen Telekommunikation und Versicherung.
   paragraphs:
-  - Glade Advisory Group verbindet drei Jahrzehnte kommerzieller Führung in Telekommunikation und Versicherung mit einem analytischen und operativen Ansatz. Wir arbeiten über Strategie und Umsetzung hinweg und passen die Zusammenarbeit an die Aufgabe an.
-  - 'Heute arbeiten wir auch mit KI als kommerzieller Disziplin: als strategischer Berater eines nordischen KI-Implementierungshauses, mit eigenen KI-Werkzeugen und mit KI als festem Analysepartner in jedem Papier.'
+  - Ich war drei Jahrzehnte in kommerzieller Führung in Telekommunikation und Versicherung tätig, verantwortlich für die Zahlen und nicht nur beratend. Ich arbeite über Strategie und Umsetzung hinweg und richte jede Zusammenarbeit an der konkreten Aufgabe aus.
+  - 'Heute arbeite ich auch mit KI als kommerzieller Disziplin: als strategischer Berater eines nordischen KI-Implementierungshauses, mit eigenen KI-Werkzeugen und mit KI als fester Analysepartnerin in jedem Papier.'
   link:
-    label: Mehr über Lars Glade
+    label: Mehr über mich
     href: /about
 - type: contact
-  heading: Sprechen wir über Ihren nächsten kommerziellen Schritt?
+  heading: Haben Sie ein wichtiges Problem, dem noch eine klare Antwort fehlt?
   paragraphs:
-  - Beschreiben Sie kurz die Herausforderung. Dann führen wir ein erstes Gespräch über Ziele, Möglichkeiten und einen sinnvollen Weg nach vorn. Das erste Gespräch ist kostenlos.
-  cta: Glade Advisory Group kontaktieren
+  - Beschreiben Sie mir kurz die Herausforderung, dann sehen wir weiter. Das erste Gespräch ist kostenlos.
+  cta: Schreiben Sie mir
 ---
