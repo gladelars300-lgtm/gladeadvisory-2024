@@ -1,62 +1,62 @@
 ---
-# Approved copy, converted from the multilingual copy package.
-# Edit text here; layout lives in layouts/index.html.
-title: Kommersiell rådgivning som gjør strategi til vekst
-seo_title: Kommersiell strategi og vekst | Glade Advisory Group
-description: Glade Advisory Group omsetter kommersiell strategi til handling innen salg, kundeverdi, kundelojalitet, prising og go-to-market.
-hero:
-  heading: Få mer ut av de kommersielle mulighetene deres
-  lead: Glade Advisory Group hjelper ledergrupper med å gjøre kommersielle ambisjoner om til tydelige prioriteringer, sterkere kundeøkonomi og resultater som kan følges i den daglige driften.
-  tagline: Fra analyse til handling. Fra aktivitet til kundeverdi.
-  cta: Snakk med oss om den kommersielle utfordringen deres
-intro:
-  heading: Få strategien til å fungere i praksis
-  paragraphs:
-  - Mange virksomheter trenger ikke enda en strategi som blir liggende i en skuff. De trenger å vite hvilke kunder og aktiviteter som skaper verdi, hva som bremser veksten, og hvordan innsikt kan bli til handling i organisasjonen.
-  - Vi samarbeider tett med ledelsen og teamene som skal gjennomføre arbeidet. Oppdraget tilpasses situasjonen – fra en målrettet analyse til et større omstillings- eller interimoppdrag.
-services:
-  heading: Slik kan vi bidra
+# Generated content: edit the text here; layout lives in layouts/partials/sections.html.
+title: Kommersiell rådgivning og AI som skaper målbar vekst
+seo_title: Kommersiell strategi og AI-rådgivning | Glade Advisory Group
+description: 'Glade Advisory Group hjelper ledergrupper med kommersiell strategi, kundeøkonomi og AI i praksis: raske analyser, ny datainnsikt og løsninger som kan måles i driften.'
+sections:
+- type: hero
+  heading: Få mer ut av deres kommersielle muligheter
+  lead: Glade Advisory Group hjelper ledelser med å finne det svakeste leddet i den kommersielle motoren og rette det opp. Med 30 års resultatansvar og AI som arbeidsverktøy går analysen raskere, og effekten kan følges i driften.
+  tagline: Kommersiell strategi · Kundeøkonomi · AI i praksis
+  cta:
+    label: Kontakt oss om utfordringen
+    href: '#contact'
+  cta2:
+    label: Se AI-rådgivningen
+    href: /ai
+- type: cards
+  id: ai-teaser
+  eyebrow: AI i praksis
+  heading: AI er en forretningsoppgave, ikke bare teknologi
+  lead: Verdien kommer når AI forbedrer konkrete beslutninger. Derfor starter vi i forretningen og ikke i verktøyene.
+  cols: 3
+  items:
+  - title: Raske strategiske AI-vurderinger
+    text: En kommersiell utfordring analysert fra grunnen av på dager i stedet for måneder, med marked, konkurrenter og kundeøkonomi samlet i ett beslutningsgrunnlag.
+  - title: Fra forretningsbehov til data og apper
+    text: Vi oversetter det ledelsen skal beslutte til de datastrømmene og små verktøyene som trengs, og definerer hvordan effekten skal måles.
+  - title: Ny innsikt fra data dere allerede har
+    text: Hvor er risikoen for kundefrafall, hvilke kunder har potensial, og hvilket tilbud konverterer? AI finner mønstrene, kontrollgruppen avgjør om de holder.
+  link:
+    label: Les mer om AI-rådgivningen
+    href: /ai
+- type: cards
+  id: services
+  tone: surface
+  eyebrow: Tjenester
+  heading: Dette hjelper vi med
+  numbered: true
   items:
   - title: Kommersiell strategi og vekst
-    text: Sett en tydelig retning for vekst gjennom gode valg om markeder, segmenter, kundebehov, kanaler og prioriteringer. Vi kobler ambisjonene til en realistisk plan, tydelig ansvar og mål som kan følges opp.
-  - title: Kundeverdi, kundelojalitet og frafall
-    text: Forstå hva som påvirker kundeverdi og kundefrafall. Vi bidrar til å utvikle segmentering, kundeopplevelser og tiltak for å beholde kunder, med utgangspunkt i kundenes behov og virksomhetens økonomi.
+    text: En tydelig retning for vekst med skarpe valg om markeder, segmenter, kundebehov, kanaler og prioriteringer. Vi kobler ambisjonene til en realistisk plan, tydelig eierskap og mål som kan følges opp.
+  - title: Kundeverdi, lojalitet og kundebehold
+    text: Forstå hva som driver kundeverdi og frafall. Vi utvikler segmentering, kundeopplevelser og lojalitetstiltak ut fra kundens behov og virksomhetens økonomi.
   - title: Salg, go-to-market og gjennomføring
-    text: Gjør salgsarbeidet mer målrettet. Vi hjelper med å forbedre salgsprosesser, pipeline-oppfølging, kanalvalg og samarbeidet mellom markedsføring, salg og kundeservice.
-  - title: Prising og lønnsomhet
-    text: Skap en sterkere sammenheng mellom kundeverdi, pris og lønnsomhet. Vi hjelper med å strukturere prisbeslutninger, tilbud og kommersielle modeller som ivaretar både kundenes valg og bærekraftig lønnsomhet.
-  - title: Interimledelse og omstilling
-    text: Når en viktig endring krever ekstra lederkapasitet, kan Glade Advisory Group bidra med senior kommersiell kompetanse i en avgrenset periode – med vekt på fremdrift, koordinering og forankring.
-  - title: Praktisk bruk av AI i kommersielle prosesser
-    text: Vi finner områder der data og AI kan forbedre beslutninger, kundeprosesser og produktivitet. Fokuset er på nyttige arbeidsflyter, ansvarlig bruk og målbar verdi – ikke teknologi for teknologiens skyld.
-process:
-  heading: En praktisk arbeidsform med vekt på effekt
-  steps:
-  - title: Avklar utfordringen
-    text: Hva skal endres, og hvordan ser suksess ut?
-  - title: Finn de viktigste driverne
-    text: Bruk data, kundeinnsikt og kommersiell erfaring til å prioritere.
-  - title: Gjør prioriteringene konkrete
-    text: Beskriv tiltak, ansvar, milepæler og relevante måltall.
-  - title: Følg effekten
-    text: Juster arbeidet etter det resultatene viser.
-about:
-  heading: Senior erfaring. Praktisk samarbeid.
-  paragraphs:
-  - Glade Advisory Group kombinerer kommersiell ledererfaring med en analytisk og operativ tilnærming. Vi arbeider mellom strategi og gjennomføring og tilpasser samarbeidet til oppgaven.
-  portrait:
-    src: img/lars-glade-800.jpg
-    webp: img/lars-glade-800.webp
-    alt: Portrett av Lars Glade
-    caption: Lars Glade, grunnlegger. 30 års resultatansvar i dansk telekom og forsikring.
-contact:
-  heading: Skal vi snakke om deres neste kommersielle steg?
-  paragraphs:
-  - Fortell kort om utfordringen. Vi tar gjerne en innledende samtale om målene, mulighetene og en god vei videre.
-  cta: Kontakt Glade Advisory Group
-results:
+    text: Et mer fokusert salgsarbeid gjennom bedre salgsprosesser, pipeline-styring, kanalvalg og samarbeid mellom markedsføring, salg og kundeservice.
+  - title: Prising og inntjening
+    text: Bedre sammenheng mellom kundeverdi, pris og inntjening, slik at prisbeslutninger, tilbud og kommersielle modeller støtter både kundens valg og lønnsomheten.
+  - title: AI i kommersielle prosesser
+    text: Vi finner beslutningene der data og AI flytter mest, bygger det minste som virker, og måler effekten. Ansvarlig bruk og målbar nytte, ikke teknologi for teknologiens skyld.
+  - title: Interimsledelse og transformasjon
+    text: Når en viktig endring krever ekstra lederkraft, bidrar Glade Advisory Group med senior kommersiell kapasitet i en avgrenset periode, med ansvar for fremdrift og forankring.
+- type: figures
+  id: results
+  eyebrow: Resultater
   heading: Målt, ikke anslått
   lead: Fire eksempler fra eget resultatansvar. Effekten ble målt inkrementelt, mot kontrollgrupper der det var mulig.
+  link:
+    label: Se caser og dokumenter
+    href: /cases
   items:
   - figure: 200 mill. kr.
     title: 'Topdanmark / If: Beholdt omsetning'
@@ -70,79 +70,36 @@ results:
   - figure: 75 000 kunder
     title: 'Sonofon: Yndlingsnummer'
     text: 'Et asymmetrisk angrep på TDCs fasttelefoni: 49 DKK i måneden mot om lag 350 DKK i kvartalet. I samme periode steg TDCs frafall i fasttelefoni fra om lag 12 % til 17–18 %.'
-materials:
-  heading: Materiell
-  lead: Dokumenter og analyser som viser arbeidsmetoden i praksis. Hvert dokument vises med selskapet og formålet det ble laget for. Åpnes som PDF.
-  groups:
-  - heading: Egne resultater
-    items:
-    - file: kundeoekonomi-i-praksis.pdf
-      context: Telenor 2012 · Fullrate 2014–15 · YouSee 2019
-      title: Kundeøkonomi i praksis
-      text: Tre caser målt mot kontrollgrupper, med de originale kampanjene som vedlegg.
-      meta: PDF · dansk
-  - heading: Metode
-    items:
-    - file: commercial-operating-system.pdf
-      context: Glade Advisory Group · egen metode
-      title: Commercial Operating System
-      text: 'Én multiplikativ logikk for hele den kommersielle motoren: merkevare × verdiforslag × gjennomføring.'
-      meta: PDF · dansk
-    - file: marketing-operating-system.pdf
-      context: Glade Advisory Group · egen metode
-      title: Marketing Operating System
-      text: 'Den samme logikken brukt på markedsføring: to motorer, nye og eksisterende kunder, med ett felles lag.'
-      meta: PDF · dansk
-    - file: strategic-thinking-in-practice.pdf
-      context: Metodeeksempel · 2026
-      title: Strategic Thinking in Practice
-      text: Fra diagnose via arkitektur og prioritering til gjennomføring, med ett gjennomgående eksempel.
-      meta: PDF · engelsk
-    - file: first-principles-commercial-excellence.pdf
-      context: First Principles Friday · 2026
-      title: First Principles of Commercial Excellence
-      text: 'Når mekanikken har erstattet den kommersielle logikken: utløser, tilbud, identitet og friksjon.'
-      meta: PDF · engelsk
-    - file: big-data-in-practice.pdf
-      context: Gjesteforelesning · Erhvervsakademi København, 2026
-      title: Big Data in Practice
-      text: 'Fra kundedata til bedre beslutninger: en case om kundelojalitet i forsikring.'
-      meta: PDF · engelsk
-  - heading: Strategidokumenter til selskaper
-    items:
-    - file: kilroy-positionering.pdf
-      context: Dokument til Kilroys kommersielle direktør · 2026
-      title: 'Kilroy: posisjonering'
-      text: Fra traktproblem til posisjoneringsproblem, med pilot og bevis før skalering.
-      meta: PDF · dansk
-    - file: verisure-salgsmaskine.pdf
-      context: Utarbeidet av Glade Advisory Group og delt med salgssjefen i Verisure Danmark · 2026
-      title: 'Verisure: fra leadjakt til salgsmaskin'
-      text: 'Turnaround-analyse av en feltsalgsstyrke: hunters som booker, closers som selger og CRM som beholder.'
-      meta: PDF · dansk
-    - file: pandora-pull-engine.pdf
-      context: Strategicase i rekrutteringsprosess · Pandora, 2026
-      title: 'Pandora: The Pull Engine'
-      text: Et strategiperspektiv på Digital & Technology og neste vekstfase.
-      meta: PDF · engelsk
-    - file: tv2-2030.pdf
-      context: Strategicase i rekrutteringsprosess · TV 2, 2026
-      title: TV 2 2030
-      text: 'Fra rekkeviddeplattform til relasjonsplattform: hva selger TV 2 egentlig?'
-      meta: PDF · dansk
-    - file: tv2-18-24.pdf
-      context: Strategicase i rekrutteringsprosess · TV 2, 2026
-      title: 'TV 2: 18–24-åringene'
-      text: Tre hypoteser, fire faser med stoppunkter og pilot først.
-      meta: PDF · dansk
-    - file: rockwool-demand-creation.pdf
-      context: Point of view til Rockwool · 2026
-      title: Own the Preference Before the Pipeline
-      text: Etterspørsel og lead nurture når salget formes i spesifikasjonen, lenge før anbudet.
-      meta: PDF · engelsk
-    - file: clv-user-engagement.pdf
-      context: Arbeidsprøve i rekrutteringsprosess · 2026
-      title: Kundeverdi gjennom én samlet kundereise
-      text: Når reisen er delt mellom avdelinger, er det et organisasjonsproblem, ikke et CRM-problem.
-      meta: PDF · engelsk
+- type: steps
+  id: process
+  eyebrow: Arbeidsform
+  heading: En arbeidsform med fokus på effekt
+  items:
+  - title: Avklar utfordringen.
+    text: Hva skal endres, og hvordan ser suksess ut?
+  - title: Finn de viktigste driverne.
+    text: Data, kundeinnsikt og AI-analyse prioriterer hvor innsatsen flytter mest.
+  - title: Omsett til handling.
+    text: Tiltak, ansvar, milepæler og målepunkter, ofte som en pilot med stoppkriterier.
+  - title: Følg effekten.
+    text: Mål mot en kontrollgruppe og juster etter det resultatene viser.
+- type: about
+  id: about
+  heading: Senior erfaring. Praktisk samarbeid.
+  portrait:
+    src: img/lars-glade-800.jpg
+    webp: img/lars-glade-800.webp
+    alt: Portrett av Lars Glade
+    caption: Lars Glade, grunnlegger. 30 års resultatansvar i dansk telekom og forsikring.
+  paragraphs:
+  - Glade Advisory Group kombinerer tre tiår med kommersiell ledelse i telekom og forsikring med en analytisk og operativ tilnærming. Vi arbeider på tvers av strategi og gjennomføring og tilpasser samarbeidet til oppgaven.
+  - 'I dag arbeider vi også med AI som kommersiell disiplin: som strategisk rådgiver for et nordisk AI-implementeringshus, med egne AI-verktøy og med AI som fast analysepartner i alle dokumenter.'
+  link:
+    label: Mer om Lars Glade
+    href: /about
+- type: contact
+  heading: Skal vi snakke om deres neste kommersielle steg?
+  paragraphs:
+  - Beskriv kort utfordringen. Da tar vi en innledende samtale om mål, muligheter og en passende vei videre. Den første samtalen er gratis.
+  cta: Kontakt Glade Advisory Group
 ---

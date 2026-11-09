@@ -24,24 +24,92 @@ disableKinds = ["taxonomy", "term", "rss"]
     weight = 1
     [languages.da.params]
       ogLocale = "da_DK"
+
+    [[languages.da.menus.main]]
+      name = "AI-rådgivning"
+      pageRef = "/ai"
+      weight = 1
+    [[languages.da.menus.main]]
+      name = "Cases"
+      pageRef = "/cases"
+      weight = 2
+    [[languages.da.menus.main]]
+      name = "Arbejdsform"
+      pageRef = "/method"
+      weight = 3
+    [[languages.da.menus.main]]
+      name = "Om"
+      pageRef = "/about"
+      weight = 4
   [languages.en]
     label = "English"
     locale = "en"
     weight = 2
     [languages.en.params]
       ogLocale = "en_GB"
+
+    [[languages.en.menus.main]]
+      name = "AI advisory"
+      pageRef = "/ai"
+      weight = 1
+    [[languages.en.menus.main]]
+      name = "Cases"
+      pageRef = "/cases"
+      weight = 2
+    [[languages.en.menus.main]]
+      name = "How we work"
+      pageRef = "/method"
+      weight = 3
+    [[languages.en.menus.main]]
+      name = "About"
+      pageRef = "/about"
+      weight = 4
   [languages.de]
     label = "Deutsch"
     locale = "de"
     weight = 3
     [languages.de.params]
       ogLocale = "de_DE"
+
+    [[languages.de.menus.main]]
+      name = "KI-Beratung"
+      pageRef = "/ai"
+      weight = 1
+    [[languages.de.menus.main]]
+      name = "Cases"
+      pageRef = "/cases"
+      weight = 2
+    [[languages.de.menus.main]]
+      name = "Arbeitsweise"
+      pageRef = "/method"
+      weight = 3
+    [[languages.de.menus.main]]
+      name = "Über uns"
+      pageRef = "/about"
+      weight = 4
   [languages.sv]
     label = "Svenska"
     locale = "sv"
     weight = 4
     [languages.sv.params]
       ogLocale = "sv_SE"
+
+    [[languages.sv.menus.main]]
+      name = "AI-rådgivning"
+      pageRef = "/ai"
+      weight = 1
+    [[languages.sv.menus.main]]
+      name = "Case"
+      pageRef = "/cases"
+      weight = 2
+    [[languages.sv.menus.main]]
+      name = "Arbetssätt"
+      pageRef = "/method"
+      weight = 3
+    [[languages.sv.menus.main]]
+      name = "Om"
+      pageRef = "/about"
+      weight = 4
   # Norwegian Bokmål: URL prefix /no/, but html lang and hreflang use locale "nb".
   [languages.no]
     label = "Norsk"
@@ -49,6 +117,23 @@ disableKinds = ["taxonomy", "term", "rss"]
     weight = 5
     [languages.no.params]
       ogLocale = "nb_NO"
+
+    [[languages.no.menus.main]]
+      name = "AI-rådgivning"
+      pageRef = "/ai"
+      weight = 1
+    [[languages.no.menus.main]]
+      name = "Caser"
+      pageRef = "/cases"
+      weight = 2
+    [[languages.no.menus.main]]
+      name = "Arbeidsform"
+      pageRef = "/method"
+      weight = 3
+    [[languages.no.menus.main]]
+      name = "Om"
+      pageRef = "/about"
+      weight = 4
 
 [sitemap]
   changeFreq = "monthly"

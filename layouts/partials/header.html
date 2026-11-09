@@ -1,15 +1,23 @@
 {{- $tr := .AllTranslations }}
 {{- if lt (len $tr) 2 }}{{ $tr = site.Home.AllTranslations }}{{ end }}
+{{- $cur := . }}
 <header class="site-header">
   <div class="wrap header-row">
     <a class="brand" href="{{ site.Home.RelPermalink }}">Glade Advisory Group</a>
-    <nav class="header-nav" aria-label="{{ i18n "langs" }}">
-      <ul class="langs">
+    <nav class="main-nav" aria-label="{{ i18n "menu" }}">
+      <ul>
+      {{- range site.Menus.main }}
+        <li><a href="{{ .URL }}"{{ if $cur.IsMenuCurrent "main" . }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
+      {{- end }}
+      </ul>
+    </nav>
+    <div class="header-nav">
+      <ul class="langs" aria-label="{{ i18n "langs" }}">
       {{- range $tr }}
         <li><a href="{{ .RelPermalink }}" hreflang="{{ .Language.Locale }}" lang="{{ .Language.Locale }}" title="{{ .Language.Label }}" aria-label="{{ .Language.Label }}"{{ if eq .Lang site.Language.Lang }} aria-current="true"{{ end }}>{{ upper .Lang }}</a></li>
       {{- end }}
       </ul>
-      <a class="header-cta" href="{{ site.Home.RelPermalink }}#contact">{{ i18n "contact" }}</a>
-    </nav>
+      <a class="header-cta" href="#contact">{{ i18n "contact" }}</a>
+    </div>
   </div>
 </header>
