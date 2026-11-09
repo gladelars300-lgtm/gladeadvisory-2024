@@ -41,7 +41,14 @@ sections:
     title: 'TV 2: from reach platform to relationship platform'
     text: What does TV 2 sell when content is infinite and attention fragmented? AI-assisted first-principles work with three relational segments and a concrete project design to win back 18–24-year-olds.
     insight: The scarce resource will not be content but verified relationship, habit and trust.
+    image:
+      src: img/cases/tv2-segmenter.jpg
+      alt: AI-visualised segment sheets for TV 2 Sport, TV 2 Liv and TV 2 Familie
+      w: 1200
+      h: 1067
     files:
+    - file: tv2-segmenter.pdf
+      label: Three segments, AI-visualised
     - file: tv2-2030.pdf
       label: TV 2 2030
     - file: tv2-18-24.pdf
@@ -60,6 +67,18 @@ sections:
     files:
     - file: verisure-salgsmaskine.pdf
       label: The analysis
+  - context: Paper for Norlys in a recruitment process · 2026
+    title: 'Norlys: the green energy company that also wins on Tuesday'
+    text: '25 years of telecoms experience applied to Norlys after the Telia acquisition: the green identity as what competitors cannot copy, three structural ways forward, a red-team attack on the strategy and the economics worked through on public figures.'
+    insight: Brand investment on top of a leaking operational core is perfume on a leak.
+    image:
+      src: img/cases/norlys-vindmoeller.jpg
+      alt: Wind turbines in a Danish coastal landscape, AI-generated
+      w: 845
+      h: 475
+    files:
+    - file: norlys-25-aars-telco-perspektiv.pdf
+      label: The paper
   - context: Strategy paper in a recruitment process · Norrlyst, 2026
     title: 'Norrlyst: one engine, 15 voices'
     text: 'A commercial strategy and marketing plan for a restaurant group with 15 concepts: one shared engine for data, CRM and media buying while each venue keeps its own voice. Steered by repeat-visit economics.'

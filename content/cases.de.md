@@ -41,7 +41,14 @@ sections:
     title: 'TV 2: von der Reichweiten- zur Beziehungsplattform'
     text: Was verkauft TV 2, wenn Inhalte unendlich sind und die Aufmerksamkeit zersplittert? KI-gestützte Arbeit von Grund auf mit drei relationalen Segmenten und einem konkreten Projektdesign, um die 18- bis 24-Jährigen zurückzugewinnen.
     insight: Die knappe Ressource wird nicht Inhalt sein, sondern verifizierte Beziehung, Gewohnheit und Vertrauen.
+    image:
+      src: img/cases/tv2-segmenter.jpg
+      alt: KI-visualisierte Segmentblätter für TV 2 Sport, TV 2 Liv und TV 2 Familie
+      w: 1200
+      h: 1067
     files:
+    - file: tv2-segmenter.pdf
+      label: Drei Segmente, KI-visualisiert
     - file: tv2-2030.pdf
       label: TV 2 2030
     - file: tv2-18-24.pdf
@@ -60,6 +67,18 @@ sections:
     files:
     - file: verisure-salgsmaskine.pdf
       label: Die Analyse
+  - context: Papier für Norlys in einem Auswahlverfahren · 2026
+    title: 'Norlys: der grüne Energieversorger, der auch am Dienstag gewinnt'
+    text: '25 Jahre Telekommunikationserfahrung, angewandt auf Norlys nach der Übernahme von Telia: die grüne Identität als das, was Wettbewerber nicht kopieren können, drei strukturelle Wege nach vorn, ein Red-Team-Angriff auf die eigene Strategie und die Ökonomie auf Basis öffentlicher Zahlen durchgerechnet.'
+    insight: Markeninvestition auf einem undichten operativen Kern ist Parfüm auf einem Leck.
+    image:
+      src: img/cases/norlys-vindmoeller.jpg
+      alt: Windräder in einer dänischen Küstenlandschaft, KI-generiert
+      w: 845
+      h: 475
+    files:
+    - file: norlys-25-aars-telco-perspektiv.pdf
+      label: Das Papier
   - context: Strategiepapier in einem Auswahlverfahren · Norrlyst, 2026
     title: 'Norrlyst: ein Motor, 15 Stimmen'
     text: 'Eine kommerzielle Strategie und ein Marketingplan für eine Restaurantgruppe mit 15 Konzepten: ein gemeinsamer Motor für Daten, CRM und Mediaeinkauf, während jedes Haus seine eigene Stimme behält. Gesteuert nach der Ökonomie der Wiederbesuche.'

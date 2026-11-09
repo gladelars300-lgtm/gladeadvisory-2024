@@ -41,7 +41,14 @@ sections:
     title: 'TV 2: fra reach-platform til relationel platform'
     text: Hvad sælger TV 2, når content er uendeligt og opmærksomheden fragmenteret? Et AI-assisteret arbejde fra første princip med tre relationelle segmenter og et konkret projektdesign for at genvinde de 18-24-årige.
     insight: Den knappe ressource bliver ikke content, men verificeret relation, vane og tillid.
+    image:
+      src: img/cases/tv2-segmenter.jpg
+      alt: AI-visualiserede segmentark for TV 2 Sport, TV 2 Liv og TV 2 Familie
+      w: 1200
+      h: 1067
     files:
+    - file: tv2-segmenter.pdf
+      label: Tre segmenter, AI-visualiseret
     - file: tv2-2030.pdf
       label: TV 2 2030
     - file: tv2-18-24.pdf
@@ -60,6 +67,18 @@ sections:
     files:
     - file: verisure-salgsmaskine.pdf
       label: Analysen
+  - context: Oplæg til Norlys i rekrutteringsforløb · 2026
+    title: 'Norlys: det grønne energiselskab, der også vinder tirsdag'
+    text: '25 års telco-erfaring anvendt på Norlys efter Telia-opkøbet: den grønne identitet som det, konkurrenterne ikke kan kopiere, tre strukturelle veje frem, et rødt team-angreb på egen strategi og økonomien regnet igennem på offentlige tal.'
+    insight: Brandinvestering oven på en utæt operationel kerne er parfume på en lækage.
+    image:
+      src: img/cases/norlys-vindmoeller.jpg
+      alt: Vindmøller i et dansk kystlandskab, AI-genereret
+      w: 845
+      h: 475
+    files:
+    - file: norlys-25-aars-telco-perspektiv.pdf
+      label: Oplægget
   - context: Strategioplæg i rekrutteringsforløb · Norrlyst, 2026
     title: 'Norrlyst: fælles motor, 15 stemmer'
     text: 'En kommerciel strategi og marketingplan for en restaurantgruppe med 15 koncepter: én fælles motor for data, CRM og indkøb af medier, mens hvert hus bevarer sin egen stemme. Styret efter genbesøgsøkonomi.'
