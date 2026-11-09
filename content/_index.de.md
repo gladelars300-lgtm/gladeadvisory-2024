@@ -44,9 +44,50 @@ about:
   heading: Erfahrene Beratung. Zusammenarbeit in der Praxis.
   paragraphs:
   - Glade Advisory Group verbindet kommerzielle Führungserfahrung mit einem analytischen und operativen Ansatz. Wir arbeiten an der Schnittstelle von Strategie und Umsetzung und passen die Zusammenarbeit an die jeweilige Aufgabe an.
+  portrait:
+    src: img/lars-glade-800.jpg
+    webp: img/lars-glade-800.webp
+    alt: Porträt von Lars Glade
+    caption: Lars Glade, Gründer. 30 Jahre P&L-Verantwortung in der dänischen Telekommunikation und Versicherung.
 contact:
   heading: Sprechen wir über Ihren nächsten kommerziellen Schritt
   paragraphs:
   - Beschreiben Sie kurz Ihre Herausforderung. In einem ersten Gespräch können wir Ziele, Möglichkeiten und einen passenden nächsten Schritt besprechen.
   cta: Glade Advisory Group kontaktieren
+results:
+  heading: Gemessen, nicht geschätzt
+  lead: Vier Beispiele aus eigener P&L-Verantwortung. Die Wirkung wurde inkrementell gemessen, wo möglich gegen Kontrollgruppen.
+  items:
+  - figure: 200 Mio. DKK
+    title: 'Topdanmark / If: Gesicherter Umsatz'
+    text: Die Abwanderung unter den wertvollsten Kunden sank von rund 18 % auf 12 %, das Cross-Selling stieg um 5–8 Mio. Euro. Die Arbeit lag in der Verteilung der Leads auf Kanäle und Kompetenzen und in einem Bonusmodell, das das richtige Verhalten belohnte.
+  - figure: 19.000 Zusatzverkäufe
+    title: 'YouSee / Nuuday: Verkauf an Bestandskunden'
+    text: Rund 10 Mio. Euro jährlicher Mehrumsatz, gemessen gegen Kontrollgruppen. Kern war die Frage, welche Angebote in welchen Segmenten konvertieren, und der Verzicht auf den Rest.
+  - figure: 50 Mio. DKK
+    title: 'Fullrate / TDC: Neuer Umsatz mit Paketen'
+    text: SIM-only war im Preiskampf an Discounter verloren. Die Akquisitionskosten wurden von Provisionen in Mehrwert im Paket verlagert, und der Absatz stieg deutlich, trotz eines um 20–30 DKK höheren Monatspreises.
+  - figure: 75.000 Kunden
+    title: 'Sonofon: Lieblingsnummer'
+    text: 'Ein asymmetrischer Angriff auf das Festnetz von TDC: 49 DKK im Monat gegen rund 350 DKK im Quartal. Im selben Zeitraum stieg die Festnetz-Abwanderung bei TDC von rund 12 % auf 17–18 %.'
+materials:
+  heading: Materialien
+  lead: Beispiele für Analysen und Strategiepapiere. Öffnet als PDF.
+  items:
+  - file: commercial-operating-system.pdf
+    title: Commercial Operating System
+    text: 'Eine multiplikative Logik für den gesamten kommerziellen Motor: Marke × Wertversprechen × Umsetzung.'
+    meta: PDF · Dänisch
+  - file: pandora-pull-engine.pdf
+    title: 'Pandora: The Pull Engine'
+    text: Eine Strategieperspektive auf Digital & Technology und die nächste Wachstumsphase.
+    meta: PDF · Englisch
+  - file: kilroy-positionering.pdf
+    title: 'Kilroy: Positionierung'
+    text: Vom Funnel-Problem zum Positionierungsproblem, mit Pilot und Nachweis vor der Skalierung.
+    meta: PDF · Dänisch
+  - file: tv2-2030.pdf
+    title: TV 2 2030
+    text: 'Von der Reichweiten- zur Beziehungsplattform: Was verkauft TV 2 eigentlich?'
+    meta: PDF · Dänisch
 ---

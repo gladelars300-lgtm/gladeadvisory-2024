@@ -49,14 +49,61 @@
   </div>
 </section>
 
+<section class="results" id="results" aria-labelledby="results-h">
+  <div class="wrap">
+    <p class="eyebrow">{{ i18n "results_label" }}</p>
+    <h2 id="results-h">{{ $p.results.heading }}</h2>
+    <p class="lead">{{ $p.results.lead }}</p>
+    <ul class="results-grid" role="list">
+      {{- range $p.results.items }}
+      <li class="result">
+        <p class="figure">{{ .figure }}</p>
+        <h3>{{ .title }}</h3>
+        <p>{{ .text }}</p>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</section>
+
 <section class="about" aria-labelledby="about-h">
   <div class="wrap split">
-    <h2 id="about-h">{{ $p.about.heading }}</h2>
+    <div>
+      <h2 id="about-h">{{ $p.about.heading }}</h2>
+      {{- with $p.about.portrait }}
+      <figure class="portrait">
+        <picture>
+          <source srcset="{{ .webp | relURL }}" type="image/webp">
+          <img src="{{ .src | relURL }}" alt="{{ .alt }}" width="800" height="800" loading="lazy" decoding="async">
+        </picture>
+        <figcaption>{{ .caption }}</figcaption>
+      </figure>
+      {{- end }}
+    </div>
     <div class="prose">
       {{- range $p.about.paragraphs }}
       <p>{{ . }}</p>
       {{- end }}
     </div>
+  </div>
+</section>
+
+<section class="materials" id="materials" aria-labelledby="materials-h">
+  <div class="wrap">
+    <p class="eyebrow">{{ i18n "materials_label" }}</p>
+    <h2 id="materials-h">{{ $p.materials.heading }}</h2>
+    <p class="lead">{{ $p.materials.lead }}</p>
+    <ul class="docs" role="list">
+      {{- range $p.materials.items }}
+      <li>
+        <a class="doc" href="{{ .file | absURL }}" target="_blank" rel="noopener">
+          <span class="doc-title">{{ .title }}</span>
+          <span class="doc-text">{{ .text }}</span>
+          <span class="doc-meta">{{ .meta }} ↗</span>
+        </a>
+      </li>
+      {{- end }}
+    </ul>
   </div>
 </section>
 

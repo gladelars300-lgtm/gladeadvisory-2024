@@ -44,9 +44,50 @@ about:
   heading: Senior erfaring. Praktisk samarbejde.
   paragraphs:
   - Glade Advisory Group kombinerer kommerciel ledelseserfaring med analytisk og operationel tilgang. Vi arbejder på tværs af strategi og eksekvering og tilpasser samarbejdet til den opgave, der skal løses.
+  portrait:
+    src: img/lars-glade-800.jpg
+    webp: img/lars-glade-800.webp
+    alt: Portræt af Lars Glade
+    caption: Lars Glade, stifter. 30 års P&L-ansvar i dansk telekom og forsikring.
 contact:
   heading: Skal vi tale om jeres næste kommercielle skridt?
   paragraphs:
   - Beskriv kort jeres udfordring. Så tager vi en indledende samtale om mål, muligheder og en passende måde at komme videre på.
   cta: Kontakt Glade Advisory Group
+results:
+  heading: Målt, ikke anslået
+  lead: Fire eksempler fra egne P&L-ansvar. Effekten er opgjort inkrementelt, mod kontrolgrupper, hvor det var muligt.
+  items:
+  - figure: 200 mio. kr.
+    title: 'Topdanmark / If: Fastholdt omsætning'
+    text: Churn blandt de mest værdifulde kunder faldt fra ca. 18 % til 12 %, og krydssalget steg med 5–8 mio. euro. Arbejdet lå i fordelingen af leads mellem kanaler og kompetencer og i en bonusmodel, der belønnede den rigtige adfærd.
+  - figure: 19.000 ekstra salg
+    title: 'YouSee / Nuuday: Salg til eksisterende kunder'
+    text: Ca. 10 mio. euro i årlig meromsætning, målt mod kontrolgrupper. Kernen var at kortlægge, hvilke tilbud der konverterede i hvilke segmenter, og stoppe resten.
+  - figure: 50 mio. kr.
+    title: 'Fullrate / TDC: Ny omsætning på pakker'
+    text: SIM-only var tabt til discount på pris. Anskaffelsesomkostningen blev flyttet fra provision til værdi i pakken, og salget steg markant, selvom månedsprisen var 20–30 kr. højere.
+  - figure: 75.000 kunder
+    title: 'Sonofon: Yndlingsnummer'
+    text: 'Et asymmetrisk angreb på TDC''s fastnet: 49 kr. om måneden mod ca. 350 kr. i kvartalet. I samme periode steg TDC''s fastnet-churn fra ca. 12 % til 17–18 %.'
+materials:
+  heading: Materialer
+  lead: Eksempler på analyser og strategioplæg. Åbner som PDF.
+  items:
+  - file: commercial-operating-system.pdf
+    title: Commercial Operating System
+    text: 'Én multiplikativ logik for hele den kommercielle motor: brand × værditilbud × eksekvering.'
+    meta: PDF · dansk
+  - file: pandora-pull-engine.pdf
+    title: 'Pandora: The Pull Engine'
+    text: Strategiperspektiv på Digital & Technology og den næste vækstfase.
+    meta: PDF · engelsk
+  - file: kilroy-positionering.pdf
+    title: 'Kilroy: positionering'
+    text: Fra funnel-problem til positioneringsproblem, med en pilot og bevis før skalering.
+    meta: PDF · dansk
+  - file: tv2-2030.pdf
+    title: TV 2 2030
+    text: 'Fra reach-platform til relationel platform: hvad sælger TV 2 egentlig?'
+    meta: PDF · dansk
 ---

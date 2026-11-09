@@ -112,3 +112,27 @@ section { padding: clamp(3.5rem, 8vw, 6.5rem) 0; }
 .site-footer { padding: 1.75rem 0; font-size: .9rem; color: var(--muted); }
 .footer-row { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .25rem 2rem; }
 .footer-row p { margin: 0; }
+
+/* Results */
+.results { border-top: 1px solid var(--line); }
+.results-grid { list-style: none; margin: 2rem 0 0; padding: 0; display: grid; gap: 2rem; }
+@media (min-width: 40rem) { .results-grid { grid-template-columns: repeat(2, 1fr); gap: 2.5rem 3rem; } }
+.result { border-top: 2px solid var(--ink); padding-top: 1rem; }
+.result .figure { font-family: var(--serif); font-size: clamp(1.8rem, 4vw, 2.5rem); line-height: 1.1; color: var(--accent); margin-bottom: .5rem; }
+.result h3 { font-size: 1.1rem; }
+.result p:last-child { color: var(--muted); margin: 0; }
+
+/* Portrait */
+.portrait { margin: 1.5rem 0 0; max-width: 20rem; }
+.portrait img { display: block; width: 100%; height: auto; border-radius: 4px; }
+.portrait figcaption { font-size: .9rem; color: var(--muted); margin-top: .6rem; }
+
+/* Materials */
+.materials { background: var(--surface); border-top: 1px solid var(--line); }
+.docs { list-style: none; margin: 2rem 0 0; padding: 0; display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); }
+@media (min-width: 40rem) { .docs { grid-template-columns: repeat(2, 1fr); } }
+.doc { display: flex; flex-direction: column; gap: .4rem; height: 100%; background: var(--surface); padding: 1.5rem; text-decoration: none; }
+.doc:hover .doc-title { text-decoration: underline; }
+.doc-title { font-family: var(--serif); font-size: 1.2rem; font-weight: 600; }
+.doc-text { color: var(--muted); }
+.doc-meta { margin-top: auto; padding-top: .5rem; font-size: .8rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }

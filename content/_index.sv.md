@@ -44,9 +44,50 @@ about:
   heading: Senior erfarenhet. Praktiskt samarbete.
   paragraphs:
   - Glade Advisory Group kombinerar kommersiell ledarerfarenhet med ett analytiskt och operativt arbetssätt. Vi arbetar mellan strategi och genomförande och anpassar samarbetet efter uppgiften.
+  portrait:
+    src: img/lars-glade-800.jpg
+    webp: img/lars-glade-800.webp
+    alt: Porträtt av Lars Glade
+    caption: Lars Glade, grundare. 30 års resultatansvar inom dansk telekom och försäkring.
 contact:
   heading: Ska vi prata om ert nästa kommersiella steg?
   paragraphs:
   - Berätta kort om er utmaning. Vi tar gärna ett inledande samtal om era mål, möjligheter och ett lämpligt nästa steg.
   cta: Kontakta Glade Advisory Group
+results:
+  heading: Mätt, inte uppskattat
+  lead: Fyra exempel från eget resultatansvar. Effekten mättes inkrementellt, mot kontrollgrupper där det var möjligt.
+  items:
+  - figure: 200 MDKK
+    title: 'Topdanmark / If: Behållen omsättning'
+    text: Kundbortfallet bland de mest värdefulla kunderna sjönk från cirka 18 % till 12 %, och merförsäljningen ökade med 5–8 miljoner euro. Arbetet låg i fördelningen av leads mellan kanaler och kompetenser och i en bonusmodell som belönade rätt beteende.
+  - figure: 19 000 extra försäljningar
+    title: 'YouSee / Nuuday: Försäljning till befintliga kunder'
+    text: Cirka 10 miljoner euro i årlig merförsäljning, mätt mot kontrollgrupper. Kärnan var att kartlägga vilka erbjudanden som konverterade i vilka segment, och sluta med resten.
+  - figure: 50 MDKK
+    title: 'Fullrate / TDC: Ny omsättning på paket'
+    text: SIM-only hade förlorats till lågprisaktörer på pris. Anskaffningskostnaden flyttades från provision till värde i paketet, och försäljningen ökade kraftigt trots 20–30 DKK högre månadspris.
+  - figure: 75 000 kunder
+    title: 'Sonofon: Favoritnummer'
+    text: 'En asymmetrisk attack mot TDC:s fasta telefoni: 49 DKK i månaden mot cirka 350 DKK i kvartalet. Under samma period steg TDC:s kundbortfall i fast telefoni från cirka 12 % till 17–18 %.'
+materials:
+  heading: Material
+  lead: Exempel på analyser och strategiunderlag. Öppnas som PDF.
+  items:
+  - file: commercial-operating-system.pdf
+    title: Commercial Operating System
+    text: 'En multiplikativ logik för hela den kommersiella motorn: varumärke × värdeerbjudande × genomförande.'
+    meta: PDF · danska
+  - file: pandora-pull-engine.pdf
+    title: 'Pandora: The Pull Engine'
+    text: Ett strategiperspektiv på Digital & Technology och nästa tillväxtfas.
+    meta: PDF · engelska
+  - file: kilroy-positionering.pdf
+    title: 'Kilroy: positionering'
+    text: Från trattproblem till positioneringsproblem, med pilot och bevis före skalning.
+    meta: PDF · danska
+  - file: tv2-2030.pdf
+    title: TV 2 2030
+    text: 'Från räckviddsplattform till relationsplattform: vad säljer TV 2 egentligen?'
+    meta: PDF · danska
 ---

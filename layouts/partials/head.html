@@ -24,10 +24,16 @@
 {{- range .Translations }}
 <meta property="og:locale:alternate" content="{{ .Site.Language.Params.ogLocale }}">
 {{- end }}
-<meta name="twitter:card" content="summary">
+{{- $og := "img/glade-og-1200x630.jpg" | absURL }}
+<meta property="og:image" content="{{ $og }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Glade Advisory Group">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ $og }}">
 {{- if .IsHome }}
 <script type="application/ld+json">
-{{ dict "@context" "https://schema.org" "@type" "ProfessionalService" "name" site.Params.companyLegalName "alternateName" site.Title "url" .Permalink "description" .Description "email" site.Params.contactEmail "inLanguage" site.Language.Locale | jsonify | safeJS }}
+{{ dict "@context" "https://schema.org" "@type" "ProfessionalService" "name" site.Params.companyLegalName "alternateName" site.Title "url" .Permalink "description" .Description "email" site.Params.contactEmail "inLanguage" site.Language.Locale "image" ("img/glade-og-1200x630.jpg" | absURL) "founder" (dict "@type" "Person" "name" "Lars Glade" "image" ("img/lars-glade-800.jpg" | absURL)) | jsonify | safeJS }}
 </script>
 {{- end }}
 {{- end }}
