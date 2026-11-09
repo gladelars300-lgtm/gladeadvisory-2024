@@ -149,7 +149,7 @@
   <div class="wrap split">
     <div>
       {{- with $s.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
-      <h2>{{ $s.heading }}</h2>
+      {{ if eq $i 0 }}<h1>{{ $s.heading }}</h1>{{ else }}<h2>{{ $s.heading }}</h2>{{ end }}
       {{- with $s.portrait }}
       <figure class="portrait">
         <picture>
