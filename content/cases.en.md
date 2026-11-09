@@ -127,6 +127,11 @@ sections:
       title: Big Data in Practice
       text: 'From customer data to better decisions: a retention case from insurance.'
       meta: PDF · English
+    - file: gevinstrealisering-operationelt-grundlag.pdf
+      context: 'Glade Advisory Group · own method'
+      title: 'Benefits realisation: the operational foundation'
+      text: 'From documented delivery to documented value: benefit logic, evidence standard and steering in the first 180 days.'
+      meta: PDF · Danish
   - heading: Strategy papers for companies
     items:
     - file: pandora-pull-engine.pdf
@@ -149,6 +154,11 @@ sections:
       title: 'Know your kill chain'
       text: 'B2B growth marketing for a Danish drone maker: win the requirement specification before the tender is published.'
       meta: PDF · Danish
+    - file: novonesis-cip.pdf
+      context: 'Strategy case in a recruitment process · Novonesis, 2026'
+      title: 'Commercial Incentive Program: Run it, improve it, scale it'
+      text: 'When the bonus of some 400 leaders must steer behaviour towards growth and returns. With a CIP Board that removes friction between functions.'
+      meta: PDF · English
   - heading: 'Methods for public-sector clients'
     items:
     - file: klods-hans-modellen.pdf

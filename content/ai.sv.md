@@ -176,6 +176,11 @@ sections:
       title: 'Din egen AI-investeringsanalytiker'
       text: 'Inte en AI som väljer aktier, utan en bot som testar din tes mot ny evidens.'
       meta: PDF · engelska
+    - file: fpf-gevinstrealisering.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Vi köper mjukvara. Vart tar nyttan vägen?'
+      text: 'Nyttorealisering på åtta sidor, och var AI hjälper diagnosen.'
+      meta: PDF · danska
   - heading: Undervisning
     items:
     - file: ai-i-hr-todageskursus.pdf

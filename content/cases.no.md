@@ -127,6 +127,11 @@ sections:
       title: Big Data in Practice
       text: 'Fra kundedata til bedre beslutninger: en case om kundelojalitet i forsikring.'
       meta: PDF · engelsk
+    - file: gevinstrealisering-operationelt-grundlag.pdf
+      context: 'Glade Advisory Group · egen metode'
+      title: 'Gevinstrealisering: operativt grunnlag'
+      text: 'Fra dokumentert leveranse til dokumentert verdi: gevinstlogikk, evidenskrav og styring de første 180 dagene.'
+      meta: PDF · dansk
   - heading: Strategidokumenter til selskaper
     items:
     - file: pandora-pull-engine.pdf
@@ -149,6 +154,11 @@ sections:
       title: 'Know your kill chain'
       text: 'B2B-vekstmarkedsføring for en dansk droneprodusent: vinn kravspesifikasjonen før anbudet publiseres.'
       meta: PDF · dansk
+    - file: novonesis-cip.pdf
+      context: 'Strategicase i rekrutteringsprosess · Novonesis, 2026'
+      title: 'Commercial Incentive Program: Run it, improve it, scale it'
+      text: 'Når bonusen til rundt 400 ledere skal styre atferd mot vekst og avkastning. Med et CIP Board som fjerner friksjonen mellom funksjonene.'
+      meta: PDF · engelsk
   - heading: 'Metoder for offentlige kunder'
     items:
     - file: klods-hans-modellen.pdf

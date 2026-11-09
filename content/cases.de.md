@@ -127,6 +127,11 @@ sections:
       title: Big Data in Practice
       text: 'Von Kundendaten zu besseren Entscheidungen: ein Fall zur Kundenbindung in der Versicherung.'
       meta: PDF · Englisch
+    - file: gevinstrealisering-operationelt-grundlag.pdf
+      context: 'Glade Advisory Group · eigene Methode'
+      title: 'Nutzenrealisierung: das operative Fundament'
+      text: 'Von dokumentierter Lieferung zu dokumentiertem Wert: Nutzenlogik, Evidenzanforderung und Steuerung in den ersten 180 Tagen.'
+      meta: PDF · Dänisch
   - heading: Strategiepapiere für Unternehmen
     items:
     - file: pandora-pull-engine.pdf
@@ -149,6 +154,11 @@ sections:
       title: 'Know your kill chain'
       text: 'B2B-Growth-Marketing für einen dänischen Drohnenhersteller: die Anforderungsspezifikation gewinnen, bevor die Ausschreibung erscheint.'
       meta: PDF · Dänisch
+    - file: novonesis-cip.pdf
+      context: 'Strategie-Case im Rekrutierungsprozess · Novonesis, 2026'
+      title: 'Commercial Incentive Program: Run it, improve it, scale it'
+      text: 'Wenn der Bonus von rund 400 Führungskräften Verhalten in Richtung Wachstum und Rendite steuern soll. Mit einem CIP Board, das Reibung zwischen Funktionen abbaut.'
+      meta: PDF · Englisch
   - heading: 'Methoden für öffentliche Auftraggeber'
     items:
     - file: klods-hans-modellen.pdf

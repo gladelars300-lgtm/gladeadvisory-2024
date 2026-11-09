@@ -176,6 +176,11 @@ sections:
       title: 'Your own AI investment analyst'
       text: 'Not an AI stock picker, but a bot that tests your thesis against new evidence.'
       meta: PDF · English
+    - file: fpf-gevinstrealisering.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'We buy software. Where do the benefits go?'
+      text: 'Benefits realisation in eight pages, and where AI helps the diagnosis.'
+      meta: PDF · Danish
   - heading: Teaching
     items:
     - file: ai-i-hr-todageskursus.pdf

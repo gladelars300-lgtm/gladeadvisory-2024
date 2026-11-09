@@ -176,6 +176,11 @@ sections:
       title: 'Ihr eigener KI-Investmentanalyst'
       text: 'Kein KI-Aktienpicker, sondern ein Bot, der Ihre These an neuen Belegen prüft.'
       meta: PDF · Englisch
+    - file: fpf-gevinstrealisering.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Wir kaufen Software. Wo bleibt der Nutzen?'
+      text: 'Nutzenrealisierung auf acht Seiten und wo KI bei der Diagnose hilft.'
+      meta: PDF · Dänisch
   - heading: Lehre
     items:
     - file: ai-i-hr-todageskursus.pdf
