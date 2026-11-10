@@ -154,23 +154,18 @@ sections:
       title: 'Know your kill chain'
       text: 'B2B-vekstmarkedsføring for en dansk droneprodusent: vinn kravspesifikasjonen før anbudet publiseres.'
       meta: PDF · dansk
-    - file: novonesis-cip.pdf
-      context: 'Strategicase i rekrutteringsprosess · Novonesis, 2026'
-      title: 'Commercial Incentive Program: Run it, improve it, scale it'
-      text: 'Når bonusen til rundt 400 ledere skal styre atferd mot vekst og avkastning. Med et CIP Board som fjerner friksjonen mellom funksjonene.'
-      meta: PDF · engelsk
   - heading: 'Metoder for offentlige kunder'
     items:
-    - file: klods-hans-modellen.pdf
+    - file: first-principles-in-practice.pdf
       context: 'Forslag til kommuner · 2026'
       title: 'Klods Hans-modellen'
       text: 'En didaktisk metode for nevrodivergente unge og voksne, med pilot og forhåndsdefinerte effektmål.'
-      meta: PDF · dansk
-    - file: taerskelmodellen.pdf
+      meta: PDF · engelsk
+    - file: first-principles-in-practice.pdf
       context: 'Forslag til kommuner · 2026'
       title: 'Terskelmodellen'
       text: 'En metode for borgere som sitter fast i årevis på offentlig stønad, med pilot og forhåndsdefinerte effektmål.'
-      meta: PDF · dansk
+      meta: PDF · engelsk
 - type: contact
   heading: Skal vi snakke om deres neste kommersielle steg?
   paragraphs:
