@@ -31,6 +31,68 @@ sections:
     title: 'Sonofon: Yndlingsnummer'
     text: 'Et asymmetrisk angreb på TDC''s fastnet: 49 kr. om måneden mod ca. 350 kr. i kvartalet. I samme periode steg TDC''s fastnet-churn fra ca. 12 % til 17–18 %.'
 - type: cases
+  id: first-principles
+  eyebrow: First principles i praksis
+  heading: Otte brancher, samme metode
+  lead: 'Det oplagte svar behandler ofte symptomet. Jeg skiller problemet ad til det, der faktisk er sandt: hvem betaler, hvad driver adfærden, hvor opstår værdien, og hvor går den tabt. Casene er anonymiserede og uden interne data.'
+  items:
+  - context: Dagligvarer, discount · Strategisk perspektiv
+    title: 'Detailhandel: når fyldte hylder koster penge'
+    text: 'En discountkæde taber penge, mens konkurrenten tjener på samme format. Det oplagte svar er lavere priser eller lukning af butikker. Men underskuddet skyldes kompleksitet: for mange varenumre giver lav omsætningshastighed, spild og høje omkostninger. Løsningen er færre varenumre som hypotese, segmentering af butikker og en 80/20-model med lokalt resultatansvar, testet i en pilot.'
+    insight: Hvad betaler kæden for, som kunderne ikke efterspørger?
+    files:
+    - file: first-principles-i-praksis.pdf
+      label: Læs hele casen
+  - context: Mad, kultur og offentlige institutioner · Strategisk perspektiv
+    title: 'Madinstitution: formålet er voldgraven'
+    text: 'En formålsdrevet madinstitution skal vokse kommercielt. Det oplagte svar er at jagte de bedst betalende kunder. Men det tungeste, mindst lønsomme arbejde i offentlige køkkener og skoler er kilden til en troværdighed, der ikke kan købes. Porteføljen deles i flagskib, motor og udvidelser med hver deres mål, så forretningen finansierer kernen i stedet for at konkurrere med den.'
+    insight: Hvad har institutionen, som en konkurrent ikke kan købe sig til?
+    files:
+    - file: first-principles-i-praksis.pdf
+      label: Læs hele casen
+  - context: Investering og kapitalforvaltning · Strategisk perspektiv
+    title: 'Kapitalforvaltning: hvem ejer kunderelationen?'
+    text: 'En investeringsforening vokser hurtigt, men sælger gennem banker og platforme, der ejer relationen til investoren. Det er en strukturel risiko for indtjeningen, ikke et marketingproblem. Svaret er én egen motor, Få · Vækst · Fasthold, hvor kundeøkonomien sætter anskaffelsesloftet, og hver test har kontrolgruppe og stopregel.'
+    insight: Hvem ejer relationen til investoren, og hvem høster dermed kundeværdien?
+    files:
+    - file: first-principles-i-praksis.pdf
+      label: Læs hele casen
+  - context: Værktøj og byggeri, B2B · Strategisk perspektiv
+    title: 'Industriel B2B: digitalt skal frigøre sælgertid'
+    text: 'En værktøjsproducent mister omsætning i et smalt byggemarked. Det oplagte svar er at flytte salget online. Men sælgertid er den knappeste ressource, og mister sælgeren provision ved onlinekøb, bliver digitalt modarbejdet. Kundeværdien sætter loftet for sælgertid, og trigger-baserede kunderejser og et leadforum måles mod kontrolgrupper.'
+    insight: Hvem modarbejder forandringen, hvis incitamenterne ikke følger med?
+    files:
+    - file: first-principles-i-praksis.pdf
+      label: Læs hele casen
+  - context: Designmøbler, B2B · Rådgivning
+    title: 'B2B-design: fra signal til samtale'
+    text: 'En designvirksomhed vil vokse markant. Det oplagte svar er mere trafik. Men virksomheden havde rigeligt med signaler; ingen ejede overgangen fra signal til samtale. Løsningen er en navngiven kundeliste, en tragt med konverteringsrater som hypoteser og klare roller mellem design, marketing og salg.'
+    insight: Mangler der interesse, eller gør ingen noget ved den, der allerede er?
+    files:
+    - file: first-principles-i-praksis.pdf
+      label: Læs hele casen
+  - context: Life science og bioteknologi · Strategisk perspektiv
+    title: 'Life science: et bonusprogram, ledere stoler på'
+    text: 'Et bonusprogram skal omsætte vækst- og afkastmål til adfærd hos flere hundrede ledere. Det oplagte svar er nye nøgletal. Men ledere optimerer rationelt det, programmet betaler for, og det giver forudsigelige fejl. Først stabiliseres den igangværende cyklus og et verificeret udgangspunkt; redesign kommer bagefter, på data.'
+    insight: Betal for det, folk kan påvirke, ikke for det, de arver.
+    files:
+    - file: first-principles-i-praksis.pdf
+      label: Læs hele casen
+  - context: Privat sundhed, klinikker i flere lande · Strategisk perspektiv
+    title: 'Specialiseret sundhed: aktivering, ikke efterspørgsel'
+    text: 'En klinikkæde vil vokse. Det oplagte svar er at købe flere leads. Men kun en meget lille andel af de berørte bliver behandlet hvert år; hullet handler om aktivering og betalere. Én efterspørgselsmotor med tre betalingsveje, dialog med forsikring og arbejdsgivere og et værn mod at love hurtigere behandling.'
+    insight: Patienten og kirurgen er de samme. Det er kun betaleren, der skifter.
+    files:
+    - file: first-principles-i-praksis.pdf
+      label: Læs hele casen
+  - context: Kommuner og det sociale område · Egen metodeudvikling
+    title: 'Socialøkonomi: Klods Hans-modellen og Tærskelmodellen'
+    text: 'To metoder for grupper, standardindsatsen ikke når: neurodivergente unge og voksne, og borgere fastlåst i årelang forsørgelse. Begge har lønnet arbejde som mål, tre faser med beslutning om at fortsætte eller stoppe, og kommunen som medudvikler. Modellerne er hypotesegenererende; næste skridt er en kontrolleret pilot.'
+    insight: Hvad har målgruppen faktisk brug for, og hvorfor rammer standardindsatsen ved siden af?
+    files:
+    - file: first-principles-i-praksis.pdf
+      label: Læs hele casen
+- type: cases
   id: featured
   tone: surface
   eyebrow: Udvalgte oplæg
@@ -102,6 +164,11 @@ sections:
       meta: PDF · dansk
   - heading: Metode
     items:
+    - file: first-principles-i-praksis.pdf
+      context: Glade Advisory Group · 2026
+      title: First principles i praksis
+      text: 'Otte anonymiserede cases fra otte brancher: det oplagte svar, first principles-spørgsmålet, indsigten og tilgangen.'
+      meta: PDF · dansk
     - file: commercial-operating-system.pdf
       context: Glade Advisory Group · egen metode
       title: Commercial Operating System

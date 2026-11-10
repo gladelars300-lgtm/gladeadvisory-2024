@@ -31,6 +31,68 @@ sections:
     title: 'Sonofon: Favourite Number'
     text: 'An asymmetric attack on TDC''s landline business: DKK 49 a month against about DKK 350 a quarter. Over the same period TDC''s landline churn rose from about 12% to 17–18%.'
 - type: cases
+  id: first-principles
+  eyebrow: First principles in practice
+  heading: Eight industries, one method
+  lead: 'The obvious answer often treats the symptom. I take the problem apart down to what is actually true: who pays, what drives behaviour, where value is created and where it leaks. The cases are anonymised and contain no internal data.'
+  items:
+  - context: Discount grocery · Strategic perspective
+    title: 'Grocery retail: when full shelves cost money'
+    text: 'A discount chain is losing money while its competitor profits on the same format. The obvious answer is lower prices or store closures. But the loss comes from complexity: too many SKUs mean low rotation, waste and high costs. The answer is fewer SKUs as a hypothesis, store segmentation and an 80/20 model with local P&L ownership, tested in a pilot.'
+    insight: What is the chain paying for that customers do not ask for?
+    files:
+    - file: first-principles-in-practice.pdf
+      label: Read the full case
+  - context: Food, culture and public institutions · Strategic perspective
+    title: 'Food institution: purpose is the moat'
+    text: 'A purpose-driven food institution needs to grow commercially. The obvious answer is to chase the best-paying clients. But its hardest, least profitable work in public kitchens and schools is the source of a credibility money cannot buy. The portfolio is split into flagship, motor and extensions with their own targets, so the business funds the core instead of competing with it.'
+    insight: What does the institution have that a competitor cannot buy?
+    files:
+    - file: first-principles-in-practice.pdf
+      label: Read the full case
+  - context: Investment and asset management · Strategic perspective
+    title: 'Asset management: who owns the customer relationship?'
+    text: 'An investment fund is growing fast but sells through banks and platforms that own the investor relationship. That is a structural risk to earnings, not a marketing problem. The answer is one engine of its own, Get · Grow · Keep, where customer economics set the acquisition ceiling and every test has a control group and a stop rule.'
+    insight: Who owns the investor relationship, and so who captures the customer value?
+    files:
+    - file: first-principles-in-practice.pdf
+      label: Read the full case
+  - context: Tools and construction, B2B · Strategic perspective
+    title: 'Industrial B2B: digital should free up seller time'
+    text: 'A tool manufacturer is losing revenue in a narrow construction market. The obvious answer is to move sales online. But seller time is the scarcest resource, and if sellers lose commission on online orders, digital will be resisted. Customer value sets the ceiling on seller time, and trigger-based journeys and a lead forum are measured against control groups.'
+    insight: Who will resist the change if incentives do not follow?
+    files:
+    - file: first-principles-in-practice.pdf
+      label: Read the full case
+  - context: Design furniture, B2B · Advisory
+    title: 'B2B design: from signal to conversation'
+    text: 'A design company aims for substantial growth. The obvious answer is more traffic. But the company had plenty of signals; nobody owned the step from signal to conversation. The answer is a named account list, a funnel with conversion rates as hypotheses, and clear roles between design, marketing and sales.'
+    insight: Is interest missing, or is nobody acting on the interest that already exists?
+    files:
+    - file: first-principles-in-practice.pdf
+      label: Read the full case
+  - context: Life science and biotech · Strategic perspective
+    title: 'Life science: an incentive plan leaders trust'
+    text: 'An incentive programme has to turn growth and return targets into behaviour across several hundred leaders. The obvious answer is new metrics. But leaders rationally optimise what the plan pays for, which leads to predictable failures. First the live cycle and a verified baseline are stabilised; redesign comes after, on data.'
+    insight: Pay for what people can influence, not for what they inherit.
+    files:
+    - file: first-principles-in-practice.pdf
+      label: Read the full case
+  - context: Private healthcare, multi-country clinics · Strategic perspective
+    title: 'Specialist healthcare: activation, not demand'
+    text: 'A clinic network wants to grow. The obvious answer is to buy more leads. But only a very small share of those affected are treated each year; the gap is about activation and payers. One demand engine with three payment routes, dialogue with insurers and employers, and a guardrail against promising faster treatment.'
+    insight: The patient and the surgeon are the same. Only the payer changes.
+    files:
+    - file: first-principles-in-practice.pdf
+      label: Read the full case
+  - context: Municipalities and the social sector · Own method development
+    title: 'Social impact: the Klods Hans Model and the Threshold Model'
+    text: 'Two methods for groups the standard approach does not reach: neurodivergent young people and adults, and citizens stuck on benefits for many years. Both aim for paid work, run in three phases with a decision to continue or stop, and make the municipality a co-developer. The models are hypothesis-generating; the next step is a controlled pilot.'
+    insight: What does the target group actually need, and why does the standard approach miss?
+    files:
+    - file: first-principles-in-practice.pdf
+      label: Read the full case
+- type: cases
   id: featured
   tone: surface
   eyebrow: Selected papers
@@ -102,6 +164,11 @@ sections:
       meta: PDF · Danish
   - heading: Method
     items:
+    - file: first-principles-in-practice.pdf
+      context: Glade Advisory Group · 2026
+      title: First principles in practice
+      text: 'Eight anonymised cases from eight industries: the obvious answer, the first-principles question, the insight and the approach.'
+      meta: PDF · English
     - file: commercial-operating-system.pdf
       context: Glade Advisory Group · own method
       title: Commercial Operating System
