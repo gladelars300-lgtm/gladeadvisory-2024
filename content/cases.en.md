@@ -164,6 +164,21 @@ sections:
       meta: PDF · Danish
   - heading: Method
     items:
+    - file: box-model.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'The Box Model: the complete guide'
+      text: 'TEV = WHO × WHAT × HOW × CLV. Why value follows multiplicative logic, and why the weakest dimension sets the ceiling. A 182-page reference.'
+      meta: PDF · English
+    - file: growth-boost.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'Growth Boost: three disciplines, one system'
+      text: 'Specialised sales, digital-first customer understanding and customer lifetime value as the steering logic. Most companies have all three problems at once.'
+      meta: PDF · Danish
+    - file: krydssalgsmodellen.pdf
+      context: 'One-pager · 2026'
+      title: 'The cross-sell model'
+      text: 'Right customer × right offer × right moment. Why cross-selling is hard, and what it takes, on one page.'
+      meta: PDF · Danish
     - file: first-principles-in-practice.pdf
       context: Glade Advisory Group · 2026
       title: First principles in practice
@@ -199,6 +214,23 @@ sections:
       title: 'Benefits realisation: the operational foundation'
       text: 'From documented delivery to documented value: benefit logic, evidence standard and steering in the first 180 days.'
       meta: PDF · Danish
+  - heading: First Principles Friday
+    items:
+    - file: fpf-godhedens-oekonomi.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'The economics of goodness'
+      text: 'Record revenue, fewer donors. Charity analysed through incentives rather than intentions, including a case I failed with myself.'
+      meta: PDF · Danish
+    - file: fpf-energisystem-dk-2026-2076.pdf
+      context: 'First Principles Friday · oktober 2026'
+      title: 'An energy system built on physics'
+      text: 'Denmark 2026–2076: the bottleneck is the grid, not the energy. Flexibility on the demand side, technology neutrality and an independent reality check before every energy deal.'
+      meta: PDF · Danish
+    - file: fpf-klimarisiko-og-kapital.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Climate risk and capital'
+      text: 'Why does capital arrive after the damage? Start with incentives, price the risk and pre-position the response.'
+      meta: PDF · English
   - heading: Strategy papers for companies
     items:
     - file: pandora-pull-engine.pdf

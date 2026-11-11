@@ -151,6 +151,16 @@ sections:
   groups:
   - heading: Papers
     items:
+    - file: ai-governance-ceo-cfo.pdf
+      context: 'CEO/CFO-briefing · 2026'
+      title: 'AI governance: from documentation to control'
+      text: 'Most AI governance frameworks are documentation, not control systems. Governance without power does not stop bad decisions.'
+      meta: PDF · English
+    - file: value-led-presales-playbook.pdf
+      context: 'Playbook · 2026'
+      title: 'Value-led presales'
+      text: 'Buying software is not realising value. A practical playbook for presales professionals who sell outcomes, not features.'
+      meta: PDF · English
     - file: ai-transformation-praktikerens-noter.pdf
       context: Glade Advisory Group · 2026
       title: AI is not a technology project

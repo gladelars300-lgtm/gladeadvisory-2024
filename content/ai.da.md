@@ -151,6 +151,16 @@ sections:
   groups:
   - heading: Papirer
     items:
+    - file: ai-governance-ceo-cfo.pdf
+      context: 'CEO/CFO-briefing · 2026'
+      title: 'AI governance: fra dokumentation til kontrol'
+      text: 'De fleste AI-governance-rammer er dokumentation, ikke kontrolsystemer. Governance uden magt stopper ikke dårlige beslutninger.'
+      meta: PDF · engelsk
+    - file: value-led-presales-playbook.pdf
+      context: 'Playbook · 2026'
+      title: 'Value-led presales'
+      text: 'At købe software er ikke at realisere værdi. En praktisk playbook for presales, der sælger resultater frem for features.'
+      meta: PDF · engelsk
     - file: ai-transformation-praktikerens-noter.pdf
       context: Glade Advisory Group · 2026
       title: AI er ikke et teknologiprojekt

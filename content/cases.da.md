@@ -164,6 +164,21 @@ sections:
       meta: PDF · dansk
   - heading: Metode
     items:
+    - file: box-model.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'Box Model: den komplette guide'
+      text: 'TEV = WHO × WHAT × HOW × CLV. Hvorfor værdi følger multiplikativ logik, og hvorfor den svageste dimension sætter loftet. Et opslagsværk på 182 sider.'
+      meta: PDF · engelsk
+    - file: growth-boost.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'Growth Boost: tre discipliner, ét system'
+      text: 'Specialiseret salg, digital kundeforståelse og kundeværdi som styringslogik. De fleste virksomheder har alle tre problemer på én gang.'
+      meta: PDF · dansk
+    - file: krydssalgsmodellen.pdf
+      context: 'One-pager · 2026'
+      title: 'Krydssalgsmodellen'
+      text: 'Rigtig kunde × rigtigt tilbud × rigtigt øjeblik. Hvorfor krydssalg er svært, og hvad der skal til, på én side.'
+      meta: PDF · dansk
     - file: first-principles-i-praksis.pdf
       context: Glade Advisory Group · 2026
       title: First principles i praksis
@@ -199,6 +214,23 @@ sections:
       title: 'Gevinstrealisering: operationelt grundlag'
       text: 'Fra dokumenteret leverance til dokumenteret værdi: gevinstlogik, evidenskrav og styring de første 180 dage.'
       meta: PDF · dansk
+  - heading: First Principles Friday
+    items:
+    - file: fpf-godhedens-oekonomi.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Godhedens økonomi'
+      text: 'Rekordindtægter, men færre givere. Velgørenhed analyseret gennem incitamenter frem for intentioner, inklusive en case, jeg selv fejlede med.'
+      meta: PDF · dansk
+    - file: fpf-energisystem-dk-2026-2076.pdf
+      context: 'First Principles Friday · oktober 2026'
+      title: 'Et energisystem bygget på fysik'
+      text: 'Danmark 2026–2076: flaskehalsen er nettet, ikke energien. Fleksibilitet hos forbruget, teknologineutralitet og et uafhængigt regnetjek før hver energiaftale.'
+      meta: PDF · dansk
+    - file: fpf-klimarisiko-og-kapital.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Klimarisiko og kapital'
+      text: 'Hvorfor kommer kapitalen først efter skaden? Start med incitamenterne, prissæt risikoen, og placér responsen på forhånd.'
+      meta: PDF · engelsk
   - heading: Strategioplæg til virksomheder
     items:
     - file: pandora-pull-engine.pdf

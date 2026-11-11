@@ -151,6 +151,16 @@ sections:
   groups:
   - heading: Texter
     items:
+    - file: ai-governance-ceo-cfo.pdf
+      context: 'CEO/CFO-briefing · 2026'
+      title: 'AI-governance: från dokumentation till kontroll'
+      text: 'De flesta ramverk för AI-governance är dokumentation, inte kontrollsystem. Governance utan makt stoppar inga dåliga beslut.'
+      meta: PDF · engelska
+    - file: value-led-presales-playbook.pdf
+      context: 'Playbook · 2026'
+      title: 'Value-led presales'
+      text: 'Att köpa mjukvara är inte att realisera värde. En praktisk playbook för presales som säljer resultat, inte funktioner.'
+      meta: PDF · engelska
     - file: ai-transformation-praktikerens-noter.pdf
       context: Glade Advisory Group · 2026
       title: AI är inte ett teknikprojekt

@@ -151,6 +151,16 @@ sections:
   groups:
   - heading: Papiere
     items:
+    - file: ai-governance-ceo-cfo.pdf
+      context: 'CEO/CFO-briefing · 2026'
+      title: 'AI-Governance: von Dokumentation zu Kontrolle'
+      text: 'Die meisten AI-Governance-Rahmen sind Dokumentation, keine Kontrollsysteme. Governance ohne Macht stoppt keine schlechten Entscheidungen.'
+      meta: PDF · Englisch
+    - file: value-led-presales-playbook.pdf
+      context: 'Playbook · 2026'
+      title: 'Value-led Presales'
+      text: 'Software zu kaufen heißt nicht, Wert zu realisieren. Ein praktisches Playbook für Presales, die Ergebnisse statt Features verkaufen.'
+      meta: PDF · Englisch
     - file: ai-transformation-praktikerens-noter.pdf
       context: Glade Advisory Group · 2026
       title: KI ist kein Technologieprojekt

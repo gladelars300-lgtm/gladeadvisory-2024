@@ -102,6 +102,21 @@ sections:
       meta: PDF · Dänisch
   - heading: Methode
     items:
+    - file: box-model.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'Das Box Model: der vollständige Leitfaden'
+      text: 'TEV = WHO × WHAT × HOW × CLV. Warum Wert multiplikativer Logik folgt und die schwächste Dimension die Obergrenze setzt. Ein Nachschlagewerk mit 182 Seiten.'
+      meta: PDF · Englisch
+    - file: growth-boost.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'Growth Boost: drei Disziplinen, ein System'
+      text: 'Spezialisierter Vertrieb, digitales Kundenverständnis und Kundenwert als Steuerungslogik. Die meisten Unternehmen haben alle drei Probleme gleichzeitig.'
+      meta: PDF · Dänisch
+    - file: krydssalgsmodellen.pdf
+      context: 'One-pager · 2026'
+      title: 'Das Cross-Selling-Modell'
+      text: 'Richtiger Kunde × richtiges Angebot × richtiger Moment. Warum Cross-Selling schwer ist und was es braucht, auf einer Seite.'
+      meta: PDF · Dänisch
     - file: commercial-operating-system.pdf
       context: Glade Advisory Group · eigene Methode
       title: Commercial Operating System
@@ -132,6 +147,23 @@ sections:
       title: 'Nutzenrealisierung: das operative Fundament'
       text: 'Von dokumentierter Lieferung zu dokumentiertem Wert: Nutzenlogik, Evidenzanforderung und Steuerung in den ersten 180 Tagen.'
       meta: PDF · Dänisch
+  - heading: First Principles Friday
+    items:
+    - file: fpf-godhedens-oekonomi.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Die Ökonomie der Güte'
+      text: 'Rekordeinnahmen, aber weniger Spender. Wohltätigkeit durch Anreize statt Absichten analysiert, inklusive eines Falls, an dem ich selbst gescheitert bin.'
+      meta: PDF · Dänisch
+    - file: fpf-energisystem-dk-2026-2076.pdf
+      context: 'First Principles Friday · oktober 2026'
+      title: 'Ein Energiesystem, das auf Physik baut'
+      text: 'Dänemark 2026–2076: Der Engpass ist das Netz, nicht die Energie. Flexibilität beim Verbrauch, Technologieneutralität und eine unabhängige Prüfung vor jeder Energievereinbarung.'
+      meta: PDF · Dänisch
+    - file: fpf-klimarisiko-og-kapital.pdf
+      context: 'First Principles Friday · 2026'
+      title: 'Klimarisiko und Kapital'
+      text: 'Warum kommt das Kapital erst nach dem Schaden? Bei den Anreizen beginnen, das Risiko bepreisen und die Reaktion vorab positionieren.'
+      meta: PDF · Englisch
   - heading: Strategiepapiere für Unternehmen
     items:
     - file: pandora-pull-engine.pdf
