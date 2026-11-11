@@ -154,7 +154,7 @@ sections:
     - file: fpf-kan-ai-skrive-en-roman.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Kann KI einen Roman schreiben?'
-      text: 'Eine ehrliche Bilanz über 70.000 Wörter: KI baut Spannung, Welt und Struktur, hält aber keine Stimme. Mit Daten und Kapitel 1 als Leseprobe.'
+      text: 'Eine ehrliche Bilanz über 70.000 Wörter: Handlung, Spannungsbogen, Wendepunkte und Axiome kamen von mir; die KI lieferte die Sätze, hielt aber die Stimme nicht. Mit Daten und Kapitel 1.'
       meta: PDF · Dänisch
     - file: den-anden-boelge.pdf
       context: 'Glade Advisory Group · 2026'

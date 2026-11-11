@@ -154,7 +154,7 @@ sections:
     - file: fpf-kan-ai-skrive-en-roman.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Kan AI skriva en roman?'
-      text: 'En ärlig redovisning av 70 000 ord: AI bygger krokar, värld och struktur men håller inte en röst. Med data och kapitel 1 som smakprov.'
+      text: 'En ärlig redovisning av 70 000 ord: handling, spänningskurva, vändpunkter och axiom kom från mig; AI levererade meningarna men höll inte rösten. Med data och kapitel 1.'
       meta: PDF · danska
     - file: den-anden-boelge.pdf
       context: 'Glade Advisory Group · 2026'

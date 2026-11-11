@@ -154,7 +154,7 @@ sections:
     - file: fpf-kan-ai-skrive-en-roman.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Can AI write a novel?'
-      text: 'An honest account of 70,000 words: AI can build hooks, world and structure, but cannot hold a voice. With data and chapter 1 as a sample.'
+      text: 'An honest account of 70,000 words: storyline, tension arc, turning points and axioms came from me; AI supplied the sentences but could not hold the voice. With data and chapter 1.'
       meta: PDF · Danish
     - file: den-anden-boelge.pdf
       context: 'Glade Advisory Group · 2026'

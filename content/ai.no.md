@@ -154,7 +154,7 @@ sections:
     - file: fpf-kan-ai-skrive-en-roman.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Kan AI skrive en roman?'
-      text: 'Et ærlig regnskap over 70 000 ord: AI bygger kroker, verden og struktur, men holder ikke en stemme. Med data og kapittel 1 som smaksprøve.'
+      text: 'Et ærlig regnskap over 70 000 ord: handling, spenningskurve, vendepunkter og aksiomer kom fra meg; AI leverte setningene, men holdt ikke stemmen. Med data og kapittel 1.'
       meta: PDF · dansk
     - file: den-anden-boelge.pdf
       context: 'Glade Advisory Group · 2026'
