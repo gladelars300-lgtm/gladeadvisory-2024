@@ -34,6 +34,7 @@ sections:
   - Jeg er bedst til at finde det koncept, der får kunder til at handle anderledes. Nogle af dem blev store succeser. Et enkelt var forud for sin tid.
   bullets:
   - "**Taletid (slutningen af 90'erne):** Jeg var med til at udvikle et af de første taletidsprodukter i Danmark. Kort tid efter lancerede flere selskaber næsten det samme."
+  - "**Kvantum og Shaker (Sonofon, 2003–06):** Kvantum var et abonnement med inkluderede minutter, en samlet pakke. I 2006 blev det videreudviklet til Shaker og Shaker Super med fri SMS."
   - "**SMS-boost ved optankning (Sonofon, 2004–05):** Et opsalg i selve optankningen fik kunderne til at købe mere taletid, i stedet for at salget hvilede på nye startpakker."
   - "**Yndlingsnummer (Sonofon, ca. 2005):** 49 kr. om måneden mod TDC's ca. 350 kr. i kvartalet. Omkring 75.000 kunder, og TDC's fastnetafgang steg fra ca. 12 % til 17–18 %."
   - "**Smartaftale (Sonofon/Telenor, 2010–11):** Telefonen blev finansieret for sig og abonnementet for sig. I dag er det sådan, de fleste køber mobil."
