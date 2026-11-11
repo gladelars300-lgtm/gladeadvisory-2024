@@ -151,6 +151,21 @@ sections:
   groups:
   - heading: Papiere
     items:
+    - file: fpf-kan-ai-skrive-en-roman.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'Kann KI einen Roman schreiben?'
+      text: 'Eine ehrliche Bilanz über 70.000 Wörter: KI baut Spannung, Welt und Struktur, hält aber keine Stimme. Mit Daten und Kapitel 1 als Leseprobe.'
+      meta: PDF · Dänisch
+    - file: den-anden-boelge.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'Die zweite Welle: KI als institutionelle Architektur'
+      text: 'Die erste Welle machte Aufgaben schneller. Die zweite verändert, was die Firma ist: Organisation, IT und Kapital als ein gekoppeltes System.'
+      meta: PDF · Dänisch
+    - file: enterprise-ai-i-b2b.pdf
+      context: 'Oplæg til beslutningstagere · 2026'
+      title: 'Enterprise-KI im B2B'
+      text: 'Nordische Unternehmen kommen nicht zu spät zur KI-Party. Sie kommen zu früh zur falschen. Betriebsmodell, Barrieren, Fälle und Umsetzung.'
+      meta: PDF · Dänisch
     - file: ai-governance-ceo-cfo.pdf
       context: 'CEO/CFO-briefing · 2026'
       title: 'AI-Governance: von Dokumentation zu Kontrolle'

@@ -214,6 +214,26 @@ sections:
       title: 'Benefits realisation: the operational foundation'
       text: 'From documented delivery to documented value: benefit logic, evidence standard and steering in the first 180 days.'
       meta: PDF · Danish
+    - file: the-firm-as-a-compounding-system.pdf
+      context: 'White paper · 2026'
+      title: 'The Firm as a Compounding System'
+      text: 'Why additive optimisation destroys value, and how multiplicative architecture governs it. The Box Model extended into the AI era.'
+      meta: PDF · English
+    - file: theory-of-the-firm-ai-economy.pdf
+      context: 'Akademisk paper · 2026'
+      title: 'A theory of the firm in an AI economy'
+      text: 'From Coase and Williamson to compounding architecture: why firms persist when AI lowers transaction costs. Five formal propositions.'
+      meta: PDF · English
+    - file: salg-2-0.pdf
+      context: 'Praktikerperspektiv · 2026'
+      title: 'Sales 2.0: from lead hunting to a sales engine'
+      text: 'The company delivers the customer, the seller closes the deal. Specialisation frees sales capacity; structure decides output, not headcount.'
+      meta: PDF · Danish
+    - file: restaurant-kommerciel-arkitektur.pdf
+      context: 'Undervisningsmateriale · 2026'
+      title: 'The commercial architecture of restaurants'
+      text: 'Upselling, repeat visits and the economics of a loyalty club. Where restaurant margin is actually made, and where it leaks.'
+      meta: PDF · Danish
   - heading: First Principles Friday
     items:
     - file: fpf-godhedens-oekonomi.pdf
@@ -231,6 +251,11 @@ sections:
       title: 'Climate risk and capital'
       text: 'Why does capital arrive after the damage? Start with incentives, price the risk and pre-position the response.'
       meta: PDF · English
+    - file: kapitalallokering-esg-centaur.pdf
+      context: 'Afhandlingsudkast · skrevet med AI · 2026'
+      title: 'The institutional transformation of capital allocation'
+      text: 'Activism, systemic risk and democratic legitimacy in Danish pension funds'' ESG practice. A draft written as a centaur: human and AI together.'
+      meta: PDF · Danish
   - heading: Strategy papers for companies
     items:
     - file: pandora-pull-engine.pdf

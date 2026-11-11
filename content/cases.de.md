@@ -147,6 +147,26 @@ sections:
       title: 'Nutzenrealisierung: das operative Fundament'
       text: 'Von dokumentierter Lieferung zu dokumentiertem Wert: Nutzenlogik, Evidenzanforderung und Steuerung in den ersten 180 Tagen.'
       meta: PDF · Dänisch
+    - file: the-firm-as-a-compounding-system.pdf
+      context: 'White paper · 2026'
+      title: 'The Firm as a Compounding System'
+      text: 'Warum additive Optimierung Wert zerstört und wie multiplikative Architektur ihn steuert. Das Box Model für die KI-Ära erweitert.'
+      meta: PDF · Englisch
+    - file: theory-of-the-firm-ai-economy.pdf
+      context: 'Akademisk paper · 2026'
+      title: 'Eine Theorie der Firma in einer KI-Ökonomie'
+      text: 'Von Coase und Williamson zur kumulativen Architektur: warum Firmen bestehen, wenn KI Transaktionskosten senkt. Fünf formale Propositionen.'
+      meta: PDF · Englisch
+    - file: salg-2-0.pdf
+      context: 'Praktikerperspektiv · 2026'
+      title: 'Vertrieb 2.0: von der Lead-Jagd zur Vertriebsmaschine'
+      text: 'Das Unternehmen liefert den Kunden, der Verkäufer schließt ab. Spezialisierung schafft Kapazität; Struktur bestimmt den Output, nicht die Kopfzahl.'
+      meta: PDF · Dänisch
+    - file: restaurant-kommerciel-arkitektur.pdf
+      context: 'Undervisningsmateriale · 2026'
+      title: 'Die kommerzielle Architektur der Gastronomie'
+      text: 'Upselling, Wiederbesuche und die Ökonomie des Kundenclubs. Wo die Marge eines Restaurants entsteht und wo sie versickert.'
+      meta: PDF · Dänisch
   - heading: First Principles Friday
     items:
     - file: fpf-godhedens-oekonomi.pdf
@@ -164,6 +184,11 @@ sections:
       title: 'Klimarisiko und Kapital'
       text: 'Warum kommt das Kapital erst nach dem Schaden? Bei den Anreizen beginnen, das Risiko bepreisen und die Reaktion vorab positionieren.'
       meta: PDF · Englisch
+    - file: kapitalallokering-esg-centaur.pdf
+      context: 'Afhandlingsudkast · skrevet med AI · 2026'
+      title: 'Die institutionelle Transformation der Kapitalallokation'
+      text: 'Aktivismus, Systemrisiko und demokratische Legitimität in der ESG-Praxis dänischer Pensionskassen. Ein Entwurf, geschrieben als Zentaur: Mensch und KI.'
+      meta: PDF · Dänisch
   - heading: Strategiepapiere für Unternehmen
     items:
     - file: pandora-pull-engine.pdf

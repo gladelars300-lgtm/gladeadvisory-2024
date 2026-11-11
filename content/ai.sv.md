@@ -151,6 +151,21 @@ sections:
   groups:
   - heading: Texter
     items:
+    - file: fpf-kan-ai-skrive-en-roman.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'Kan AI skriva en roman?'
+      text: 'En ärlig redovisning av 70 000 ord: AI bygger krokar, värld och struktur men håller inte en röst. Med data och kapitel 1 som smakprov.'
+      meta: PDF · danska
+    - file: den-anden-boelge.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'Den andra vågen: AI som institutionell arkitektur'
+      text: 'Första vågen gjorde uppgifter snabbare. Den andra ändrar vad företaget är: organisation, IT och kapital som ett kopplat system.'
+      meta: PDF · danska
+    - file: enterprise-ai-i-b2b.pdf
+      context: 'Oplæg til beslutningstagere · 2026'
+      title: 'Enterprise AI i B2B'
+      text: 'Nordiska företag är inte sena till AI-festen. De är tidiga till fel fest. Driftmodell, hinder, case och implementering.'
+      meta: PDF · danska
     - file: ai-governance-ceo-cfo.pdf
       context: 'CEO/CFO-briefing · 2026'
       title: 'AI-governance: från dokumentation till kontroll'

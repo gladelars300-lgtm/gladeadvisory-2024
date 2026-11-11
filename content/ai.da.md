@@ -151,6 +151,21 @@ sections:
   groups:
   - heading: Papirer
     items:
+    - file: fpf-kan-ai-skrive-en-roman.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'Kan AI skrive en roman?'
+      text: 'Et ærligt regnskab over 70.000 ord: AI kan bygge kroge, verden og struktur, men holder ikke en stemme. Med data og kapitel 1 som smagsprøve.'
+      meta: PDF · dansk
+    - file: den-anden-boelge.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'Den anden bølge: AI som institutionel arkitektur'
+      text: 'Første bølge gjorde opgaver hurtigere. Anden bølge ændrer, hvad firmaet er: organisation, IT og kapital som ét koblet system.'
+      meta: PDF · dansk
+    - file: enterprise-ai-i-b2b.pdf
+      context: 'Oplæg til beslutningstagere · 2026'
+      title: 'Enterprise AI i B2B'
+      text: 'Nordiske virksomheder er ikke sent til AI-festen. De er tidligt til den forkerte. Driftsmodel, barrierer, cases og implementering.'
+      meta: PDF · dansk
     - file: ai-governance-ceo-cfo.pdf
       context: 'CEO/CFO-briefing · 2026'
       title: 'AI governance: fra dokumentation til kontrol'

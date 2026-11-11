@@ -147,6 +147,26 @@ sections:
       title: 'Gevinstrealisering: operativt grunnlag'
       text: 'Fra dokumentert leveranse til dokumentert verdi: gevinstlogikk, evidenskrav og styring de første 180 dagene.'
       meta: PDF · dansk
+    - file: the-firm-as-a-compounding-system.pdf
+      context: 'White paper · 2026'
+      title: 'The Firm as a Compounding System'
+      text: 'Hvorfor additiv optimalisering ødelegger verdi, og hvordan multiplikativ arkitektur styrer den. Box Model utvidet til AI-æraen.'
+      meta: PDF · engelsk
+    - file: theory-of-the-firm-ai-economy.pdf
+      context: 'Akademisk paper · 2026'
+      title: 'En teori om firmaet i en AI-økonomi'
+      text: 'Fra Coase og Williamson til kumulativ arkitektur: hvorfor firmaer består når AI senker transaksjonskostnadene. Fem formelle proposisjoner.'
+      meta: PDF · engelsk
+    - file: salg-2-0.pdf
+      context: 'Praktikerperspektiv · 2026'
+      title: 'Salg 2.0: fra leadjakt til salgsmaskin'
+      text: 'Selskapet leverer kunden, selgeren lukker avtalen. Spesialisering frigjør salgskapasitet; struktur avgjør resultatet, ikke antall selgere.'
+      meta: PDF · dansk
+    - file: restaurant-kommerciel-arkitektur.pdf
+      context: 'Undervisningsmateriale · 2026'
+      title: 'Den kommersielle arkitekturen i restaurantdrift'
+      text: 'Mersalg, gjenbesøk og kundeklubbens økonomi. Hvor marginen i en restaurant oppstår, og hvor den lekker.'
+      meta: PDF · dansk
   - heading: First Principles Friday
     items:
     - file: fpf-godhedens-oekonomi.pdf
@@ -164,6 +184,11 @@ sections:
       title: 'Klimarisiko og kapital'
       text: 'Hvorfor kommer kapitalen først etter skaden? Start med insentivene, pris risikoen og plasser responsen på forhånd.'
       meta: PDF · engelsk
+    - file: kapitalallokering-esg-centaur.pdf
+      context: 'Afhandlingsudkast · skrevet med AI · 2026'
+      title: 'Den institusjonelle transformasjonen av kapitalallokering'
+      text: 'Aktivisme, systemrisiko og demokratisk legitimitet i danske pensjonskassers ESG-praksis. Et utkast skrevet som kentaur: menneske og AI sammen.'
+      meta: PDF · dansk
   - heading: Strategidokumenter til selskaper
     items:
     - file: pandora-pull-engine.pdf

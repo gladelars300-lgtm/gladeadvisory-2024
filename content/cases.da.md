@@ -214,6 +214,26 @@ sections:
       title: 'Gevinstrealisering: operationelt grundlag'
       text: 'Fra dokumenteret leverance til dokumenteret værdi: gevinstlogik, evidenskrav og styring de første 180 dage.'
       meta: PDF · dansk
+    - file: the-firm-as-a-compounding-system.pdf
+      context: 'White paper · 2026'
+      title: 'The Firm as a Compounding System'
+      text: 'Hvorfor additiv optimering ødelægger værdi, og hvordan en multiplikativ arkitektur styrer den. Box Model udvidet til AI-æraen.'
+      meta: PDF · engelsk
+    - file: theory-of-the-firm-ai-economy.pdf
+      context: 'Akademisk paper · 2026'
+      title: 'En teori om firmaet i en AI-økonomi'
+      text: 'Fra Coase og Williamson til kompounderende arkitektur: hvorfor firmaer fortsat findes, når AI sænker transaktionsomkostningerne. Fem formelle propositioner.'
+      meta: PDF · engelsk
+    - file: salg-2-0.pdf
+      context: 'Praktikerperspektiv · 2026'
+      title: 'Salg 2.0: fra lead-jagt til salgsmaskine'
+      text: 'Virksomheden leverer kunden, sælgeren lukker aftalen. Specialisering frigiver salgskapacitet; struktur afgør output, ikke antal sælgere.'
+      meta: PDF · dansk
+    - file: restaurant-kommerciel-arkitektur.pdf
+      context: 'Undervisningsmateriale · 2026'
+      title: 'Den kommercielle arkitektur i restaurantdrift'
+      text: 'Opsalg, genbesøg og kundeklubbens økonomi. Hvor marginen i en restaurant faktisk opstår, og hvor den lækker.'
+      meta: PDF · dansk
   - heading: First Principles Friday
     items:
     - file: fpf-godhedens-oekonomi.pdf
@@ -231,6 +251,11 @@ sections:
       title: 'Klimarisiko og kapital'
       text: 'Hvorfor kommer kapitalen først efter skaden? Start med incitamenterne, prissæt risikoen, og placér responsen på forhånd.'
       meta: PDF · engelsk
+    - file: kapitalallokering-esg-centaur.pdf
+      context: 'Afhandlingsudkast · skrevet med AI · 2026'
+      title: 'Den institutionelle transformation af kapitalallokering'
+      text: 'Aktivisme, systemrisiko og demokratisk legitimitet i danske pensionskassers ESG-praksis. Et udkast skrevet som centaur: menneske og AI sammen.'
+      meta: PDF · dansk
   - heading: Strategioplæg til virksomheder
     items:
     - file: pandora-pull-engine.pdf

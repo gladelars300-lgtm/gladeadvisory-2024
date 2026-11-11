@@ -151,6 +151,21 @@ sections:
   groups:
   - heading: Papers
     items:
+    - file: fpf-kan-ai-skrive-en-roman.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'Can AI write a novel?'
+      text: 'An honest account of 70,000 words: AI can build hooks, world and structure, but cannot hold a voice. With data and chapter 1 as a sample.'
+      meta: PDF · Danish
+    - file: den-anden-boelge.pdf
+      context: 'Glade Advisory Group · 2026'
+      title: 'The second wave: AI as institutional architecture'
+      text: 'The first wave made tasks faster. The second changes what the firm is: organisation, IT and capital as one coupled system.'
+      meta: PDF · Danish
+    - file: enterprise-ai-i-b2b.pdf
+      context: 'Oplæg til beslutningstagere · 2026'
+      title: 'Enterprise AI in B2B'
+      text: 'Nordic companies are not late to the AI party. They are early to the wrong one. Operating model, barriers, cases and implementation.'
+      meta: PDF · Danish
     - file: ai-governance-ceo-cfo.pdf
       context: 'CEO/CFO-briefing · 2026'
       title: 'AI governance: from documentation to control'
