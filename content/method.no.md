@@ -85,7 +85,7 @@ sections:
 - type: contact
   heading: Skal vi snakke om deres neste kommersielle steg?
   paragraphs:
-  - Beskriv kort utfordringen. Da tar vi en innledende samtale om mål, muligheter og en passende vei videre. Den første samtalen er gratis.
-  cta: Kontakt Glade Advisory Group
+  - Beskriv kort utfordringen. Da tar vi en innledende samtale om mål, muligheter og en passende vei videre. Den første samtalen er gratis. Du går ut av samtalen med et forslag til hvor det svakeste leddet i den kommersielle motoren deres sitter.
+  cta: Book en samtale med Lars
 translationKey: method
 ---

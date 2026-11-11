@@ -16,19 +16,26 @@ sections:
   id: results
   eyebrow: Egne resultater
   heading: Målt, ikke anslået
-  lead: Fire eksempler fra egne P&L-ansvar. Effekten er opgjort inkrementelt, mod kontrolgrupper, hvor det var muligt.
+  lead: Fem eksempler fra projekter, jeg selv har ledet og ejet. Effekten er opgjort inkrementelt, mod kontrolgrupper, hvor det var muligt.
   items:
   - figure: 200 mio. kr.
     title: 'Topdanmark / If: Fastholdt omsætning'
+    role: 'Min rolle: Performance Manager og programleder, projektejer.'
     text: Churn blandt de mest værdifulde kunder faldt fra ca. 18 % til 12 %, og krydssalget steg med 5–8 mio. euro. Arbejdet lå i fordelingen af leads mellem kanaler og kompetencer og i en bonusmodel, der belønnede den rigtige adfærd.
+  - figure: Ca. 2× salg
+    title: 'Topdanmark: Sundheds- og kritisk sygdom-forsikring'
+    text: Mange tror, at sundhedsforsikringen følger med jobbet. For mange offentligt ansatte og ansatte i mindre virksomheder gør den ikke. Sammen med en kollega byggede jeg tilbuddet om kritisk sygdom kombineret med klassisk sundhedsforsikring og de salgsscripts, der skulle til. Salget blev omtrent fordoblet i 2025.
   - figure: 19.000 ekstra salg
     title: 'YouSee / Nuuday: Salg til eksisterende kunder'
+    role: 'Min rolle: Head of CRM & Commercial Performance, projektejer.'
     text: Ca. 10 mio. euro i årlig meromsætning, målt mod kontrolgrupper. Kernen var at kortlægge, hvilke tilbud der konverterede i hvilke segmenter, og stoppe resten.
   - figure: 50 mio. kr.
     title: 'Fullrate / TDC: Ny omsætning på pakker'
+    role: 'Min rolle: kommerciel direktør, projektejer.'
     text: SIM-only var tabt til discount på pris. Anskaffelsesomkostningen blev flyttet fra provision til værdi i pakken, og salget steg markant, selvom månedsprisen var 20–30 kr. højere.
   - figure: 75.000 kunder
     title: 'Sonofon: Yndlingsnummer'
+    role: 'Min rolle: projektejer.'
     text: 'Et asymmetrisk angreb på TDC''s fastnet: 49 kr. om måneden mod ca. 350 kr. i kvartalet. I samme periode steg TDC''s fastnet-churn fra ca. 12 % til 17–18 %.'
 - type: cases
   id: first-principles
@@ -281,7 +288,7 @@ sections:
 - type: contact
   heading: Skal vi tale om jeres næste kommercielle skridt?
   paragraphs:
-  - Beskriv kort udfordringen. Så tager vi en indledende samtale om mål, muligheder og en passende måde at komme videre på. Første samtale koster ikke noget.
-  cta: Kontakt Glade Advisory Group
+  - Beskriv kort udfordringen. Så tager vi en indledende samtale om mål, muligheder og en passende måde at komme videre på. Første samtale koster ikke noget. Du går fra samtalen med et bud på, hvor det svageste led i jeres kommercielle motor sidder.
+  cta: Book en samtale med Lars
 translationKey: cases
 ---

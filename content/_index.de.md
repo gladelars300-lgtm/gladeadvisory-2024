@@ -2,11 +2,11 @@
 # Generated content: edit the text here; layout lives in layouts/partials/sections.html.
 title: Komplexe Probleme. Entscheidungsreife Antworten.
 seo_title: Kommerzielle Strategie und KI-Beratung | Glade Advisory Group
-description: 'Lars Glade hilft Geschäftsführern und kommerziellen Führungskräften, profitables Wachstum aufzubauen: mit kommerzieller Strategie, Kundenökonomie, Go-to-Market und KI in der Praxis. 30 Jahre P&L-Verantwortung.'
+description: 'Lars Glade hilft Geschäftsführern und kommerziellen Führungskräften, profitables Wachstum aufzubauen: mit kommerzieller Strategie, Kundenökonomie, Go-to-Market und KI in der Praxis. 25 Jahre kommerzielle Erfahrung.'
 sections:
 - type: hero
   heading: Komplexe Probleme. Entscheidungsreife Antworten.
-  lead: Ich helfe Geschäftsführern und kommerziellen Führungskräften, das schwächste Glied im kommerziellen Motor zu finden und zu beheben. Dreißig Jahre P&L-Verantwortung, mit KI als Arbeitswerkzeug. Menschen zuerst, Daten als gemeinsame Sprache.
+  lead: Ich helfe Geschäftsführern und kommerziellen Führungskräften, das schwächste Glied im kommerziellen Motor zu finden und zu beheben. Fünfundzwanzig Jahre kommerzielle Ergebnisse, mit KI als Arbeitswerkzeug. Menschen zuerst, Daten als gemeinsame Sprache.
   tagline: Kommerzielle Strategie · Kundenökonomie · KI in der Praxis
   cta:
     label: Erzählen Sie mir von Ihrer Herausforderung
@@ -22,25 +22,29 @@ sections:
   id: results
   eyebrow: Belege
   heading: Ergebnisse vor Rhetorik.
-  lead: Fünf Ergebnisse aus meiner eigenen P&L-Verantwortung, inkrementell gemessen und, wo möglich, gegen Kontrollgruppen. Und eines, das zeigt, wie ich mit KI arbeite.
+  lead: Fünf Ergebnisse aus Projekten, die ich selbst geleitet und verantwortet habe, inkrementell gemessen und, wo möglich, gegen Kontrollgruppen. Und eines, das zeigt, wie ich mit KI arbeite.
   link:
     label: Cases und Papiere ansehen
     href: /cases
   items:
   - figure: 200 Mio. DKK
     title: 'Topdanmark / If: Gehaltener Umsatz'
+    role: 'Meine Rolle: Performance Manager und Programmleiter, Projektverantwortlicher.'
     text: Die Analyse war der leichte Teil. Schwer war es, jeden Lead in den richtigen Kanal zu leiten und das richtige Verhalten zu bezahlen. Die Abwanderung der wertvollsten Kunden sank von etwa 18 % auf 12 %, das Cross-Selling wuchs um 5–8 Mio. Euro.
   - figure: Etwa 2× Absatz
     title: 'Topdanmark: Kranken- und Schwere-Krankheiten-Versicherung'
     text: Viele glauben, die Krankenversicherung komme mit dem Job. Für viele Beschäftigte im öffentlichen Dienst und in kleineren Unternehmen stimmt das nicht. Gemeinsam mit einem Kollegen habe ich das Angebot um eine Schwere-Krankheiten-Versicherung in Kombination mit klassischer Krankenversicherung gebaut, samt Verkaufsskripten. Der Absatz hat sich 2025 etwa verdoppelt.
   - figure: 19.000 Zusatzverkäufe
     title: 'YouSee / Nuuday: Kunden, die wir schon hatten'
+    role: 'Meine Rolle: Head of CRM & Commercial Performance, Projektverantwortlicher.'
     text: Ich habe ermittelt, welche Angebote in welchen Segmenten konvertierten, und den Rest gestoppt. Etwa 10 Mio. Euro zusätzlicher Jahresumsatz, gemessen gegen Kontrollgruppen.
   - figure: 50 Mio. DKK
     title: 'Fullrate / TDC: Über Wert gewinnen, nicht über Preis'
+    role: 'Meine Rolle: Kommerzieller Direktor, Projektverantwortlicher.'
     text: SIM-only war an Discounter verloren. Ich habe das Akquisitionsbudget von Provisionen in Wert im Bundle verlagert. Der Absatz stieg deutlich, trotz eines um 20–30 DKK höheren Monatspreises.
   - figure: 75.000 Kunden
     title: 'Sonofon: Lieblingsnummer'
+    role: 'Meine Rolle: Projektverantwortlicher.'
     text: 'Ein asymmetrischer Angriff auf TDCs Festnetzgeschäft: 49 DKK im Monat gegen etwa 350 DKK im Quartal. Im selben Zeitraum stieg TDCs Festnetz-Abwanderung von etwa 12 % auf 17–18 %.'
   - figure: Ein Vormittag
     title: 'Diese Website: KI in der Praxis'
@@ -103,9 +107,9 @@ sections:
     src: img/lars-glade-800.jpg
     webp: img/lars-glade-800.webp
     alt: Porträt von Lars Glade
-    caption: Lars Glade, Gründer. 30 Jahre P&L-Verantwortung in der dänischen Telekommunikation und Versicherung.
+    caption: Lars Glade, Gründer. 25 Jahre kommerzielle Erfahrung in der dänischen Telekommunikation und Versicherung.
   paragraphs:
-  - Ich war drei Jahrzehnte in kommerzieller Führung in Telekommunikation und Versicherung tätig, verantwortlich für die Zahlen und nicht nur beratend. Ich arbeite über Strategie und Umsetzung hinweg und richte jede Zusammenarbeit an der konkreten Aufgabe aus.
+  - Ich war 25 Jahre in kommerziellen Rollen in Telekommunikation und Versicherung tätig, verantwortlich für die Zahlen und nicht nur beratend. Ich arbeite über Strategie und Umsetzung hinweg und richte jede Zusammenarbeit an der konkreten Aufgabe aus.
   - 'Heute arbeite ich auch mit KI als kommerzieller Disziplin: als strategischer Berater eines nordischen KI-Implementierungshauses, mit eigenen KI-Werkzeugen und mit KI als fester Analysepartnerin in jedem Papier.'
   link:
     label: Mehr über mich
@@ -113,6 +117,6 @@ sections:
 - type: contact
   heading: Haben Sie ein wichtiges Problem, dem noch eine klare Antwort fehlt?
   paragraphs:
-  - Beschreiben Sie mir kurz die Herausforderung, dann sehen wir weiter. Das erste Gespräch ist kostenlos.
-  cta: Schreiben Sie mir
+  - Beschreiben Sie mir kurz die Herausforderung, dann sehen wir weiter. Das erste Gespräch ist kostenlos. Sie gehen aus dem Gespräch mit einer Einschätzung, wo das schwächste Glied in Ihrem kommerziellen Motor sitzt.
+  cta: Gespräch mit Lars buchen
 ---

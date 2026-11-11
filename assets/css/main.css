@@ -119,6 +119,7 @@ section { padding: clamp(3.5rem, 8vw, 6.5rem) 0; }
 .results-grid { list-style: none; margin: 2rem 0 0; padding: 0; display: grid; gap: 2rem; }
 @media (min-width: 40rem) { .results-grid { grid-template-columns: repeat(2, 1fr); gap: 2.5rem 3rem; } }
 .result { border-top: 2px solid var(--ink); padding-top: 1rem; }
+.result .role { font-size: .85rem; font-weight: 600; color: var(--muted, #666); margin: -.25rem 0 .5rem; }
 .result .figure { font-family: var(--serif); font-size: clamp(1.8rem, 4vw, 2.5rem); line-height: 1.1; color: var(--accent); margin-bottom: .5rem; }
 .result h3 { font-size: 1.1rem; }
 .result p:last-child { color: var(--muted); margin: 0; }

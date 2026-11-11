@@ -16,19 +16,26 @@ sections:
   id: results
   eyebrow: Egne resultater
   heading: Målt, ikke anslått
-  lead: Fire eksempler fra eget resultatansvar. Effekten ble målt inkrementelt, mot kontrollgrupper der det var mulig.
+  lead: Fem eksempler fra prosjekter jeg selv har ledet og eid. Effekten ble målt inkrementelt, mot kontrollgrupper der det var mulig.
   items:
   - figure: 200 mill. kr.
     title: 'Topdanmark / If: Beholdt omsetning'
+    role: 'Min rolle: Performance Manager og programleder, prosjekteier.'
     text: Kundefrafallet blant de mest verdifulle kundene falt fra om lag 18 % til 12 %, og mersalget økte med 5–8 millioner euro. Arbeidet lå i fordelingen av leads mellom kanaler og kompetanser og i en bonusmodell som belønnet riktig atferd.
+  - figure: Ca. 2× salg
+    title: 'Topdanmark: Helse- og kritisk sykdom-forsikring'
+    text: Mange tror helseforsikringen følger med jobben. For mange offentlig ansatte og ansatte i mindre bedrifter gjør den ikke det. Sammen med en kollega bygde jeg tilbudet rundt forsikring ved kritisk sykdom kombinert med klassisk helseforsikring, og salgsmanusene som skulle til. Salget ble omtrent doblet i 2025.
   - figure: 19 000 ekstra salg
     title: 'YouSee / Nuuday: Salg til eksisterende kunder'
+    role: 'Min rolle: Head of CRM & Commercial Performance, prosjekteier.'
     text: Om lag 10 millioner euro i årlig merinntekt, målt mot kontrollgrupper. Kjernen var å kartlegge hvilke tilbud som konverterte i hvilke segmenter, og stoppe resten.
   - figure: 50 mill. kr.
     title: 'Fullrate / TDC: Ny omsetning på pakker'
+    role: 'Min rolle: kommersiell direktør, prosjekteier.'
     text: SIM-only var tapt til lavprisaktører på pris. Anskaffelseskostnaden ble flyttet fra provisjon til verdi i pakken, og salget økte markant til tross for 20–30 DKK høyere månedspris.
   - figure: 75 000 kunder
     title: 'Sonofon: Yndlingsnummer'
+    role: 'Min rolle: prosjekteier.'
     text: 'Et asymmetrisk angrep på TDCs fasttelefoni: 49 DKK i måneden mot om lag 350 DKK i kvartalet. I samme periode steg TDCs frafall i fasttelefoni fra om lag 12 % til 17–18 %.'
 - type: cases
   id: featured
@@ -226,7 +233,7 @@ sections:
 - type: contact
   heading: Skal vi snakke om deres neste kommersielle steg?
   paragraphs:
-  - Beskriv kort utfordringen. Da tar vi en innledende samtale om mål, muligheter og en passende vei videre. Den første samtalen er gratis.
-  cta: Kontakt Glade Advisory Group
+  - Beskriv kort utfordringen. Da tar vi en innledende samtale om mål, muligheter og en passende vei videre. Den første samtalen er gratis. Du går ut av samtalen med et forslag til hvor det svakeste leddet i den kommersielle motoren deres sitter.
+  cta: Book en samtale med Lars
 translationKey: cases
 ---

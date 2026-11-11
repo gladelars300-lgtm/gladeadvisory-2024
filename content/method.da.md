@@ -13,6 +13,16 @@ sections:
     label: Kontakt os
     href: '#contact'
 - type: text
+  id: approach
+  eyebrow: Tre trin
+  heading: Fra problem til bevist handling
+  paragraphs:
+  - At gætte på, hvad der virker, er ikke en kompetence. Kompetencen er at finde det egentlige problem, stille de rigtige hypoteser og teste dem.
+  - '**1. Diagnose (2–3 uger).** Vi starter med problemet, ikke løsningen. Jeg finder driverne, ser i jeres data efter, hvor kæden hopper af, og formulerer 5–7 hypoteser om, hvad der vil flytte resultatet. I får et prioriteret beslutningsgrundlag.'
+  - '**2. Test (6–8 uger).** Sammen vælger vi de handlinger, I er klar til at teste. De sættes i gang i lille skala og måles, så vi ved, hvad der virker, før der investeres stort.'
+  - '**3. Skalér.** Det, der virker, rulles ud. Det, der ikke virker, droppes. Det er også et resultat, for det er penge, I ikke bruger på det forkerte.'
+  - Ikke alle hypoteser holder. Men starter man med den rigtige problemforståelse, holder de fleste, og man ved hurtigt, hvilke der ikke gør.
+- type: text
   id: chain
   eyebrow: Grundprincippet
   heading: Vækst er et produkt, ikke en sum
@@ -70,7 +80,7 @@ sections:
   heading: Sådan kan vi arbejde sammen
   cols: 3
   items:
-  - title: Hurtig assessment
+  - title: Diagnose
     text: 2–3 uger. En kommerciel eller AI-relateret udfordring analyseret og omsat til et beslutningsgrundlag med prioriteringer.
   - title: Strategisk sparring
     text: Løbende rådgivning til direktion, kommerciel ledelse eller bestyrelse, med fokus på få beslutninger med stor effekt.
@@ -85,7 +95,7 @@ sections:
 - type: contact
   heading: Skal vi tale om jeres næste kommercielle skridt?
   paragraphs:
-  - Beskriv kort udfordringen. Så tager vi en indledende samtale om mål, muligheder og en passende måde at komme videre på. Første samtale koster ikke noget.
-  cta: Kontakt Glade Advisory Group
+  - Beskriv kort udfordringen. Så tager vi en indledende samtale om mål, muligheder og en passende måde at komme videre på. Første samtale koster ikke noget. Du går fra samtalen med et bud på, hvor det svageste led i jeres kommercielle motor sidder.
+  cta: Book en samtale med Lars
 translationKey: method
 ---

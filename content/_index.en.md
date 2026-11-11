@@ -2,11 +2,11 @@
 # Generated content: edit the text here; layout lives in layouts/partials/sections.html.
 title: Complex problems. Decision-ready answers.
 seo_title: Commercial strategy and AI advisory | Glade Advisory Group
-description: 'Lars Glade helps CEOs and commercial leaders build profitable growth through commercial strategy, customer economics, go-to-market and practical AI. 30 years of P&L responsibility.'
+description: 'Lars Glade helps CEOs and commercial leaders build profitable growth through commercial strategy, customer economics, go-to-market and practical AI. 25 years of commercial experience.'
 sections:
 - type: hero
   heading: Complex problems. Decision-ready answers.
-  lead: I help CEOs and commercial leaders find the weakest link in the commercial engine, and fix it. Thirty years of P&L responsibility, with AI as a working tool. People first, data as our common language.
+  lead: I help CEOs and commercial leaders find the weakest link in the commercial engine, and fix it. Twenty-five years of commercial results, with AI as a working tool. People first, data as our common language.
   tagline: Commercial strategy · Customer economics · AI in practice
   cta:
     label: Tell me about your challenge
@@ -22,25 +22,29 @@ sections:
   id: results
   eyebrow: Evidence
   heading: Evidence before rhetoric.
-  lead: Five results from my own P&L responsibility, measured incrementally and against control groups where possible. And one that shows how I work with AI.
+  lead: Five results from projects I led and owned, measured incrementally and against control groups where possible. And one that shows how I work with AI.
   link:
     label: See cases and papers
     href: /cases
   items:
   - figure: DKK 200m
     title: 'Topdanmark / If: Retained revenue'
+    role: 'My role: Performance Manager and programme lead, project owner.'
     text: The analysis was the easy part. The hard part was sending each lead to the right channel and paying for the right behaviour. Churn among the most valuable customers fell from about 18% to 12%, and cross-sales grew by EUR 5–8m.
   - figure: About 2× sales
     title: 'Topdanmark: Health and critical illness cover'
     text: Many people assume health cover comes with the job. For many public-sector employees and staff at smaller companies, it doesn't. Together with a colleague, I built the offer around critical illness cover combined with classic health insurance, and the scripts to sell it. Sales roughly doubled in 2025.
   - figure: 19,000 extra sales
     title: 'YouSee / Nuuday: Customers we already had'
+    role: 'My role: Head of CRM & Commercial Performance, project owner.'
     text: I found which offers converted in which segments, and stopped the rest. About EUR 10m in additional annual revenue, measured against control groups.
   - figure: DKK 50m
     title: 'Fullrate / TDC: Winning on value, not price'
+    role: 'My role: Commercial Director, project owner.'
     text: SIM-only had been lost to discount brands. I moved the acquisition budget from commissions into value in the bundle. Sales rose sharply despite a DKK 20–30 higher monthly price.
   - figure: 75,000 customers
     title: 'Sonofon: Favourite Number'
+    role: 'My role: project owner.'
     text: 'An asymmetric attack on TDC''s landline business: DKK 49 a month against about DKK 350 a quarter. Over the same period TDC''s landline churn rose from about 12% to 17–18%.'
   - figure: One morning
     title: 'This website: AI in practice'
@@ -103,9 +107,9 @@ sections:
     src: img/lars-glade-800.jpg
     webp: img/lars-glade-800.webp
     alt: Portrait of Lars Glade
-    caption: Lars Glade, founder. 30 years of P&L responsibility in Danish telecoms and insurance.
+    caption: Lars Glade, founder. 25 years of commercial experience in Danish telecoms and insurance.
   paragraphs:
-  - I have spent three decades in commercial leadership in telecoms and insurance, accountable for the numbers rather than advising on them. I work across strategy and execution and shape each engagement around the task at hand.
+  - I have spent 25 years in commercial roles in telecoms and insurance, accountable for the numbers rather than advising on them. I work across strategy and execution and shape each engagement around the task at hand.
   - 'Today I also work with AI as a commercial discipline: as strategic adviser to a Nordic AI implementation house, with my own AI tools, and with AI as a standing analytical partner in every paper.'
   link:
     label: More about me
@@ -113,6 +117,6 @@ sections:
 - type: contact
   heading: Have an important problem that still lacks a clear answer?
   paragraphs:
-  - Tell me briefly about the challenge, and we'll take it from there. The first conversation is free.
-  cta: Write to me
+  - Tell me briefly about the challenge, and we'll take it from there. The first conversation is free. You leave the conversation with a view on where the weakest link in your commercial engine sits.
+  cta: Book a conversation with Lars
 ---

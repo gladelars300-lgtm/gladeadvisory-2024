@@ -16,19 +16,26 @@ sections:
   id: results
   eyebrow: Eigene Ergebnisse
   heading: Gemessen, nicht geschätzt
-  lead: Vier Beispiele aus eigener P&L-Verantwortung. Die Wirkung wurde inkrementell gemessen, wo möglich gegen Kontrollgruppen.
+  lead: Fünf Beispiele aus Projekten, die ich selbst geleitet und verantwortet habe. Die Wirkung wurde inkrementell gemessen, wo möglich gegen Kontrollgruppen.
   items:
   - figure: 200 Mio. DKK
     title: 'Topdanmark / If: Gesicherter Umsatz'
+    role: 'Meine Rolle: Performance Manager und Programmleiter, Projektverantwortlicher.'
     text: Die Abwanderung unter den wertvollsten Kunden sank von rund 18 % auf 12 %, das Cross-Selling stieg um 5–8 Mio. Euro. Die Arbeit lag in der Verteilung der Leads auf Kanäle und Kompetenzen und in einem Bonusmodell, das das richtige Verhalten belohnte.
+  - figure: Etwa 2× Absatz
+    title: 'Topdanmark: Kranken- und Schwere-Krankheiten-Versicherung'
+    text: Viele glauben, die Krankenversicherung komme mit dem Job. Für viele Beschäftigte im öffentlichen Dienst und in kleineren Unternehmen stimmt das nicht. Gemeinsam mit einem Kollegen habe ich das Angebot um eine Schwere-Krankheiten-Versicherung in Kombination mit klassischer Krankenversicherung gebaut, samt Verkaufsskripten. Der Absatz hat sich 2025 etwa verdoppelt.
   - figure: 19.000 Zusatzverkäufe
     title: 'YouSee / Nuuday: Verkauf an Bestandskunden'
+    role: 'Meine Rolle: Head of CRM & Commercial Performance, Projektverantwortlicher.'
     text: Rund 10 Mio. Euro jährlicher Mehrumsatz, gemessen gegen Kontrollgruppen. Kern war die Frage, welche Angebote in welchen Segmenten konvertieren, und der Verzicht auf den Rest.
   - figure: 50 Mio. DKK
     title: 'Fullrate / TDC: Neuer Umsatz mit Paketen'
+    role: 'Meine Rolle: Kommerzieller Direktor, Projektverantwortlicher.'
     text: SIM-only war im Preiskampf an Discounter verloren. Die Akquisitionskosten wurden von Provisionen in Mehrwert im Paket verlagert, und der Absatz stieg deutlich, trotz eines um 20–30 DKK höheren Monatspreises.
   - figure: 75.000 Kunden
     title: 'Sonofon: Lieblingsnummer'
+    role: 'Meine Rolle: Projektverantwortlicher.'
     text: 'Ein asymmetrischer Angriff auf das Festnetz von TDC: 49 DKK im Monat gegen rund 350 DKK im Quartal. Im selben Zeitraum stieg die Festnetz-Abwanderung bei TDC von rund 12 % auf 17–18 %.'
 - type: cases
   id: featured
@@ -226,7 +233,7 @@ sections:
 - type: contact
   heading: Sprechen wir über Ihren nächsten kommerziellen Schritt?
   paragraphs:
-  - Beschreiben Sie kurz die Herausforderung. Dann führen wir ein erstes Gespräch über Ziele, Möglichkeiten und einen sinnvollen Weg nach vorn. Das erste Gespräch ist kostenlos.
-  cta: Glade Advisory Group kontaktieren
+  - Beschreiben Sie kurz die Herausforderung. Dann führen wir ein erstes Gespräch über Ziele, Möglichkeiten und einen sinnvollen Weg nach vorn. Das erste Gespräch ist kostenlos. Sie gehen aus dem Gespräch mit einer Einschätzung, wo das schwächste Glied in Ihrem kommerziellen Motor sitzt.
+  cta: Gespräch mit Lars buchen
 translationKey: cases
 ---
