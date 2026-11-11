@@ -35,7 +35,7 @@ sections:
     text: SIM-only var tapt til lavprisaktører på pris. Anskaffelseskostnaden ble flyttet fra provisjon til verdi i pakken, og salget økte markant til tross for 20–30 DKK høyere månedspris.
   - figure: 75 000 kunder
     title: 'Sonofon: Yndlingsnummer'
-    role: 'Min rolle: prosjekteier.'
+    role: 'Min rolle: kommersiell manager, prosjekteier.'
     text: 'Et asymmetrisk angrep på TDCs fasttelefoni: 49 DKK i måneden mot om lag 350 DKK i kvartalet. I samme periode steg TDCs frafall i fasttelefoni fra om lag 12 % til 17–18 %.'
 - type: cases
   id: featured

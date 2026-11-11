@@ -44,7 +44,7 @@ sections:
     text: SIM-only war an Discounter verloren. Ich habe das Akquisitionsbudget von Provisionen in Wert im Bundle verlagert. Der Absatz stieg deutlich, trotz eines um 20–30 DKK höheren Monatspreises.
   - figure: 75.000 Kunden
     title: 'Sonofon: Lieblingsnummer'
-    role: 'Meine Rolle: Projektverantwortlicher.'
+    role: 'Meine Rolle: Kommerzieller Manager, Projektverantwortlicher.'
     text: 'Ein asymmetrischer Angriff auf TDCs Festnetzgeschäft: 49 DKK im Monat gegen etwa 350 DKK im Quartal. Im selben Zeitraum stieg TDCs Festnetz-Abwanderung von etwa 12 % auf 17–18 %.'
   - figure: Ein Vormittag
     title: 'Diese Website: KI in der Praxis'

@@ -44,7 +44,7 @@ sections:
     text: SIM-only var tapt til lavprisaktørene. Jeg flyttet anskaffelsesbudsjettet fra provisjon til verdi i pakken. Salget steg kraftig, selv med en månedspris som var 20–30 DKK høyere.
   - figure: 75 000 kunder
     title: 'Sonofon: Favorittnummer'
-    role: 'Min rolle: prosjekteier.'
+    role: 'Min rolle: kommersiell manager, prosjekteier.'
     text: 'Et asymmetrisk angrep på TDCs fasttelefoni: 49 DKK i måneden mot ca. 350 DKK i kvartalet. I samme periode steg TDCs churn i fasttelefoni fra ca. 12 % til 17–18 %.'
   - figure: Én formiddag
     title: 'Denne nettsiden: AI i praksis'

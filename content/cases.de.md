@@ -35,7 +35,7 @@ sections:
     text: SIM-only war im Preiskampf an Discounter verloren. Die Akquisitionskosten wurden von Provisionen in Mehrwert im Paket verlagert, und der Absatz stieg deutlich, trotz eines um 20–30 DKK höheren Monatspreises.
   - figure: 75.000 Kunden
     title: 'Sonofon: Lieblingsnummer'
-    role: 'Meine Rolle: Projektverantwortlicher.'
+    role: 'Meine Rolle: Kommerzieller Manager, Projektverantwortlicher.'
     text: 'Ein asymmetrischer Angriff auf das Festnetz von TDC: 49 DKK im Monat gegen rund 350 DKK im Quartal. Im selben Zeitraum stieg die Festnetz-Abwanderung bei TDC von rund 12 % auf 17–18 %.'
 - type: cases
   id: featured

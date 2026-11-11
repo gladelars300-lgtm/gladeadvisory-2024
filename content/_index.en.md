@@ -44,7 +44,7 @@ sections:
     text: SIM-only had been lost to discount brands. I moved the acquisition budget from commissions into value in the bundle. Sales rose sharply despite a DKK 20–30 higher monthly price.
   - figure: 75,000 customers
     title: 'Sonofon: Favourite Number'
-    role: 'My role: project owner.'
+    role: 'My role: Commercial Manager, project owner.'
     text: 'An asymmetric attack on TDC''s landline business: DKK 49 a month against about DKK 350 a quarter. Over the same period TDC''s landline churn rose from about 12% to 17–18%.'
   - figure: One morning
     title: 'This website: AI in practice'

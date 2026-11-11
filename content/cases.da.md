@@ -35,7 +35,7 @@ sections:
     text: SIM-only var tabt til discount på pris. Anskaffelsesomkostningen blev flyttet fra provision til værdi i pakken, og salget steg markant, selvom månedsprisen var 20–30 kr. højere.
   - figure: 75.000 kunder
     title: 'Sonofon: Yndlingsnummer'
-    role: 'Min rolle: projektejer.'
+    role: 'Min rolle: kommerciel manager, projektejer.'
     text: 'Et asymmetrisk angreb på TDC''s fastnet: 49 kr. om måneden mod ca. 350 kr. i kvartalet. I samme periode steg TDC''s fastnet-churn fra ca. 12 % til 17–18 %.'
 - type: cases
   id: first-principles
