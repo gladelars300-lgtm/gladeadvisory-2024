@@ -3,7 +3,7 @@
 title: Über Lars Glade
 slug: ueber-uns
 seo_title: Über Lars Glade | Glade Advisory Group
-description: Lars Glade hat 30 Jahre P&L-Verantwortung in der dänischen Telekommunikation und Versicherung und arbeitet heute mit kommerzieller Strategie, Kundenökonomie und KI.
+description: Lars Glade hat 25 Jahre kommerzielle Erfahrung in der dänischen Telekommunikation und Versicherung und arbeitet heute mit kommerzieller Strategie, Kundenökonomie und KI.
 sections:
 - type: about
   id: about
@@ -13,9 +13,9 @@ sections:
     src: img/lars-glade-800.jpg
     webp: img/lars-glade-800.webp
     alt: Porträt von Lars Glade
-    caption: Lars Glade, Gründer. 30 Jahre P&L-Verantwortung in der dänischen Telekommunikation und Versicherung.
+    caption: Lars Glade, Gründer. 25 Jahre kommerzielle Erfahrung in der dänischen Telekommunikation und Versicherung.
   paragraphs:
-  - 'Ich habe drei Jahrzehnte auf der kommerziellen Seite der dänischen Telekommunikation und Versicherung verbracht: Sonofon, Telenor, Telia, Fullrate, YouSee und Topdanmark. Immer mit Verantwortung für Zahlen, die geliefert werden mussten, nicht nur für Empfehlungen, die abzugeben waren.'
+  - 'Ich habe 25 Jahre auf der kommerziellen Seite der dänischen Telekommunikation und Versicherung verbracht: Sonofon, Telenor, Telia, Fullrate, YouSee und Topdanmark. Immer mit Verantwortung für Zahlen, die geliefert werden mussten, nicht nur für Empfehlungen, die abzugeben waren.'
   - 'Daraus habe ich eine Grundhaltung gewonnen: Die meisten kommerziellen Probleme sind keine Ideenprobleme. Es sind Messprobleme. Wird die Wirkung gegen eine Kontrollgruppe gemessen, verschwindet die Hälfte der Initiativen von selbst, und der Rest lässt sich mit Ruhe skalieren.'
   - Heute führe ich Glade Advisory Group und arbeite mit KI als kommerzieller Disziplin, unter anderem als Chief Commercial Strategist beim Aufbau eines nordischen KI-Implementierungshauses. Ich nutze KI täglich als Analysepartner und baue eigene Werkzeuge.
   - Ich schreibe Analysen in der dänischen Tagespresse und bin seit 16 Jahren Laienrichter.
@@ -31,7 +31,7 @@ sections:
 - type: contact
   heading: Sprechen wir über Ihren nächsten kommerziellen Schritt?
   paragraphs:
-  - Beschreiben Sie kurz die Herausforderung. Dann führen wir ein erstes Gespräch über Ziele, Möglichkeiten und einen sinnvollen Weg nach vorn. Das erste Gespräch ist kostenlos.
-  cta: Glade Advisory Group kontaktieren
+  - Beschreiben Sie kurz die Herausforderung. Dann führen wir ein erstes Gespräch über Ziele, Möglichkeiten und einen sinnvollen Weg nach vorn. Das erste Gespräch ist kostenlos. Sie gehen aus dem Gespräch mit einer Einschätzung, wo das schwächste Glied in Ihrem kommerziellen Motor sitzt.
+  cta: Gespräch mit Lars buchen
 translationKey: about
 ---

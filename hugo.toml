@@ -7,6 +7,12 @@ title = "Glade Advisory Group"
 defaultContentLanguage = "da"
 defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
+# Lastmod from the last git commit touching each page, so the sitemap tells
+# search engines when a page actually changed.
+enableGitInfo = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date"]
 disableKinds = ["taxonomy", "term", "rss"]
 
 [params]

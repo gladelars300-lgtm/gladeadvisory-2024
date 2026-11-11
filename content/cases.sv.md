@@ -16,19 +16,26 @@ sections:
   id: results
   eyebrow: Egna resultat
   heading: Mätt, inte uppskattat
-  lead: Fyra exempel från eget resultatansvar. Effekten mättes inkrementellt, mot kontrollgrupper där det var möjligt.
+  lead: Fem exempel från projekt som jag själv har lett och ägt. Effekten mättes inkrementellt, mot kontrollgrupper där det var möjligt.
   items:
   - figure: 200 MDKK
     title: 'Topdanmark / If: Behållen omsättning'
+    role: 'Min roll: Performance Manager och programledare, projektägare.'
     text: Kundbortfallet bland de mest värdefulla kunderna sjönk från cirka 18 % till 12 %, och merförsäljningen ökade med 5–8 miljoner euro. Arbetet låg i fördelningen av leads mellan kanaler och kompetenser och i en bonusmodell som belönade rätt beteende.
+  - figure: Cirka 2× försäljning
+    title: 'Topdanmark: Sjukvårds- och diagnosförsäkring'
+    text: Många tror att sjukvårdsförsäkringen följer med jobbet. För många offentliganställda och anställda i mindre företag gör den inte det. Tillsammans med en kollega byggde jag erbjudandet kring försäkring vid allvarlig sjukdom kombinerad med klassisk sjukvårdsförsäkring, och säljmanusen för att sälja det. Försäljningen ungefär fördubblades 2025.
   - figure: 19 000 extra försäljningar
     title: 'YouSee / Nuuday: Försäljning till befintliga kunder'
+    role: 'Min roll: Head of CRM & Commercial Performance, projektägare.'
     text: Cirka 10 miljoner euro i årlig merförsäljning, mätt mot kontrollgrupper. Kärnan var att kartlägga vilka erbjudanden som konverterade i vilka segment, och sluta med resten.
   - figure: 50 MDKK
     title: 'Fullrate / TDC: Ny omsättning på paket'
+    role: 'Min roll: kommersiell direktör, projektägare.'
     text: SIM-only hade förlorats till lågprisaktörer på pris. Anskaffningskostnaden flyttades från provision till värde i paketet, och försäljningen ökade kraftigt trots 20–30 DKK högre månadspris.
   - figure: 75 000 kunder
     title: 'Sonofon: Favoritnummer'
+    role: 'Min roll: kommersiell manager, projektägare.'
     text: 'En asymmetrisk attack mot TDC:s fasta telefoni: 49 DKK i månaden mot cirka 350 DKK i kvartalet. Under samma period steg TDC:s kundbortfall i fast telefoni från cirka 12 % till 17–18 %.'
 - type: cases
   id: featured
@@ -226,7 +233,7 @@ sections:
 - type: contact
   heading: Ska vi prata om ert nästa kommersiella steg?
   paragraphs:
-  - Beskriv kort utmaningen. Då tar vi ett första samtal om mål, möjligheter och ett lämpligt sätt att gå vidare. Det första samtalet är kostnadsfritt.
-  cta: Kontakta Glade Advisory Group
+  - Beskriv kort utmaningen. Då tar vi ett första samtal om mål, möjligheter och ett lämpligt sätt att gå vidare. Det första samtalet är kostnadsfritt. Du lämnar samtalet med ett förslag på var den svagaste länken i er kommersiella motor sitter.
+  cta: Boka ett samtal med Lars
 translationKey: cases
 ---

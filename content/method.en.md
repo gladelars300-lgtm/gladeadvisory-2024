@@ -85,7 +85,7 @@ sections:
 - type: contact
   heading: Shall we talk about your next commercial move?
   paragraphs:
-  - Tell us briefly about the challenge. We will have an initial conversation about goals, options and a sensible way forward. The first conversation is free.
-  cta: Contact Glade Advisory Group
+  - Tell us briefly about the challenge. We will have an initial conversation about goals, options and a sensible way forward. The first conversation is free. You leave the conversation with a view on where the weakest link in your commercial engine sits.
+  cta: Book a conversation with Lars
 translationKey: method
 ---

@@ -85,7 +85,7 @@ sections:
 - type: contact
   heading: Sprechen wir über Ihren nächsten kommerziellen Schritt?
   paragraphs:
-  - Beschreiben Sie kurz die Herausforderung. Dann führen wir ein erstes Gespräch über Ziele, Möglichkeiten und einen sinnvollen Weg nach vorn. Das erste Gespräch ist kostenlos.
-  cta: Glade Advisory Group kontaktieren
+  - Beschreiben Sie kurz die Herausforderung. Dann führen wir ein erstes Gespräch über Ziele, Möglichkeiten und einen sinnvollen Weg nach vorn. Das erste Gespräch ist kostenlos. Sie gehen aus dem Gespräch mit einer Einschätzung, wo das schwächste Glied in Ihrem kommerziellen Motor sitzt.
+  cta: Gespräch mit Lars buchen
 translationKey: method
 ---

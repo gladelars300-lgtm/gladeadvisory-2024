@@ -16,19 +16,26 @@ sections:
   id: results
   eyebrow: Own results
   heading: Measured, not estimated
-  lead: Four examples from my own P&L responsibilities. Impact was measured incrementally, against control groups where possible.
+  lead: Five examples from projects I led and owned. Impact was measured incrementally, against control groups where possible.
   items:
   - figure: DKK 200m
     title: 'Topdanmark / If: Retained revenue'
+    role: 'My role: Performance Manager and programme lead, project owner.'
     text: Churn among the most valuable customers fell from about 18% to 12%, and cross-sales grew by EUR 5–8m. The work was in allocating leads across channels and skills, and in a bonus model that rewarded the right behaviour.
+  - figure: About 2× sales
+    title: 'Topdanmark: Health and critical illness cover'
+    text: Many people assume health cover comes with the job. For many public-sector employees and staff at smaller companies, it doesn't. Together with a colleague, I built the offer around critical illness cover combined with classic health insurance, and the scripts to sell it. Sales roughly doubled in 2025.
   - figure: 19,000 extra sales
     title: 'YouSee / Nuuday: Sales to existing customers'
+    role: 'My role: Head of CRM & Commercial Performance, project owner.'
     text: About EUR 10m in additional annual revenue, measured against control groups. The core was mapping which offers converted in which segments, and stopping the rest.
   - figure: DKK 50m
     title: 'Fullrate / TDC: New bundle revenue'
+    role: 'My role: Commercial Director, project owner.'
     text: SIM-only had been lost to discount brands on price. Acquisition cost was moved from commission into value in the bundle, and sales rose sharply despite a DKK 20–30 higher monthly price.
   - figure: 75,000 customers
     title: 'Sonofon: Favourite Number'
+    role: 'My role: Commercial Manager, project owner.'
     text: 'An asymmetric attack on TDC''s landline business: DKK 49 a month against about DKK 350 a quarter. Over the same period TDC''s landline churn rose from about 12% to 17–18%.'
 - type: cases
   id: first-principles
@@ -281,7 +288,7 @@ sections:
 - type: contact
   heading: Shall we talk about your next commercial move?
   paragraphs:
-  - Tell us briefly about the challenge. We will have an initial conversation about goals, options and a sensible way forward. The first conversation is free.
-  cta: Contact Glade Advisory Group
+  - Tell us briefly about the challenge. We will have an initial conversation about goals, options and a sensible way forward. The first conversation is free. You leave the conversation with a view on where the weakest link in your commercial engine sits.
+  cta: Book a conversation with Lars
 translationKey: cases
 ---

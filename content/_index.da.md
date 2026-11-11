@@ -2,11 +2,11 @@
 # Generated content: edit the text here; layout lives in layouts/partials/sections.html.
 title: Komplekse problemer. Beslutningsklare svar.
 seo_title: Kommerciel strategi og AI-rådgivning | Glade Advisory Group
-description: 'Lars Glade hjælper direktører og kommercielle ledere med at skabe profitabel vækst gennem kommerciel strategi, kundeøkonomi, go-to-market og AI i praksis. 30 års P&L-ansvar.'
+description: 'Lars Glade hjælper direktører og kommercielle ledere med at skabe profitabel vækst gennem kommerciel strategi, kundeøkonomi, go-to-market og AI i praksis. 25 års kommerciel erfaring.'
 sections:
 - type: hero
   heading: Komplekse problemer. Beslutningsklare svar.
-  lead: Jeg hjælper direktører og kommercielle ledere med at finde det svageste led i den kommercielle motor og rette det. Tredive års P&L-ansvar, med AI som arbejdsredskab. Mennesker først, data som fælles sprog.
+  lead: Jeg hjælper direktører og kommercielle ledere med at finde det svageste led i den kommercielle motor og rette det. Femogtyve års kommercielle resultater, med AI som arbejdsredskab. Mennesker først, data som fælles sprog.
   tagline: Kommerciel strategi · Kundeøkonomi · AI i praksis
   cta:
     label: Fortæl mig om udfordringen
@@ -22,25 +22,29 @@ sections:
   id: results
   eyebrow: Beviser
   heading: Resultater før retorik.
-  lead: Fem resultater fra mit eget P&L-ansvar, målt inkrementelt og mod kontrolgrupper, hvor det var muligt. Og ét, der viser, hvordan jeg arbejder med AI.
+  lead: Fem resultater fra projekter, jeg selv har ledet og ejet, målt inkrementelt og mod kontrolgrupper, hvor det var muligt. Og ét, der viser, hvordan jeg arbejder med AI.
   link:
     label: Se cases og oplæg
     href: /cases
   items:
   - figure: 200 mio. kr.
     title: 'Topdanmark / If: Fastholdt omsætning'
+    role: 'Min rolle: Performance Manager og programleder, projektejer.'
     text: Analysen var den lette del. Det svære var at sende hvert lead til den rigtige kanal og betale for den rigtige adfærd. Churn blandt de mest værdifulde kunder faldt fra ca. 18 % til 12 %, og krydssalget steg med 5–8 mio. euro.
   - figure: Ca. 2× salg
     title: 'Topdanmark: Sundheds- og kritisk sygdom-forsikring'
     text: Mange tror, at sundhedsforsikringen følger med jobbet. For mange offentligt ansatte og ansatte i mindre virksomheder gør den ikke. Sammen med en kollega byggede jeg tilbuddet om kritisk sygdom kombineret med klassisk sundhedsforsikring og de salgsscripts, der skulle til. Salget blev omtrent fordoblet i 2025.
   - figure: 19.000 ekstra salg
     title: 'YouSee / Nuuday: Kunder, vi allerede havde'
+    role: 'Min rolle: Head of CRM & Commercial Performance, projektejer.'
     text: Jeg fandt ud af, hvilke tilbud der konverterede i hvilke segmenter, og stoppede resten. Ca. 10 mio. euro i årlig meromsætning, målt mod kontrolgrupper.
   - figure: 50 mio. kr.
     title: 'Fullrate / TDC: Vind på værdi, ikke pris'
+    role: 'Min rolle: kommerciel direktør, projektejer.'
     text: SIM-only var tabt til discount. Jeg flyttede anskaffelsesbudgettet fra provision til værdi i pakken. Salget steg markant, selvom månedsprisen var 20–30 kr. højere.
   - figure: 75.000 kunder
     title: 'Sonofon: Yndlingsnummer'
+    role: 'Min rolle: kommerciel manager, projektejer.'
     text: 'Et asymmetrisk angreb på TDC''s fastnet: 49 kr. om måneden mod ca. 350 kr. i kvartalet. I samme periode steg TDC''s fastnet-churn fra ca. 12 % til 17–18 %.'
   - figure: Én formiddag
     title: 'Denne hjemmeside: AI i praksis'
@@ -103,9 +107,9 @@ sections:
     src: img/lars-glade-800.jpg
     webp: img/lars-glade-800.webp
     alt: Portræt af Lars Glade
-    caption: Lars Glade, stifter. 30 års P&L-ansvar i dansk telekom og forsikring.
+    caption: Lars Glade, stifter. 25 års kommerciel erfaring i dansk telekom og forsikring.
   paragraphs:
-  - Jeg har tre årtier bag mig i kommerciel ledelse i telekom og forsikring, med ansvaret for tallene og ikke kun rådgivningen om dem. Jeg arbejder på tværs af strategi og eksekvering og tilpasser hvert samarbejde til den opgave, der skal løses.
+  - Jeg har 25 år bag mig i kommercielle roller i telekom og forsikring, med ansvaret for tallene og ikke kun rådgivningen om dem. Jeg arbejder på tværs af strategi og eksekvering og tilpasser hvert samarbejde til den opgave, der skal løses.
   - 'I dag arbejder jeg også med AI som kommerciel disciplin: som strategisk rådgiver i et nordisk AI-implementeringshus, med egne AI-værktøjer og med AI som fast analysepartner i alle oplæg.'
   link:
     label: Mere om mig
@@ -113,6 +117,6 @@ sections:
 - type: contact
   heading: Har I et vigtigt problem, der stadig mangler et klart svar?
   paragraphs:
-  - Beskriv kort udfordringen, så tager vi den derfra. Første samtale koster ikke noget.
-  cta: Skriv til mig
+  - Beskriv kort udfordringen, så tager vi den derfra. Første samtale koster ikke noget. Du går fra samtalen med et bud på, hvor det svageste led i jeres kommercielle motor sidder.
+  cta: Book en samtale med Lars
 ---
