@@ -151,6 +151,11 @@ sections:
   groups:
   - heading: Dokumenter
     items:
+    - file: fpf-kan-man-traene-doemmekraft.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'Kan man trene dømmekraft på et kurs?'
+      text: 'PwC bruker 100 millioner dollar på å trene 85 000 ansatte i kritisk tenkning. Problemet er reelt, men dømmekraft er taus kunnskap. Den nye øvelsen er å finne feilen i AI-ens arbeid.'
+      meta: PDF · dansk
     - file: fpf-kan-ai-skrive-en-roman.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Kan AI skrive en roman?'

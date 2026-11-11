@@ -151,6 +151,11 @@ sections:
   groups:
   - heading: Papiere
     items:
+    - file: fpf-kan-man-traene-doemmekraft.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'Kann man Urteilskraft in einem Kurs lernen?'
+      text: 'PwC investiert 100 Mio. Dollar, um 85.000 Mitarbeitende in kritischem Denken zu schulen. Das Problem ist real, aber Urteilskraft ist implizites Wissen. Die neue Übung: den Fehler in der Arbeit der KI finden.'
+      meta: PDF · Dänisch
     - file: fpf-kan-ai-skrive-en-roman.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Kann KI einen Roman schreiben?'

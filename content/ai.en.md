@@ -151,6 +151,11 @@ sections:
   groups:
   - heading: Papers
     items:
+    - file: fpf-kan-man-traene-doemmekraft.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'Can judgment be taught on a course?'
+      text: 'PwC is spending USD 100m training 85,000 people in critical thinking. The problem is real, but judgment is tacit knowledge. The new practice is finding the flaw in AI''s work.'
+      meta: PDF · Danish
     - file: fpf-kan-ai-skrive-en-roman.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Can AI write a novel?'

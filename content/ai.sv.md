@@ -151,6 +151,11 @@ sections:
   groups:
   - heading: Texter
     items:
+    - file: fpf-kan-man-traene-doemmekraft.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'Kan man träna omdöme på en kurs?'
+      text: 'PwC lägger 100 miljoner dollar på att träna 85 000 medarbetare i kritiskt tänkande. Problemet är verkligt, men omdöme är tyst kunskap. Den nya övningen är att hitta felet i AI:s arbete.'
+      meta: PDF · danska
     - file: fpf-kan-ai-skrive-en-roman.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Kan AI skriva en roman?'
