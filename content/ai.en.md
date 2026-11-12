@@ -159,7 +159,7 @@ sections:
     - file: indsigt-foer-infrastruktur.pdf
       context: 'First Principles Friday · november 2026 · Analysis'
       title: 'Insight before infrastructure'
-      text: 'AI changes the economics of insight projects. With a client's historical data you can often reach the decision without first building a BI project. The finding, its limits, the incentives and a customer service case.'
+      text: 'AI changes the economics of insight projects. With a client''s historical data you can often reach the decision without first building a BI project. The finding, its limits, the incentives and a customer service case.'
       meta: PDF · Danish
     - file: indsigt-foer-infrastruktur-praesentation.pdf
       context: 'First Principles Friday · november 2026 · Presentation'
