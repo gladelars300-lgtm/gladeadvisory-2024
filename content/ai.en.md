@@ -132,6 +132,11 @@ sections:
     link:
       label: See rivalmonitor.dk
       href: https://rivalmonitor.dk
+  - title: 'Training cockpit: SAP and AI'
+    text: 'A small tool I built with AI for my own training: short advisory cases in SAP S/4HANA, AMS, Commercial Excellence and AI, with feedback that separates facts, assumptions and judgements. An example of using AI to train judgement. In Danish.'
+    link:
+      label: Try the cockpit
+      href: /traening/sap-ai/
   - title: AI-assisted strategy papers
     text: The papers for TV 2, Kilroy, Verisure, Norlys and others were made with AI as analytical partner and image tool, in days rather than weeks.
     link:

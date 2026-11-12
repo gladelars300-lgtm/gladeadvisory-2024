@@ -132,6 +132,11 @@ sections:
     link:
       label: rivalmonitor.dk ansehen
       href: https://rivalmonitor.dk
+  - title: 'Trainingscockpit: SAP und KI'
+    text: 'Ein kleines Werkzeug, das ich mit KI für mein eigenes Training gebaut habe: kurze Beratungsfälle zu SAP S/4HANA, AMS, Commercial Excellence und KI, mit Feedback, das Fakten, Annahmen und Bewertungen trennt. Ein Beispiel dafür, wie KI Urteilsvermögen trainiert. Auf Dänisch.'
+    link:
+      label: Cockpit ausprobieren
+      href: /traening/sap-ai/
   - title: KI-gestützte Strategiepapiere
     text: Die Papiere für TV 2, Kilroy, Verisure, Norlys und andere entstanden mit KI als Analysepartner und Bildwerkzeug, in Tagen statt Wochen.
     link:
