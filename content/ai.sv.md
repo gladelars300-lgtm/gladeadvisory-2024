@@ -27,13 +27,13 @@ sections:
   - figure: 60 %
     title: ser minimal vinst
     text: Majoriteten rapporterar litet eller inget mätbart värde trots betydande investeringar.
-  - figure: 1 sak
-    title: skiljer de bästa
-    text: De gör om besluten och låter de resultatansvariga äga dem, i stället för att lägga AI ovanpå gamla processer.
+  - figure: '0'
+    title: mätbar produktivitetsvinst hittills
+    text: Danska tillverkningsföretag med AI växte mer i omsättning och antal anställda än jämförbara företag, men blev inte mer produktiva.
   - figure: 90 dagar
     title: till första mätbara effekt
     text: Ett beslut, en mätpunkt och en kontrollgrupp räcker för att veta om en AI-satsning fungerar.
-  note: 'Källa till de två första siffrorna: BCG, *The Widening AI Value Gap*, 2025 (cirka 1 250 företag). De två sista är våra arbetsprinciper.'
+  note: 'Källor: BCG, *The Widening AI Value Gap*, 2025 (cirka 1 250 företag); Teknologisk Institut, *AI i dansk produktion*, 2025 (117 AI-företag mot 270 jämförbara, 2021–23, ingen kausal studie). Den sista siffran är vår arbetsprincip.'
 - type: cards
   id: what
   tone: surface
@@ -156,6 +156,11 @@ sections:
   groups:
   - heading: Texter
     items:
+    - file: fpf-ai-stoerre-ikke-mere-produktive.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'AI gjorde företagen större, inte mer produktiva'
+      text: 'Danska AI-företag växte mer i omsättning och anställda, men inte i produktivitet. Tekniken har blivit den billiga delen; vinsten kräver att arbetssätten förändras.'
+      meta: PDF · danska
     - file: indsigt-foer-infrastruktur.pdf
       context: 'First Principles Friday · november 2026 · Analys'
       title: 'Insikt före infrastruktur'
