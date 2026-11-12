@@ -156,6 +156,16 @@ sections:
   groups:
   - heading: Papiere
     items:
+    - file: indsigt-foer-infrastruktur.pdf
+      context: 'First Principles Friday · november 2026 · Analyse'
+      title: 'Erkenntnis vor Infrastruktur'
+      text: 'KI verändert die Ökonomie von Analyseprojekten. Mit den historischen Daten des Kunden lässt sich die Entscheidung oft ohne vorheriges BI-Projekt treffen. Der Befund, seine Grenzen, die Anreize und ein Kundenservice-Fall.'
+      meta: PDF · Dänisch
+    - file: indsigt-foer-infrastruktur-praesentation.pdf
+      context: 'First Principles Friday · november 2026 · Präsentation'
+      title: 'Erkenntnis vor Infrastruktur'
+      text: 'Dieselben Punkte auf 12 Folien: alter und neuer Ablauf, zehn Tage vom Datenauszug zur Entscheidung und die neue Vertriebslogik.'
+      meta: PDF · Dänisch
     - file: fpf-kan-man-traene-doemmekraft.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Kann man Urteilskraft in einem Kurs lernen?'

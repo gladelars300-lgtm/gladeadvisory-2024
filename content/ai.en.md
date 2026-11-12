@@ -156,6 +156,16 @@ sections:
   groups:
   - heading: Papers
     items:
+    - file: indsigt-foer-infrastruktur.pdf
+      context: 'First Principles Friday · november 2026 · Analysis'
+      title: 'Insight before infrastructure'
+      text: 'AI changes the economics of insight projects. With a client''s historical data you can often reach the decision without first building a BI project. The finding, its limits, the incentives and a customer service case.'
+      meta: PDF · Danish
+    - file: indsigt-foer-infrastruktur-praesentation.pdf
+      context: 'First Principles Friday · november 2026 · Presentation'
+      title: 'Insight before infrastructure'
+      text: 'The same points in 12 slides: the old and new process, ten days from extract to decision, and the new sales logic.'
+      meta: PDF · Danish
     - file: fpf-kan-man-traene-doemmekraft.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Can judgment be taught on a course?'
