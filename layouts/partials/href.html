@@ -3,6 +3,7 @@
 {{- $out := "" -}}
 {{- if hasPrefix $h "http" -}}{{- $out = $h -}}
 {{- else if hasPrefix $h "#" -}}{{- $out = $h -}}
+{{- else if hasPrefix $h "/traening/" -}}{{- $out = $h | relURL -}}{{- /* static tools: not localised */ -}}
 {{- else -}}
   {{- $parts := split $h "#" -}}
   {{- with site.GetPage (index $parts 0) -}}

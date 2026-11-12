@@ -1,6 +1,8 @@
 # gladeadvisory-2024
 Glade Advisory Group website — plain Hugo (no theme), five languages.
 
+Standalone tools live in `static/traening/` (not localised; link them as `/traening/...` and `href.html` leaves the language prefix off).
+
 | Language | URL | Content file |
 |---|---|---|
 | Dansk (default) | `/da/` | `content/_index.da.md` |

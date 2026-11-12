@@ -132,6 +132,11 @@ sections:
     link:
       label: Se rivalmonitor.dk
       href: https://rivalmonitor.dk
+  - title: 'Treningscockpit: SAP og AI'
+    text: 'Et lite verktøy jeg bygde med AI til min egen trening: korte rådgivningscaser innen SAP S/4HANA, AMS, Commercial Excellence og AI, med tilbakemelding som skiller fakta, antakelser og vurderinger. Et eksempel på AI for å trene dømmekraft. På dansk.'
+    link:
+      label: Prøv cockpiten
+      href: /traening/sap-ai/
   - title: AI-støttede strategidokumenter
     text: Dokumentene til TV 2, Kilroy, Verisure, Norlys og flere er laget med AI som analysepartner og bildeverktøy, på dager i stedet for uker.
     link:
