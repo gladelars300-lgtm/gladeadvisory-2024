@@ -156,6 +156,16 @@ sections:
   groups:
   - heading: Dokumenter
     items:
+    - file: indsigt-foer-infrastruktur.pdf
+      context: 'First Principles Friday · november 2026 · Analyse'
+      title: 'Innsikt før infrastruktur'
+      text: 'AI endrer økonomien i innsiktsprosjekter. Med kundens historiske data kan man ofte nå beslutningen uten først å bygge et BI-prosjekt. Funnet, grensene, insentivene og en kundeservicecase.'
+      meta: PDF · dansk
+    - file: indsigt-foer-infrastruktur-praesentation.pdf
+      context: 'First Principles Friday · november 2026 · Presentasjon'
+      title: 'Innsikt før infrastruktur'
+      text: 'De samme poengene på 12 lysbilder: det gamle og det nye forløpet, ti dager fra uttrekk til beslutning, og den nye salgslogikken.'
+      meta: PDF · dansk
     - file: fpf-kan-man-traene-doemmekraft.pdf
       context: 'First Principles Friday · november 2026'
       title: 'Kan man trene dømmekraft på et kurs?'
