@@ -27,13 +27,13 @@ sections:
   - figure: 60%
     title: see minimal gains
     text: Most report little or no material value despite substantial investment.
-  - figure: 1 thing
-    title: sets the best apart
-    text: They redesign decisions and let the P&L owners own them, instead of layering AI on top of old processes.
+  - figure: '0'
+    title: measurable productivity gain so far
+    text: Danish manufacturers using AI grew revenue and headcount faster than comparable firms, but did not become more productive.
   - figure: 90 days
     title: to the first measurable effect
     text: One decision, one metric and a control group are enough to know whether an AI effort works.
-  note: 'Source for the first two figures: BCG, *The Widening AI Value Gap*, 2025 (approx. 1,250 companies). The last two are our working principles.'
+  note: 'Sources: BCG, *The Widening AI Value Gap*, 2025 (approx. 1,250 companies); Danish Technological Institute, *AI in Danish manufacturing*, 2025 (117 AI firms vs 270 comparable firms, 2021–23, not a causal study). The last figure is our working principle.'
 - type: cards
   id: what
   tone: surface
@@ -156,6 +156,11 @@ sections:
   groups:
   - heading: Papers
     items:
+    - file: fpf-ai-stoerre-ikke-mere-produktive.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'AI made companies bigger, not more productive'
+      text: 'Danish firms using AI grew revenue and headcount faster, but not productivity. Technology has become the cheap part; the gain requires the workflow to change.'
+      meta: PDF · Danish
     - file: indsigt-foer-infrastruktur.pdf
       context: 'First Principles Friday · november 2026 · Analysis'
       title: 'Insight before infrastructure'

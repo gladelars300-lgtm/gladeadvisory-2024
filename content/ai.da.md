@@ -27,13 +27,13 @@ sections:
   - figure: 60 %
     title: får minimal gevinst
     text: Flertallet rapporterer lille eller ingen målbar værdi trods betydelige investeringer.
-  - figure: 1 ting
-    title: adskiller de bedste
-    text: De redesigner beslutninger og lader de P&L-ansvarlige eje dem i stedet for at lægge AI oven på gamle processer.
+  - figure: '0'
+    title: målbar produktivitetsgevinst endnu
+    text: Danske produktionsvirksomheder med AI voksede mere i omsætning og ansatte end lignende virksomheder, men blev ikke mere produktive.
   - figure: 90 dage
     title: til første målbare effekt
     text: Én beslutning, ét målepunkt og en kontrolgruppe er nok til at vide, om en AI-indsats virker.
-  note: 'Kilde til de to første tal: BCG, *The Widening AI Value Gap*, 2025 (ca. 1.250 virksomheder). De to sidste er vores arbejdsprincipper.'
+  note: 'Kilder: BCG, *The Widening AI Value Gap*, 2025 (ca. 1.250 virksomheder); Teknologisk Institut, *AI i dansk produktion*, 2025 (117 AI-virksomheder mod 270 sammenlignelige, 2021–23, ikke et kausalt studie). Det sidste tal er vores arbejdsprincip.'
 - type: cards
   id: what
   tone: surface
@@ -156,6 +156,11 @@ sections:
   groups:
   - heading: Papirer
     items:
+    - file: fpf-ai-stoerre-ikke-mere-produktive.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'AI gjorde virksomhederne større, ikke mere produktive'
+      text: 'Danske AI-virksomheder voksede mere i omsætning og ansatte, men ikke i produktivitet. Teknologien er blevet den billige del; gevinsten kræver, at arbejdsgangen flytter sig.'
+      meta: PDF · dansk
     - file: indsigt-foer-infrastruktur.pdf
       context: 'First Principles Friday · november 2026 · Analyse'
       title: 'Indsigt før infrastruktur'

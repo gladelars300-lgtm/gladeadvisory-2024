@@ -27,13 +27,13 @@ sections:
   - figure: 60 %
     title: sehen minimalen Nutzen
     text: Die Mehrheit berichtet trotz erheblicher Investitionen von wenig oder keinem messbaren Wert.
-  - figure: 1 Sache
-    title: unterscheidet die Besten
-    text: Sie gestalten Entscheidungen neu und lassen die P&L-Verantwortlichen sie besitzen, statt KI auf alte Prozesse zu setzen.
+  - figure: '0'
+    title: messbarer Produktivitätsgewinn bisher
+    text: Dänische Industrieunternehmen mit KI wuchsen bei Umsatz und Beschäftigten stärker als vergleichbare Firmen, wurden aber nicht produktiver.
   - figure: 90 Tage
     title: bis zur ersten messbaren Wirkung
     text: Eine Entscheidung, ein Messpunkt und eine Kontrollgruppe reichen, um zu wissen, ob eine KI-Initiative wirkt.
-  note: 'Quelle der ersten beiden Zahlen: BCG, *The Widening AI Value Gap*, 2025 (ca. 1.250 Unternehmen). Die letzten beiden sind unsere Arbeitsprinzipien.'
+  note: 'Quellen: BCG, *The Widening AI Value Gap*, 2025 (ca. 1.250 Unternehmen); Dänisches Technologisches Institut, *KI in der dänischen Produktion*, 2025 (117 KI-Firmen gegenüber 270 vergleichbaren, 2021–23, keine Kausalstudie). Die letzte Zahl ist unser Arbeitsprinzip.'
 - type: cards
   id: what
   tone: surface
@@ -156,6 +156,11 @@ sections:
   groups:
   - heading: Papiere
     items:
+    - file: fpf-ai-stoerre-ikke-mere-produktive.pdf
+      context: 'First Principles Friday · november 2026'
+      title: 'KI machte Unternehmen größer, nicht produktiver'
+      text: 'Dänische KI-Unternehmen wuchsen stärker bei Umsatz und Beschäftigten, nicht aber bei der Produktivität. Technik ist der billige Teil geworden; der Gewinn erfordert neue Arbeitsabläufe.'
+      meta: PDF · Dänisch
     - file: indsigt-foer-infrastruktur.pdf
       context: 'First Principles Friday · november 2026 · Analyse'
       title: 'Erkenntnis vor Infrastruktur'
