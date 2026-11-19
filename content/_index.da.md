@@ -2,7 +2,7 @@
 # Generated content: edit the text here; layout lives in layouts/partials/sections.html.
 title: Komplekse problemer. Beslutningsklare svar.
 seo_title: Kommerciel strategi og AI-rådgivning | Glade Advisory Group
-description: 'Lars Glade hjælper direktører og kommercielle ledere med at skabe profitabel vækst gennem kommerciel strategi, kundeøkonomi, go-to-market og AI i praksis. 30 års P&L-ansvar.'
+description: 'Lars Glade hjælper direktører og kommercielle ledere med at skabe profitabel vækst gennem kommerciel strategi, kundeøkonomi, go-to-market og AI i praksis. 25 års kommerciel erfaring.'
 sections:
 - type: hero
   heading: Komplekse problemer. Beslutningsklare svar.
@@ -103,7 +103,7 @@ sections:
     src: img/lars-glade-800.jpg
     webp: img/lars-glade-800.webp
     alt: Portræt af Lars Glade
-    caption: Lars Glade, stifter. 30 års P&L-ansvar i dansk telekom og forsikring.
+    caption: Lars Glade, stifter. 25 års kommerciel erfaring i dansk telekom og forsikring.
   paragraphs:
   - Jeg har tre årtier bag mig i kommerciel ledelse i telekom og forsikring, med ansvaret for tallene og ikke kun rådgivningen om dem. Jeg arbejder på tværs af strategi og eksekvering og tilpasser hvert samarbejde til den opgave, der skal løses.
   - 'I dag arbejder jeg også med AI som kommerciel disciplin: som strategisk rådgiver i et nordisk AI-implementeringshus, med egne AI-værktøjer og med AI som fast analysepartner i alle oplæg.'

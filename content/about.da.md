@@ -3,7 +3,7 @@
 title: Om Lars Glade
 slug: om
 seo_title: Om Lars Glade | Glade Advisory Group
-description: Lars Glade har 30 års P&L-ansvar i dansk telekom og forsikring og arbejder i dag med kommerciel strategi, kundeøkonomi og AI.
+description: Lars Glade har 25 års kommerciel erfaring i dansk telekom og forsikring og arbejder i dag med kommerciel strategi, kundeøkonomi og AI.
 sections:
 - type: about
   id: about
@@ -13,7 +13,7 @@ sections:
     src: img/lars-glade-800.jpg
     webp: img/lars-glade-800.webp
     alt: Portræt af Lars Glade
-    caption: Lars Glade, stifter. 30 års P&L-ansvar i dansk telekom og forsikring.
+    caption: Lars Glade, stifter. 25 års kommerciel erfaring i dansk telekom og forsikring.
   paragraphs:
   - 'Jeg har brugt tre årtier på den kommercielle side af dansk telekom og forsikring: Sonofon, Telenor, Telia, Fullrate, YouSee og Topdanmark. Altid med ansvar for tal, der skulle leveres, ikke kun anbefalinger, der skulle afleveres.'
   - 'Det har givet mig én grundholdning: De fleste kommercielle problemer er ikke idéproblemer. De er målingsproblemer. Når effekten opgøres mod en kontrolgruppe, forsvinder halvdelen af initiativerne af sig selv, og resten kan skaleres med ro i maven.'

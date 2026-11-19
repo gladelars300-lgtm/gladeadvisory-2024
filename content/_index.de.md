@@ -2,7 +2,7 @@
 # Generated content: edit the text here; layout lives in layouts/partials/sections.html.
 title: Komplexe Probleme. Entscheidungsreife Antworten.
 seo_title: Kommerzielle Strategie und KI-Beratung | Glade Advisory Group
-description: 'Lars Glade hilft Geschäftsführern und kommerziellen Führungskräften, profitables Wachstum aufzubauen: mit kommerzieller Strategie, Kundenökonomie, Go-to-Market und KI in der Praxis. 30 Jahre P&L-Verantwortung.'
+description: 'Lars Glade hilft Geschäftsführern und kommerziellen Führungskräften, profitables Wachstum aufzubauen: mit kommerzieller Strategie, Kundenökonomie, Go-to-Market und KI in der Praxis. 25 Jahre kommerzielle Erfahrung.'
 sections:
 - type: hero
   heading: Komplexe Probleme. Entscheidungsreife Antworten.
@@ -103,7 +103,7 @@ sections:
     src: img/lars-glade-800.jpg
     webp: img/lars-glade-800.webp
     alt: Porträt von Lars Glade
-    caption: Lars Glade, Gründer. 30 Jahre P&L-Verantwortung in der dänischen Telekommunikation und Versicherung.
+    caption: Lars Glade, Gründer. 25 Jahre kommerzielle Erfahrung in der dänischen Telekommunikation und Versicherung.
   paragraphs:
   - Ich war drei Jahrzehnte in kommerzieller Führung in Telekommunikation und Versicherung tätig, verantwortlich für die Zahlen und nicht nur beratend. Ich arbeite über Strategie und Umsetzung hinweg und richte jede Zusammenarbeit an der konkreten Aufgabe aus.
   - 'Heute arbeite ich auch mit KI als kommerzieller Disziplin: als strategischer Berater eines nordischen KI-Implementierungshauses, mit eigenen KI-Werkzeugen und mit KI als fester Analysepartnerin in jedem Papier.'

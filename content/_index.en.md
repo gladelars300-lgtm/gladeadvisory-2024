@@ -2,7 +2,7 @@
 # Generated content: edit the text here; layout lives in layouts/partials/sections.html.
 title: Complex problems. Decision-ready answers.
 seo_title: Commercial strategy and AI advisory | Glade Advisory Group
-description: 'Lars Glade helps CEOs and commercial leaders build profitable growth through commercial strategy, customer economics, go-to-market and practical AI. 30 years of P&L responsibility.'
+description: 'Lars Glade helps CEOs and commercial leaders build profitable growth through commercial strategy, customer economics, go-to-market and practical AI. 25 years of commercial experience.'
 sections:
 - type: hero
   heading: Complex problems. Decision-ready answers.
@@ -103,7 +103,7 @@ sections:
     src: img/lars-glade-800.jpg
     webp: img/lars-glade-800.webp
     alt: Portrait of Lars Glade
-    caption: Lars Glade, founder. 30 years of P&L responsibility in Danish telecoms and insurance.
+    caption: Lars Glade, founder. 25 years of commercial experience in Danish telecoms and insurance.
   paragraphs:
   - I have spent three decades in commercial leadership in telecoms and insurance, accountable for the numbers rather than advising on them. I work across strategy and execution and shape each engagement around the task at hand.
   - 'Today I also work with AI as a commercial discipline: as strategic adviser to a Nordic AI implementation house, with my own AI tools, and with AI as a standing analytical partner in every paper.'

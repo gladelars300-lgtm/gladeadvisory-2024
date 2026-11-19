@@ -1,0 +1,54 @@
+{{- /* Structured data (JSON-LD) on every page: organisation, founder, website and current page,
+       linked by @id so search engines and AI assistants see one entity graph. */ -}}
+{{- $root := "/" | absURL }}
+{{- $home := site.Home.Permalink }}
+{{- $orgID := printf "%s#organization" $root }}
+{{- $personID := printf "%s#lars-glade" $root }}
+{{- $siteID := printf "%s#website" $home }}
+{{- $org := dict
+    "@type" "ProfessionalService"
+    "@id" $orgID
+    "name" site.Params.companyLegalName
+    "alternateName" site.Title
+    "url" $root
+    "image" ("img/glade-og-1200x630.jpg" | absURL)
+    "email" site.Params.contactEmail
+    "vatID" (printf "DK%s" site.Params.cvr)
+    "address" (dict "@type" "PostalAddress" "addressCountry" "DK")
+    "areaServed" (slice "DK" "SE" "NO" "DE")
+    "founder" (dict "@id" $personID)
+    "knowsAbout" (slice "Commercial strategy" "Customer economics" "Customer lifetime value" "Go-to-market" "Pricing" "AI strategy" "Box Model")
+}}
+{{- $person := dict
+    "@type" "Person"
+    "@id" $personID
+    "name" "Lars Glade"
+    "jobTitle" "Founder, commercial strategist"
+    "image" ("img/lars-glade-800.jpg" | absURL)
+    "worksFor" (dict "@id" $orgID)
+    "alumniOf" (slice (dict "@type" "CollegeOrUniversity" "name" "Copenhagen Business School") (dict "@type" "CollegeOrUniversity" "name" "Roskilde University"))
+    "knowsAbout" (slice "Commercial strategy" "Customer economics" "Go-to-market" "AI in commercial processes")
+}}
+{{- $website := dict
+    "@type" "WebSite"
+    "@id" $siteID
+    "url" $home
+    "name" site.Title
+    "publisher" (dict "@id" $orgID)
+    "inLanguage" site.Language.Locale
+}}
+{{- $pageType := "WebPage" }}
+{{- if eq .File.ContentBaseName "about" }}{{ $pageType = "AboutPage" }}{{ end }}
+{{- $page := dict
+    "@type" $pageType
+    "@id" (printf "%s#webpage" .Permalink)
+    "url" .Permalink
+    "name" (.Params.seo_title | default .Title)
+    "description" .Description
+    "inLanguage" site.Language.Locale
+    "isPartOf" (dict "@id" $siteID)
+    "about" (dict "@id" (cond (eq $pageType "AboutPage") $personID $orgID))
+}}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@graph" (slice $org $person $website $page) | jsonify | safeJS }}
+</script>

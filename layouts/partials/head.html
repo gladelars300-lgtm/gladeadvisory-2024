@@ -31,11 +31,7 @@
 <meta property="og:image:alt" content="Glade Advisory Group">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ $og }}">
-{{- if .IsHome }}
-<script type="application/ld+json">
-{{ dict "@context" "https://schema.org" "@type" "ProfessionalService" "name" site.Params.companyLegalName "alternateName" site.Title "url" .Permalink "description" .Description "email" site.Params.contactEmail "inLanguage" site.Language.Locale "image" ("img/glade-og-1200x630.jpg" | absURL) "founder" (dict "@type" "Person" "name" "Lars Glade" "image" ("img/lars-glade-800.jpg" | absURL)) | jsonify | safeJS }}
-</script>
-{{- end }}
+{{ partial "schema.html" . }}
 {{- end }}
 <meta name="theme-color" content="#14382c">
 <link rel="icon" href="{{ "favicon.svg" | absURL }}" type="image/svg+xml">
