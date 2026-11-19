@@ -15,7 +15,7 @@ sections:
     alt: Porträt von Lars Glade
     caption: Lars Glade, Gründer. 25 Jahre kommerzielle Erfahrung in der dänischen Telekommunikation und Versicherung.
   paragraphs:
-  - 'Ich habe drei Jahrzehnte auf der kommerziellen Seite der dänischen Telekommunikation und Versicherung verbracht: Sonofon, Telenor, Telia, Fullrate, YouSee und Topdanmark. Immer mit Verantwortung für Zahlen, die geliefert werden mussten, nicht nur für Empfehlungen, die abzugeben waren.'
+  - 'Ich habe drei Jahrzehnte in der dänischen Telekommunikation und Versicherung verbracht: Sonofon, Telenor, Telia, Fullrate, YouSee und Topdanmark. Immer mit Verantwortung für Zahlen, die geliefert werden mussten, nicht nur für Empfehlungen, die abzugeben waren.'
   - 'Daraus habe ich eine Grundhaltung gewonnen: Die meisten kommerziellen Probleme sind keine Ideenprobleme. Es sind Messprobleme. Wird die Wirkung gegen eine Kontrollgruppe gemessen, verschwindet die Hälfte der Initiativen von selbst, und der Rest lässt sich mit Ruhe skalieren.'
   - Heute führe ich Glade Advisory Group und arbeite mit KI als kommerzieller Disziplin, unter anderem als Chief Commercial Strategist beim Aufbau eines nordischen KI-Implementierungshauses. Ich nutze KI täglich als Analysepartner und baue eigene Werkzeuge.
   - Ich schreibe Analysen in der dänischen Tagespresse und bin seit 16 Jahren Laienrichter.

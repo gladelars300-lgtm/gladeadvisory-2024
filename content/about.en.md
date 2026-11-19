@@ -15,7 +15,7 @@ sections:
     alt: Portrait of Lars Glade
     caption: Lars Glade, founder. 25 years of commercial experience in Danish telecoms and insurance.
   paragraphs:
-  - 'I have spent three decades on the commercial side of Danish telecoms and insurance: Sonofon, Telenor, Telia, Fullrate, YouSee and Topdanmark. Always responsible for numbers that had to be delivered, not just recommendations to hand over.'
+  - 'I have spent three decades in Danish telecoms and insurance: Sonofon, Telenor, Telia, Fullrate, YouSee and Topdanmark. Always responsible for numbers that had to be delivered, not just recommendations to hand over.'
   - 'That has given me one conviction: most commercial problems are not idea problems. They are measurement problems. When impact is measured against a control group, half the initiatives disappear by themselves, and the rest can be scaled with confidence.'
   - Today I run Glade Advisory Group and work with AI as a commercial discipline, including as Chief Commercial Strategist in building a Nordic AI implementation house. I use AI daily as an analytical partner and build my own tools.
   - I write analysis in the Danish national press and have served as a lay judge for 16 years.

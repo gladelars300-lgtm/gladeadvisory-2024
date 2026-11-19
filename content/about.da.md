@@ -15,7 +15,7 @@ sections:
     alt: Portræt af Lars Glade
     caption: Lars Glade, stifter. 25 års kommerciel erfaring i dansk telekom og forsikring.
   paragraphs:
-  - 'Jeg har brugt tre årtier på den kommercielle side af dansk telekom og forsikring: Sonofon, Telenor, Telia, Fullrate, YouSee og Topdanmark. Altid med ansvar for tal, der skulle leveres, ikke kun anbefalinger, der skulle afleveres.'
+  - 'Jeg har brugt tre årtier i dansk telekom og forsikring: Sonofon, Telenor, Telia, Fullrate, YouSee og Topdanmark. Altid med ansvar for tal, der skulle leveres, ikke kun anbefalinger, der skulle afleveres.'
   - 'Det har givet mig én grundholdning: De fleste kommercielle problemer er ikke idéproblemer. De er målingsproblemer. Når effekten opgøres mod en kontrolgruppe, forsvinder halvdelen af initiativerne af sig selv, og resten kan skaleres med ro i maven.'
   - I dag driver jeg Glade Advisory Group og arbejder med AI som kommerciel disciplin, blandt andet som Chief Commercial Strategist i opbygningen af et nordisk AI-implementeringshus. Jeg bruger AI dagligt som analysepartner og bygger mine egne værktøjer.
   - Jeg skriver analyser i dansk dagspresse og har været lægdommer i 16 år.
