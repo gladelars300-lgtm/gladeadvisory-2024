@@ -31,6 +31,23 @@ sections:
     title: 'Sonofon: Favoritnummer'
     text: 'En asymmetrisk attack mot TDC:s fasta telefoni: 49 DKK i månaden mot cirka 350 DKK i kvartalet. Under samma period steg TDC:s kundbortfall i fast telefoni från cirka 12 % till 17–18 %.'
 - type: cases
+  id: ai-case
+  eyebrow: 'Största uppdraget 2026'
+  heading: 'AI + en skarp hjärna'
+  lead: 'Nio månader, cirka 500 timmar och 26 versioner av styrelsematerialet: ett nordiskt marknadsinträde byggt av en strateg med AI. Kunden är anonymiserad.'
+  items:
+  - context: 'Europeiskt SAP-implementeringshus · nordiskt marknadsinträde · 2026'
+    title: 'Från noll SAP-kunskap till en beslutsklar nordisk verksamhet'
+    text: 'Uppdraget kom från den blivande nordiska vd:n: finns det en marknad, och hur ska enheten byggas, säljas och bemannas? Arbetet gick från marknadsanalys och business case via beslutsunderlag till koncernledningen till 90-dagarsplan, avtal, webbplats och uppstartsworkshop – cirka 190 mejl med material på danska, engelska och tyska. Båda målen nåddes: vd:n anställdes och uppstartsplanen godkändes. Sedan köptes moderbolaget upp, och lanseringen pausades.'
+    insight: 'Iteration blir billig. Omdöme blir värdefullt.'
+    files:
+    - file: ai-og-en-skarp-hjerne-case.pdf
+      label: 'Caset i 12 bilder (danska)'
+    - file: opstartsworkshop-ny-forretning.pdf
+      label: 'Tvådagars uppstartsworkshop, mall (danska)'
+    - file: customer-journey-sap-presales.pdf
+      label: 'Customer Journey: från första mötet till vunnet anbud (danska)'
+- type: cases
   id: featured
   tone: surface
   eyebrow: Utvalda underlag

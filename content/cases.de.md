@@ -31,6 +31,23 @@ sections:
     title: 'Sonofon: Lieblingsnummer'
     text: 'Ein asymmetrischer Angriff auf das Festnetz von TDC: 49 DKK im Monat gegen rund 350 DKK im Quartal. Im selben Zeitraum stieg die Festnetz-Abwanderung bei TDC von rund 12 % auf 17–18 %.'
 - type: cases
+  id: ai-case
+  eyebrow: 'Größtes Mandat 2026'
+  heading: 'KI + ein scharfer Verstand'
+  lead: 'Neun Monate, rund 500 Stunden und 26 Versionen der Vorstandsunterlagen: ein nordischer Markteintritt, aufgebaut von einem Strategen mit KI. Der Kunde ist anonymisiert.'
+  items:
+  - context: 'Europäisches SAP-Implementierungshaus · nordischer Markteintritt · 2026'
+    title: 'Von null SAP-Wissen zum entscheidungsreifen nordischen Geschäft'
+    text: 'Der Auftrag kam vom künftigen nordischen Geschäftsführer: Gibt es einen Markt, und wie wird die Einheit aufgebaut, verkauft und besetzt? Die Arbeit reichte von Marktanalyse und Business Case über Entscheidungsunterlagen für die Konzernleitung bis zu 90-Tage-Plan, Verträgen, Website und Start-Workshop – rund 190 E-Mails mit Material auf Dänisch, Englisch und Deutsch. Beide Ziele wurden erreicht: Der Geschäftsführer wurde eingestellt, und der Startplan wurde genehmigt. Dann wurde die Muttergesellschaft übernommen, und der Start wurde zurückgestellt.'
+    insight: 'Iteration wird billig. Urteilskraft wird wertvoll.'
+    files:
+    - file: ai-og-en-skarp-hjerne-case.pdf
+      label: 'Der Case in 12 Folien (Dänisch)'
+    - file: opstartsworkshop-ny-forretning.pdf
+      label: 'Zweitägiger Start-Workshop, Vorlage (Dänisch)'
+    - file: customer-journey-sap-presales.pdf
+      label: 'Customer Journey: vom ersten Treffen zum gewonnenen Angebot (Dänisch)'
+- type: cases
   id: featured
   tone: surface
   eyebrow: Ausgewählte Papiere

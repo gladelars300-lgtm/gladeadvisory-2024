@@ -31,6 +31,23 @@ sections:
     title: 'Sonofon: Yndlingsnummer'
     text: 'Et asymmetrisk angreb på TDC''s fastnet: 49 kr. om måneden mod ca. 350 kr. i kvartalet. I samme periode steg TDC''s fastnet-churn fra ca. 12 % til 17–18 %.'
 - type: cases
+  id: ai-case
+  eyebrow: 'Største opdrag i 2026'
+  heading: 'AI + en skarp hjerne'
+  lead: 'Ni måneder, ca. 500 timer og 26 versioner af bestyrelsesmaterialet: en nordisk markedsindgang bygget af én strateg med AI. Kunden er anonymiseret.'
+  items:
+  - context: 'Europæisk SAP-implementeringshus · nordisk markedsindgang · 2026'
+    title: 'Fra nul SAP-viden til beslutningsklar nordisk forretning'
+    text: 'Opgaven kom fra den kommende nordiske direktør: Er der et marked, og hvordan bygges, sælges og bemandes enheden? Forløbet gik fra markedsanalyse og business case over beslutningsmateriale til koncernledelsen til 90-dagsplan, kontrakter, hjemmeside og opstartsworkshop – ca. 190 mails med materialer på dansk, engelsk og tysk. Begge mål blev nået: direktøren blev ansat, og opstartsplanen blev accepteret. Så blev moderselskabet opkøbt, og lanceringen blev sat i bero.'
+    insight: 'Iteration bliver billig. Dømmekraft bliver værdifuld.'
+    files:
+    - file: ai-og-en-skarp-hjerne-case.pdf
+      label: 'Casen i 12 slides'
+    - file: opstartsworkshop-ny-forretning.pdf
+      label: '2-dages opstartsworkshop (skabelon)'
+    - file: customer-journey-sap-presales.pdf
+      label: 'Customer Journey: fra første møde til vundet bud'
+- type: cases
   id: first-principles
   eyebrow: First principles i praksis
   heading: Otte brancher, samme metode

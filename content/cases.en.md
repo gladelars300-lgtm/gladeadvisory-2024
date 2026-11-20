@@ -31,6 +31,23 @@ sections:
     title: 'Sonofon: Favourite Number'
     text: 'An asymmetric attack on TDC''s landline business: DKK 49 a month against about DKK 350 a quarter. Over the same period TDC''s landline churn rose from about 12% to 17–18%.'
 - type: cases
+  id: ai-case
+  eyebrow: 'Largest engagement of 2026'
+  heading: 'AI + a sharp mind'
+  lead: 'Nine months, about 500 hours and 26 versions of the board material: a Nordic market entry built by one strategist with AI. The client is anonymised.'
+  items:
+  - context: 'European SAP implementation group · Nordic market entry · 2026'
+    title: 'From zero SAP knowledge to a decision-ready Nordic business'
+    text: 'The assignment came from the incoming Nordic managing director: is there a market, and how should the unit be built, sold and staffed? The work ran from market analysis and business case through board material for group management to a 90-day plan, contracts, website and start-up workshop – about 190 emails of material in Danish, English and German. Both goals were met: the managing director was hired and the start-up plan was approved. Then the parent company was acquired, and the launch was put on hold.'
+    insight: 'Iteration becomes cheap. Judgment becomes valuable.'
+    files:
+    - file: ai-og-en-skarp-hjerne-case.pdf
+      label: 'The case in 12 slides (Danish)'
+    - file: opstartsworkshop-ny-forretning.pdf
+      label: 'Two-day start-up workshop, template (Danish)'
+    - file: customer-journey-sap-presales.pdf
+      label: 'Customer Journey: from first meeting to winning the bid (Danish)'
+- type: cases
   id: first-principles
   eyebrow: First principles in practice
   heading: Eight industries, one method
