@@ -38,11 +38,11 @@ sections:
   items:
   - context: 'European SAP implementation group · Nordic market entry · 2026'
     title: 'From zero SAP knowledge to a decision-ready Nordic business'
-    text: 'The assignment came from the incoming Nordic managing director: is there a market, and how should the unit be built, sold and staffed? The work ran from market analysis and business case through board material for group management to a 90-day plan, contracts, website and start-up workshop – about 190 emails of material in Danish, English and German. Both goals were met: the managing director was hired and the start-up plan was approved. Then the parent company was acquired, and the launch was put on hold.'
+    text: 'The assignment came from the incoming Nordic managing director: is there a market, and how should the unit be built, sold and staffed? The work ran from market analysis and business case through board material for group management to a 90-day plan, contracts, website and start-up workshop – about 190 emails of material in Danish, English and German. Both goals were met: the managing director was hired and the start-up plan was approved. After approval, headquarters turned the business case into an operational-readiness plan with eleven workstreams, and the work continued into November. Then the parent company was acquired, and the launch was put on hold.'
     insight: 'Iteration becomes cheap. Judgment becomes valuable.'
     files:
     - file: ai-og-en-skarp-hjerne-case.pdf
-      label: 'The case in 12 slides (Danish)'
+      label: 'The case in 13 slides (Danish)'
     - file: opstartsworkshop-ny-forretning.pdf
       label: 'Two-day start-up workshop, template (Danish)'
     - file: customer-journey-sap-presales.pdf

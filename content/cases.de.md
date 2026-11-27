@@ -38,11 +38,11 @@ sections:
   items:
   - context: 'Europäisches SAP-Implementierungshaus · nordischer Markteintritt · 2026'
     title: 'Von null SAP-Wissen zum entscheidungsreifen nordischen Geschäft'
-    text: 'Der Auftrag kam vom künftigen nordischen Geschäftsführer: Gibt es einen Markt, und wie wird die Einheit aufgebaut, verkauft und besetzt? Die Arbeit reichte von Marktanalyse und Business Case über Entscheidungsunterlagen für die Konzernleitung bis zu 90-Tage-Plan, Verträgen, Website und Start-Workshop – rund 190 E-Mails mit Material auf Dänisch, Englisch und Deutsch. Beide Ziele wurden erreicht: Der Geschäftsführer wurde eingestellt, und der Startplan wurde genehmigt. Dann wurde die Muttergesellschaft übernommen, und der Start wurde zurückgestellt.'
+    text: 'Der Auftrag kam vom künftigen nordischen Geschäftsführer: Gibt es einen Markt, und wie wird die Einheit aufgebaut, verkauft und besetzt? Die Arbeit reichte von Marktanalyse und Business Case über Entscheidungsunterlagen für die Konzernleitung bis zu 90-Tage-Plan, Verträgen, Website und Start-Workshop – rund 190 E-Mails mit Material auf Dänisch, Englisch und Deutsch. Beide Ziele wurden erreicht: Der Geschäftsführer wurde eingestellt, und der Startplan wurde genehmigt. Nach der Genehmigung setzte die Zentrale den Business Case in einen Plan zur operativen Bereitschaft mit elf Arbeitspaketen um; die Arbeit lief bis November. Dann wurde die Muttergesellschaft übernommen, und der Start wurde zurückgestellt.'
     insight: 'Iteration wird billig. Urteilskraft wird wertvoll.'
     files:
     - file: ai-og-en-skarp-hjerne-case.pdf
-      label: 'Der Case in 12 Folien (Dänisch)'
+      label: 'Der Case in 13 Folien (Dänisch)'
     - file: opstartsworkshop-ny-forretning.pdf
       label: 'Zweitägiger Start-Workshop, Vorlage (Dänisch)'
     - file: customer-journey-sap-presales.pdf

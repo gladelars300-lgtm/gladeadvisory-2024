@@ -38,11 +38,11 @@ sections:
   items:
   - context: 'Europeiskt SAP-implementeringshus · nordiskt marknadsinträde · 2026'
     title: 'Från noll SAP-kunskap till en beslutsklar nordisk verksamhet'
-    text: 'Uppdraget kom från den blivande nordiska vd:n: finns det en marknad, och hur ska enheten byggas, säljas och bemannas? Arbetet gick från marknadsanalys och business case via beslutsunderlag till koncernledningen till 90-dagarsplan, avtal, webbplats och uppstartsworkshop – cirka 190 mejl med material på danska, engelska och tyska. Båda målen nåddes: vd:n anställdes och uppstartsplanen godkändes. Sedan köptes moderbolaget upp, och lanseringen pausades.'
+    text: 'Uppdraget kom från den blivande nordiska vd:n: finns det en marknad, och hur ska enheten byggas, säljas och bemannas? Arbetet gick från marknadsanalys och business case via beslutsunderlag till koncernledningen till 90-dagarsplan, avtal, webbplats och uppstartsworkshop – cirka 190 mejl med material på danska, engelska och tyska. Båda målen nåddes: vd:n anställdes och uppstartsplanen godkändes. Efter godkännandet omsatte huvudkontoret business caset i en plan för operativ beredskap med elva arbetsspår, och arbetet pågick in i november. Sedan köptes moderbolaget upp, och lanseringen pausades.'
     insight: 'Iteration blir billig. Omdöme blir värdefullt.'
     files:
     - file: ai-og-en-skarp-hjerne-case.pdf
-      label: 'Caset i 12 bilder (danska)'
+      label: 'Caset i 13 bilder (danska)'
     - file: opstartsworkshop-ny-forretning.pdf
       label: 'Tvådagars uppstartsworkshop, mall (danska)'
     - file: customer-journey-sap-presales.pdf
